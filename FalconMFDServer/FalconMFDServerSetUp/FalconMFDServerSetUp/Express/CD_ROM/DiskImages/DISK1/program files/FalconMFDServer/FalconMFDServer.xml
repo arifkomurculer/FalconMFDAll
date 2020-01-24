@@ -1,0 +1,299 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FalconMFDServer
+</name>
+</assembly>
+<members>
+<member name="T:FalconMFDServer.clsReadMemoryThreadFlightDataNav">
+ <summary>
+ Air Break
+ Gear Position
+ Speed
+ Altitute
+ Head
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:FalconMFDServer.clsReadMemoryThreadFlightDataNavMap">
+ <summary>
+ X Coordinate
+ Y Coordinate
+ Heading
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.MouseMoveRelative(System.Int32,System.Int32)">
+ <summary>
+Moves the mouse to the given relative (x,y) coordinates.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.MouseMoveAbsolute(System.Int32,System.Int32)">
+ <summary>
+Moves the mouse to the given absolute (x,y) coordinates.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.MouseWheelMove(System.Int32)">
+ <summary>
+Moves the mouse wheel by given amount.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.LeftUp">
+ <summary>
+Sends a left mouse button up event at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.RightUp">
+ <summary>
+Sends a right mouse button up event at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.MiddleUp">
+ <summary>
+Sends a middle mouse button up event at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.MiddleDown">
+ <summary>
+Sends a middle mouse button down event at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.RightDown">
+ <summary>
+Sends a right mouse button down event at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.LeftDown">
+ <summary>
+Sends a left mouse button down event at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.MiddleDoubleClick">
+ <summary>
+Sends a middle mouse button double click at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.RightDoubleClick">
+ <summary>
+Sends a right mouse button double click at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.LeftDoubleClick">
+ <summary>
+Sends a left mouse button double click at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.RightClick">
+ <summary>
+Sends a right mouse button click at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.LeftClick">
+ <summary>
+Sends a left mouse button click at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.KeyAndMouseUtils.MiddleClick">
+ <summary>
+Sends a middle mouse button click at the current cursor position.
+ </summary>
+</member>
+<member name="M:FalconMFDServer.frmServer.fnkStarStopSagMFD(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="prStartStop"> Başlatmak veya Durdurmak İçin Kullanılır </param>
+ <remarks></remarks>
+</member>
+<member name="M:FalconMFDServer.frmServer.fnkReadCallSign_INI_File(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="prINIPath"> "..\" </param>
+ <param name="prCallSign">"KOMURCU.ini"</param>
+ <remarks></remarks>
+</member>
+<member name="T:FalconMFDServer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.amblem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn14">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn17">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn18">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn23">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn26">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn28">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.btn9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.info">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.mfd16_bit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:FalconMFDServer.My.Resources.Resources.Untitled_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

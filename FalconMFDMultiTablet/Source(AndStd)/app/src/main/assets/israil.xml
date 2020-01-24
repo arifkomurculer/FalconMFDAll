@@ -1,0 +1,1287 @@
+<AirportData>
+          <PK>16</PK>
+          <Name>ABU RUDIES</Name>
+          <XCoor>653</XCoor>
+          <YCoor>1260</YCoor>
+          <Twr>NA / 123.5</Twr>
+          <TcnCh>089 X (RAS NASRANI) R-305 76DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>150</Elv>
+          <GPSCoor>N 29° 08.995'-E 32° 56.281'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>17</PK>
+          <Name>ABU SUWAYR</Name>
+          <XCoor>415</XCoor>
+          <YCoor>905</YCoor>
+          <Twr>NA / 121.45</Twr>
+          <TcnCh>077 X (PORT SAID) R-195 33DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>70</Elv>
+          <GPSCoor>N 30° 44.910'-E 31° 44.954'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>15</PK>
+          <Name>AKROTIRI</Name>
+          <XCoor>610</XCoor>
+          <YCoor>80</YCoor>
+          <Twr>339.85 / 128</Twr>
+          <TcnCh>107 X</TcnCh>
+          <TcnRng>200</TcnRng>
+          <Ils>109.70 (29)</Ils>
+          <Rwy>11 / 29</Rwy>
+          <Elv>60</Elv>
+          <GPSCoor>N 34° 26.915'-E 32° 53.224'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>82</PK>
+          <Name>AL BIR (Strip)</Name>
+          <XCoor>1255</XCoor>
+          <YCoor>1260</YCoor>
+          <Twr>299.3 / NA</Twr>
+          <TcnCh>104 X (PRINCE SULTAN BIN A.)  R-310 39DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>2380</Elv>
+          <GPSCoor>N 29° 08.457'-E 36° 02.889'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>64</PK>
+          <Name>AL GADHAF (Strip)</Name>
+          <XCoor>1420</XCoor>
+          <YCoor>680</YCoor>
+          <Twr>254.1 / NA</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN)  R-105 52DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>1660</Elv>
+          <GPSCoor>N 31° 44.722'-E 37° 05.436'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>18</PK>
+          <Name>AL MANSURHA</Name>
+          <XCoor>290</XCoor>
+          <YCoor>800</YCoor>
+          <Twr>NA / 122.1</Twr>
+          <TcnCh>077 X (PORT SAID) R-266 43DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20 L / R</Rwy>
+          <Elv>10</Elv>
+          <GPSCoor>N 31° 12.930'-E 31° 05.904'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>19</PK>
+          <Name>AL MANZILAH</Name>
+          <XCoor>398</XCoor>
+          <YCoor>808</YCoor>
+          <Twr>NA / 121.6</Twr>
+          <TcnCh>077 X (PORT SAID) R-246 15DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>20</Elv>
+          <GPSCoor>N 31° 10.236'-E 31° 39.868'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>20</PK>
+          <Name>AL MINYA</Name>
+          <XCoor>185</XCoor>
+          <YCoor>1420</YCoor>
+          <Twr>NA / 123.3</Twr>
+          <TcnCh>124 X (AYSUT) R-357 53DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>540</Elv>
+          <GPSCoor>N 28° 25.349'-E 30° 31.500'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>65</PK>
+          <Name>AL QANTRANAH (Strip)</Name>
+          <XCoor>1260</XCoor>
+          <YCoor>780</YCoor>
+          <Twr>255.7 / NA</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN)  R-171 41DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>2700</Elv>
+          <GPSCoor>N 31° 18.078'-E 36° 11.848'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>88</PK>
+          <Name>AL QUSAYR</Name>
+          <XCoor>1360</XCoor>
+          <YCoor>70</YCoor>
+          <Twr>NA / 127.3</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-009 69DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>1710</Elv>
+          <GPSCoor>N 34° 29.609'-E 36° 59.810'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>66</PK>
+          <Name>AL QUWAYHRA (Strip)</Name>
+          <XCoor>1105</XCoor>
+          <YCoor>1070</YCoor>
+          <Twr>256.4 / NA</Twr>
+          <TcnCh>078 X (AQABA INT)  R-068 25DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>2730</Elv>
+          <GPSCoor>N 30° 00.186'-E 35° 18.363'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>21</PK>
+          <Name>AL RHAMANIYA</Name>
+          <XCoor>129</XCoor>
+          <YCoor>809</YCoor>
+          <Twr>NA / 123.4</Twr>
+          <TcnCh>077 X (PORT SAID) R-266 86DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>0</Elv>
+          <GPSCoor>N 31° 10.236'-E 30° 15.479'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>22</PK>
+          <Name>AL ZAQAZIQ</Name>
+          <XCoor>330</XCoor>
+          <YCoor>890</YCoor>
+          <Twr>NA / 121.8</Twr>
+          <TcnCh>077 X (PORT SAID) R-226 43DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>14 / 32</Rwy>
+          <Elv>20</Elv>
+          <GPSCoor>N 30° 46.527'-E 31° 18.650'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>78</PK>
+          <Name>ALAT</Name>
+          <XCoor>1170</XCoor>
+          <YCoor>165</YCoor>
+          <Twr>NA / 119.3</Twr>
+          <TcnCh>109 X (WUJAH AL HAJAR) R-141 5DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>16 / 34</Rwy>
+          <Elv>1930</Elv>
+          <GPSCoor>N 34° 04.283'-E 35° 55.126'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>23</PK>
+          <Name>ALISMAYLIA</Name>
+          <XCoor>435</XCoor>
+          <YCoor>905</YCoor>
+          <Twr>352.7 / 118.55</Twr>
+          <TcnCh>077 X (PORT SAID) R-185 32DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20 L / R</Rwy>
+          <Elv>40</Elv>
+          <GPSCoor>N 30° 44.910'-E 31° 51.224'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>89</PK>
+          <Name>AN NASARIYAH</Name>
+          <XCoor>1390</XCoor>
+          <YCoor>193</YCoor>
+          <Twr>NA / 127.7</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-030 39DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>4820</Elv>
+          <GPSCoor>N 33° 56.200'-E 37° 07.913'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>67</PK>
+          <Name>AQABA INT</Name>
+          <XCoor>1020</XCoor>
+          <YCoor>1102</YCoor>
+          <Twr>NA / 118.05</Twr>
+          <TcnCh>078 X</TcnCh>
+          <TcnRng>130</TcnRng>
+          <Ils>110.10 (05L)</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>150</Elv>
+          <GPSCoor>N 29° 51.025'-E 34° 51.381'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>24</PK>
+          <Name>AS SALIHIYA</Name>
+          <XCoor>430</XCoor>
+          <YCoor>835</YCoor>
+          <Twr>NA / 121.35</Twr>
+          <TcnCh>077 X (PORT SAID) R-200 14DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>0</Elv>
+          <GPSCoor>N 31° 03.231'-E 31° 49.776'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>90</PK>
+          <Name>AS SUWAYDA WEST</Name>
+          <XCoor>1292</XCoor>
+          <YCoor>455</YCoor>
+          <Twr>NA / 126.4</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-193 37DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>2100</Elv>
+          <GPSCoor>N 32° 45.612'-E 36° 29.136'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>25</PK>
+          <Name>AYSUT</Name>
+          <XCoor>195</XCoor>
+          <YCoor>1618</YCoor>
+          <Twr>NA / 118.15</Twr>
+          <TcnCh>124 X</TcnCh>
+          <TcnRng>200</TcnRng>
+          <Ils>111.30 (29)</Ils>
+          <Rwy>11 / 29</Rwy>
+          <Elv>690</Elv>
+          <GPSCoor>N 27° 32.542'-E 30° 34.068'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>68</PK>
+          <Name>AZRAQ (Strip)</Name>
+          <XCoor>1295</XCoor>
+          <YCoor>610</YCoor>
+          <Twr>252.5 / NA</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN)  R-071 18DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>2040</Elv>
+          <GPSCoor>N 32° 04.121'-E 36° 27.603'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>26</PK>
+          <Name>BALUZA</Name>
+          <XCoor>520</XCoor>
+          <YCoor>810</YCoor>
+          <Twr>NA / 120.5</Twr>
+          <TcnCh>077 X (PORT SAID) R-106 21DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>10</Elv>
+          <GPSCoor>N 31° 10.236'-E 32° 18.913'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>1</PK>
+          <Name>BEN GURION</Name>
+          <XCoor>1000</XCoor>
+          <YCoor>615</YCoor>
+          <Twr>331.00 / 132.10</Twr>
+          <TcnCh>082 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.30 (14L)-111.90 (32R)-110.90 (14R)-108.70 (32L)</Ils>
+          <Rwy>14 / 32 L / R</Rwy>
+          <Elv>150</Elv>
+          <GPSCoor>N 32° 02.504'-E 34° 53.032'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>27</PK>
+          <Name>BEN SUEF</Name>
+          <XCoor>195</XCoor>
+          <YCoor>1160</YCoor>
+          <Twr>289.4 / 127.1</Twr>
+          <TcnCh>072 X (CAIRO INT) R-215 50DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>70</Elv>
+          <GPSCoor>N 29° 35.938'-E 30° 36.501'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>28</PK>
+          <Name>BILBAYS</Name>
+          <XCoor>330</XCoor>
+          <YCoor>950</YCoor>
+          <Twr>NA / 122</Twr>
+          <TcnCh>072 X (CAIRO INT)  R-025 17DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>230</Elv>
+          <GPSCoor>N 30° 32.517'-E 31° 18.396'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>29</PK>
+          <Name>BILBAYS 2</Name>
+          <XCoor>345</XCoor>
+          <YCoor>945</YCoor>
+          <Twr>NA / 122.05</Twr>
+          <TcnCh>072 X (CAIRO INT)  R-032 20DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>14 / 32</Rwy>
+          <Elv>230</Elv>
+          <GPSCoor>N 30° 33.594'-E 31° 22.170'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>30</PK>
+          <Name>BIR HASSANA</Name>
+          <XCoor>685</XCoor>
+          <YCoor>970</YCoor>
+          <Twr>NA / 119.75</Twr>
+          <TcnCh>084 X (EL ARISH)  R-209 49DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>1390</Elv>
+          <GPSCoor>N 30° 27.128'-E 33° 08.312'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>31</PK>
+          <Name>BIR JIF JAFFAR</Name>
+          <XCoor>640</XCoor>
+          <YCoor>945</YCoor>
+          <Twr>NA / 119.65</Twr>
+          <TcnCh>084 X (EL ARISH)  R-225 51DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>1180</Elv>
+          <GPSCoor>N 30° 33.594'-E 32° 54.784'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>32</PK>
+          <Name>BIRMA</Name>
+          <XCoor>193</XCoor>
+          <YCoor>834</YCoor>
+          <Twr>NA / 122.9</Twr>
+          <TcnCh>072 X (CAIRO INT)  R-327 55DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>20</Elv>
+          <GPSCoor>N 31° 03.231'-E 30° 35.555'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>33</PK>
+          <Name>CAIRO ALMAZA</Name>
+          <XCoor>255</XCoor>
+          <YCoor>1015</YCoor>
+          <Twr>263 / 132.9</Twr>
+          <TcnCh>110 X</TcnCh>
+          <TcnRng>40</TcnRng>
+          <Ils>109.30 (30)</Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>300</Elv>
+          <GPSCoor>N 30° 14.735'-E 30° 55.000'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>34</PK>
+          <Name>CAIRO INT</Name>
+          <XCoor>305</XCoor>
+          <YCoor>1005</YCoor>
+          <Twr>NA / 119.55</Twr>
+          <TcnCh>072 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>110.90 (05L)-110.30 (23R)-108.90 (05R)-108.70 (23L)</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>770</Elv>
+          <GPSCoor>N 30° 16.890'-E 31° 10.005'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>35</PK>
+          <Name>CAIRO WEST</Name>
+          <XCoor>170</XCoor>
+          <YCoor>1005</YCoor>
+          <Twr>274 / 131.2</Twr>
+          <TcnCh>114 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>108.90 (36)</Ils>
+          <Rwy>01 / 19-18 / 36</Rwy>
+          <Elv>440</Elv>
+          <GPSCoor>N 30° 17.429'-E 30° 29.451'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>91</PK>
+          <Name>DAMASCUS INT</Name>
+          <XCoor>1325</XCoor>
+          <YCoor>320</YCoor>
+          <Twr>NA / 118.5</Twr>
+          <TcnCh>106 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>109.90 (16R)-111.10 (34R)</Ils>
+          <Rwy>16 / 34 L / R</Rwy>
+          <Elv>1970</Elv>
+          <GPSCoor>N 33° 21.714'-E 36° 41.663'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>92</PK>
+          <Name>DUMYAR</Name>
+          <XCoor>1380</XCoor>
+          <YCoor>260</YCoor>
+          <Twr>NA / 126.9</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-044 23DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>2610</Elv>
+          <GPSCoor>N 33° 38.419'-E 37° 01.812'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>2</PK>
+          <Name>EILAT</Name>
+          <XCoor>1005</XCoor>
+          <YCoor>1105</YCoor>
+          <Twr>NA / 119</Twr>
+          <TcnCh>057 X</TcnCh>
+          <TcnRng>30</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>30</Elv>
+          <GPSCoor>N 29° 50.487'-E 34° 48.246'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>36</PK>
+          <Name>EL ARISH</Name>
+          <XCoor>772</XCoor>
+          <YCoor>810</YCoor>
+          <Twr>NA / 121</Twr>
+          <TcnCh>084 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>320</Elv>
+          <GPSCoor>N 31° 09.697'-E 33° 38.240'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>37</PK>
+          <Name>EL GORA</Name>
+          <XCoor>850</XCoor>
+          <YCoor>802</YCoor>
+          <Twr>NA / 118.2</Twr>
+          <TcnCh>084 X (EL ARISH)  R-084 21DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>330</Elv>
+          <GPSCoor>N 31° 11.853'-E 34° 02.271'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>38</PK>
+          <Name>EL TCR</Name>
+          <XCoor>755</XCoor>
+          <YCoor>1385</YCoor>
+          <Twr>NA / 121.3</Twr>
+          <TcnCh>089 X (RAS NASRANI)  R-287 36DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>14 / 32</Rwy>
+          <Elv>340</Elv>
+          <GPSCoor>N 28° 35.587'-E 33° 26.496'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>39</PK>
+          <Name>EMBABA</Name>
+          <XCoor>240</XCoor>
+          <YCoor>995</YCoor>
+          <Twr>NA / 122.6</Twr>
+          <TcnCh>072 X (CAIRO INT)  R-279 17DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>50</Elv>
+          <GPSCoor>N 30° 19.584'-E 30° 50.073'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>40</PK>
+          <Name>FAID</Name>
+          <XCoor>463</XCoor>
+          <YCoor>945</YCoor>
+          <Twr>NA / 120.6</Twr>
+          <TcnCh>077 X (PORT SAID)  R-174 44DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>30</Elv>
+          <GPSCoor>N 30° 33.055'-E 31° 59.702'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>41</PK>
+          <Name>GEBEL EL BASUR</Name>
+          <XCoor>110</XCoor>
+          <YCoor>910</YCoor>
+          <Twr>NA / 123.6</Twr>
+          <TcnCh>072 X (CAIRO INT)  R-297 59DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>70</Elv>
+          <GPSCoor>N 30° 43.294'-E 30° 09.641'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>83</PK>
+          <Name>GURIAT</Name>
+          <XCoor>1462</XCoor>
+          <YCoor>753</YCoor>
+          <Twr>NA / 122.8</Twr>
+          <TcnCh>094 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>110.90 (26)</Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>1820</Elv>
+          <GPSCoor>N 31° 24.785'-E 37° 19.879'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>59</PK>
+          <Name>H 3</Name>
+          <XCoor>2000</XCoor>
+          <YCoor>432</YCoor>
+          <Twr>NA / 126.1</Twr>
+          <TcnCh>-</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>2520</Elv>
+          <GPSCoor>N 32° 51.539'-E 40° 16.681'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>60</PK>
+          <Name>H 3 (Strip)</Name>
+          <XCoor>1895</XCoor>
+          <YCoor>420</YCoor>
+          <Twr>372.3 / NA</Twr>
+          <TcnCh>-</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>2610</Elv>
+          <GPSCoor>N 32° 55.016'-E 39° 43.723'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>61</PK>
+          <Name>H 3 NORTH WEST</Name>
+          <XCoor>1965</XCoor>
+          <YCoor>390</YCoor>
+          <Twr>NA / 126.3</Twr>
+          <TcnCh>-</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>16 / 34</Rwy>
+          <Elv>2500</Elv>
+          <GPSCoor>N 33° 03.932'-E 40° 06.612'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>62</PK>
+          <Name>H 3 SOUTH</Name>
+          <XCoor>1958</XCoor>
+          <YCoor>460</YCoor>
+          <Twr>NA / 126.25</Twr>
+          <TcnCh>-</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>16 / 34</Rwy>
+          <Elv>2620</Elv>
+          <GPSCoor>N 32° 43.995'-E 40° 05.523'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>69</PK>
+          <Name>H 4</Name>
+          <XCoor>1670</XCoor>
+          <YCoor>490</YCoor>
+          <Twr>NA / 125.7</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN)  R-072 125DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20 L / R</Rwy>
+          <Elv>2180</Elv>
+          <GPSCoor>N 32° 36.990'-E 38° 30.657'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>3</PK>
+          <Name>HATZERIM</Name>
+          <XCoor>945</XCoor>
+          <YCoor>770</YCoor>
+          <Twr>341 / 131.15</Twr>
+          <TcnCh>100 X</TcnCh>
+          <TcnRng>30</TcnRng>
+          <Ils>111.50 (14L)</Ils>
+          <Rwy>14 / 32 L / R</Rwy>
+          <Elv>580</Elv>
+          <GPSCoor>N 31° 21.013'-E 34° 32.362'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>4</PK>
+          <Name>HATZOR</Name>
+          <XCoor>970</XCoor>
+          <YCoor>675</YCoor>
+          <Twr>342.05 / 125.75</Twr>
+          <TcnCh>117 X</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>109.30 (23R)</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>260</Elv>
+          <GPSCoor>N 31° 46.877'-E 34° 42.620'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>70</PK>
+          <Name>HIGHWAY H (Strip)</Name>
+          <XCoor>1255</XCoor>
+          <YCoor>660</YCoor>
+          <Twr>251.25 / NA</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN)  R-143 10DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>2620</Elv>
+          <GPSCoor>N 31° 50.350'-E 36° 13.517'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>43</PK>
+          <Name>HULWAN</Name>
+          <XCoor>280</XCoor>
+          <YCoor>1065</YCoor>
+          <Twr>NA / 122.5</Twr>
+          <TcnCh>072 X (CAIRO INT)  R-202 17DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>350</Elv>
+          <GPSCoor>N 30° 01.263'-E 31° 02.283'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>42</PK>
+          <Name>HURGHADA</Name>
+          <XCoor>770</XCoor>
+          <YCoor>1610</YCoor>
+          <Twr>NA / 119.6</Twr>
+          <TcnCh>112 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>110.30 (05L)</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>180</Elv>
+          <GPSCoor>N 27° 34.697'-E 33° 28.560'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>44</PK>
+          <Name>INSHAS</Name>
+          <XCoor>310</XCoor>
+          <YCoor>945</YCoor>
+          <Twr>NA / 122.2</Twr>
+          <TcnCh>072 X (CAIRO INT)  R-004 16DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>110</Elv>
+          <GPSCoor>N 30° 33.055'-E 31° 11.523'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>45</PK>
+          <Name>JINKALIS NEW</Name>
+          <XCoor>50</XCoor>
+          <YCoor>831</YCoor>
+          <Twr>283 / 135.85</Twr>
+          <TcnCh>114 X (CAIRO WEST) R-325 58DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>0</Elv>
+          <GPSCoor>N 31° 04.308'-E 29° 50.900'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>93</PK>
+          <Name>KALHALHAK</Name>
+          <XCoor>1315</XCoor>
+          <YCoor>395</YCoor>
+          <Twr>NA / 126.5</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-186 20DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>11 / 29</Rwy>
+          <Elv>2160</Elv>
+          <GPSCoor>N 33° 01.777'-E 36° 37.471'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>71</PK>
+          <Name>KING ABDULLHA BEN</Name>
+          <XCoor>1235</XCoor>
+          <YCoor>630</YCoor>
+          <Twr>NA / 118.1</Twr>
+          <TcnCh>111 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>109.50 (20R)</Ils>
+          <Rwy>02 / 20 L / R</Rwy>
+          <Elv>2670</Elv>
+          <GPSCoor>N 31° 58.193'-E 36° 07.099'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>72</PK>
+          <Name>KING FAISAL</Name>
+          <XCoor>1265</XCoor>
+          <YCoor>935</YCoor>
+          <Twr>NA / 128.5</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN)  R-175 83DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>11 / 29</Rwy>
+          <Elv>2830</Elv>
+          <GPSCoor>N 30° 35.750'-E 36° 10.169'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>73</PK>
+          <Name>KING HUSSEIN</Name>
+          <XCoor>1280</XCoor>
+          <YCoor>525</YCoor>
+          <Twr>NA / 125.6</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN) R-024 32DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>2100</Elv>
+          <GPSCoor>N 32° 27.291'-E 36° 24.528'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>46</PK>
+          <Name>KIRBAN</Name>
+          <XCoor>490</XCoor>
+          <YCoor>975</YCoor>
+          <Twr>NA / 120.3</Twr>
+          <TcnCh>072 X (CAIRO INT) R-080 51DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>30</Elv>
+          <GPSCoor>N 30° 25.511'-E 32° 08.263'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>47</PK>
+          <Name>KOM AWASHIM</Name>
+          <XCoor>170</XCoor>
+          <YCoor>1095</YCoor>
+          <Twr>NA / 123.2</Twr>
+          <TcnCh>072 X (CAIRO INT) R-237 43DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>160</Elv>
+          <GPSCoor>N 29° 53.181'-E 30° 27.359'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>48</PK>
+          <Name>LUXUR</Name>
+          <XCoor>545</XCoor>
+          <YCoor>1930</YCoor>
+          <Twr>NA / 119.9</Twr>
+          <TcnCh>091 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>111.10 (23R)</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>760</Elv>
+          <GPSCoor>N 26° 08.482'-E 32° 18.967'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>94</PK>
+          <Name>MARJ RUHAYYIL</Name>
+          <XCoor>1320</XCoor>
+          <YCoor>340</YCoor>
+          <Twr>NA / 126.6</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-186 5DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>2010</Elv>
+          <GPSCoor>N 33° 16.865'-E 36° 40.622'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>5</PK>
+          <Name>MEGIDDO (Strip)</Name>
+          <XCoor>1065</XCoor>
+          <YCoor>490</YCoor>
+          <Twr>336.1 / NA</Twr>
+          <TcnCh>045 X (RAMAT DAVID)  R-167 4DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>240</Elv>
+          <GPSCoor>N 32° 35.374'-E 35° 15.162'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>95</PK>
+          <Name>MEZZE</Name>
+          <XCoor>1320</XCoor>
+          <YCoor>290</YCoor>
+          <Twr>NA / 126.8</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-360 8DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>1980</Elv>
+          <GPSCoor>N 33° 29.258'-E 36° 41.638'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>6</PK>
+          <Name>NEVATIM</Name>
+          <XCoor>1040</XCoor>
+          <YCoor>775</YCoor>
+          <Twr>341.5 / 121.4</Twr>
+          <TcnCh>052 X</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>108.50 (02R)</Ils>
+          <Rwy>02 / 20 L / R</Rwy>
+          <Elv>1550</Elv>
+          <GPSCoor>N 31° 19.396'-E 35° 03.185'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>49</PK>
+          <Name>NEW VALLEY</Name>
+          <XCoor>105</XCoor>
+          <YCoor>1935</YCoor>
+          <Twr>NA / 122.3</Twr>
+          <TcnCh>085 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>380</Elv>
+          <GPSCoor>N 26° 06.865'-E 30° 06.905'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>7</PK>
+          <Name>OVDA</Name>
+          <XCoor>1007</XCoor>
+          <YCoor>1055</YCoor>
+          <Twr>340 / 129.9</Twr>
+          <TcnCh>088 X</TcnCh>
+          <TcnRng>20</TcnRng>
+          <Ils>109.70 (20R)</Ils>
+          <Rwy>02 / 20 L / R</Rwy>
+          <Elv>1940</Elv>
+          <GPSCoor>N 30° 03.958'-E 34° 48.957'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>8</PK>
+          <Name>PALMACHIM</Name>
+          <XCoor>955</XCoor>
+          <YCoor>635</YCoor>
+          <Twr>341.35 / 120.9</Twr>
+          <TcnCh>079 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>30</Elv>
+          <GPSCoor>N 31° 57.654'-E 34° 37.507'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>96</PK>
+          <Name>PALMYR</Name>
+          <XCoor>1695</XCoor>
+          <YCoor>65</YCoor>
+          <Twr>NA / 121.95</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-056 123DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>16 / 34</Rwy>
+          <Elv>2130</Elv>
+          <GPSCoor>N 34° 31.225'-E 38° 50.481'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>50</PK>
+          <Name>PORT SAID</Name>
+          <XCoor>445</XCoor>
+          <YCoor>785</YCoor>
+          <Twr>NA / 120.7</Twr>
+          <TcnCh>077 X</TcnCh>
+          <TcnRng>200</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>0</Elv>
+          <GPSCoor>N 31° 16.163'-E 31° 55.760'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>74</PK>
+          <Name>PRINCE HASSAN</Name>
+          <XCoor>1455</XCoor>
+          <YCoor>585</YCoor>
+          <Twr>NA / 128.9</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN) R-078 62DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>2120</Elv>
+          <GPSCoor>N 32° 10.586'-E 37° 18.654'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>84</PK>
+          <Name>PRINCE SULTAN BIN ABDULAZIZ</Name>
+          <XCoor>1365</XCoor>
+          <YCoor>1352</YCoor>
+          <Twr>298.3 / 125.9</Twr>
+          <TcnCh>104 X</TcnCh>
+          <TcnRng>130</TcnRng>
+          <Ils>111.90 (02)-109.50 (20)</Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>2510</Elv>
+          <GPSCoor>N 28° 43.669'-E 36° 34.826'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>85</PK>
+          <Name>QALIBHA (Strip)</Name>
+          <XCoor>1615</XCoor>
+          <YCoor>1450</YCoor>
+          <Twr>296.2 / NA</Twr>
+          <TcnCh>104 X (PRINCE SULTAN BIN A.)  R-112 72DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>3500</Elv>
+          <GPSCoor>N 28° 16.968'-E 37° 48.929'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>51</PK>
+          <Name>QUASWYINA</Name>
+          <XCoor>225</XCoor>
+          <YCoor>915</YCoor>
+          <Twr>NA / 135.5</Twr>
+          <TcnCh>072 X (CAIRO INT) R-319 33DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>11 / 29</Rwy>
+          <Elv>30</Elv>
+          <GPSCoor>N 30° 42.216'-E 30° 45.357'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>75</PK>
+          <Name>QUEEN ALIA INT</Name>
+          <XCoor>1225</XCoor>
+          <YCoor>640</YCoor>
+          <Twr>NA / 119.8</Twr>
+          <TcnCh>099 X</TcnCh>
+          <TcnRng>130</TcnRng>
+          <Ils>109.30 (12)-111.10 (30)</Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>2660</Elv>
+          <GPSCoor>N 31° 55.499'-E 36° 03.732'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>79</PK>
+          <Name>RAFIC HARIRI INTL</Name>
+          <XCoor>1117</XCoor>
+          <YCoor>240</YCoor>
+          <Twr>NA / 118.90</Twr>
+          <TcnCh>073 X</TcnCh>
+          <TcnRng>200</TcnRng>
+          <Ils>110.70 (05L)-111.90 (23R)-110.10 (05R)-109.50 (23L)</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>170</Elv>
+          <GPSCoor>N 33° 43.807'-E 35° 37.404'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>9</PK>
+          <Name>RAMAT DAVID</Name>
+          <XCoor>1060</XCoor>
+          <YCoor>480</YCoor>
+          <Twr>341.40 / 118.60</Twr>
+          <TcnCh>045 X</TcnCh>
+          <TcnRng>40</TcnRng>
+          <Ils>111.10 (26)</Ils>
+          <Rwy>08 / 26-11 / 29-12 / 30</Rwy>
+          <Elv>180</Elv>
+          <GPSCoor>N 32° 39.145'-E 35° 14.395'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>10</PK>
+          <Name>RAMON</Name>
+          <XCoor>945</XCoor>
+          <YCoor>865</YCoor>
+          <Twr>340.5 / 122.7</Twr>
+          <TcnCh>039 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.50 (23L)</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>1900</Elv>
+          <GPSCoor>N 30° 55.148'-E 34° 32.263'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>52</PK>
+          <Name>RAS JIMSHA NEW</Name>
+          <XCoor>722</XCoor>
+          <YCoor>1455</YCoor>
+          <Twr>NA / 120.95</Twr>
+          <TcnCh>089 X (RAS NASRANI) R-257 44DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>11 / 29</Rwy>
+          <Elv>200</Elv>
+          <GPSCoor>N 28° 15.649'-E 33° 15.978'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>53</PK>
+          <Name>RAS NASRANI</Name>
+          <XCoor>880</XCoor>
+          <YCoor>1420</YCoor>
+          <Twr>NA / 118.95</Twr>
+          <TcnCh>089 X</TcnCh>
+          <TcnRng>200</TcnRng>
+          <Ils>109.50 (34)</Ils>
+          <Rwy>16 / 34</Rwy>
+          <Elv>800</Elv>
+          <GPSCoor>N 28° 25.349'-E 34° 05.332'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>54</PK>
+          <Name>RAS SHUKHAYAR NEW</Name>
+          <XCoor>650</XCoor>
+          <YCoor>1390</YCoor>
+          <Twr>NA / 120.8</Twr>
+          <TcnCh>089 X (RAS NASRANI) R-278 63DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>0</Elv>
+          <GPSCoor>N 28° 33.970'-E 32° 54.532'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>55</PK>
+          <Name>RAS SUDR</Name>
+          <XCoor>550</XCoor>
+          <YCoor>1100</YCoor>
+          <Twr>NA / 119.4</Twr>
+          <TcnCh>072 X (CAIRO INT) R-111 72DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>16 / 34</Rwy>
+          <Elv>50</Elv>
+          <GPSCoor>N 29° 51.564'-E 32° 26.639'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>80</PK>
+          <Name>RIYAQ</Name>
+          <XCoor>1212</XCoor>
+          <YCoor>250</YCoor>
+          <Twr>NA / 119.7</Twr>
+          <TcnCh>073 X (RAFIC HARIRI INTL) R-096 27DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>2970</Elv>
+          <GPSCoor>N 33° 41.113'-E 36° 08.297'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>11</PK>
+          <Name>ROSH PINA (Strip)</Name>
+          <XCoor>1125</XCoor>
+          <YCoor>400</YCoor>
+          <Twr>337.2 / NA</Twr>
+          <TcnCh>045 X (RAMAT DAVID)  R-046 31DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>450</Elv>
+          <GPSCoor>N 33° 00.443'-E 35° 42.105'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>63</PK>
+          <Name>RUWAYSHID</Name>
+          <XCoor>1865</XCoor>
+          <YCoor>515</YCoor>
+          <Twr>NA / 125.8</Twr>
+          <TcnCh>-</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>2860</Elv>
+          <GPSCoor>N 32° 28.908'-E 39° 30.535'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>97</PK>
+          <Name>SAYQAL</Name>
+          <XCoor>1490</XCoor>
+          <YCoor>265</YCoor>
+          <Twr>NA / 127</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-073 49DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>2270</Elv>
+          <GPSCoor>N 33° 36.263'-E 37° 37.856'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>12</PK>
+          <Name>SDE DOV</Name>
+          <XCoor>975</XCoor>
+          <YCoor>585</YCoor>
+          <Twr>343.35 / 124</Twr>
+          <TcnCh>083 X</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>109.10 (02)</Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>40</Elv>
+          <GPSCoor>N 32° 11.125'-E 34° 45.894'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>76</PK>
+          <Name>SHAHEED MWAFFAQ</Name>
+          <XCoor>1375</XCoor>
+          <YCoor>655</YCoor>
+          <Twr>NA / 125.1</Twr>
+          <TcnCh>111 X (KING ABDULLHA BEN) R-101 40DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>1660</Elv>
+          <GPSCoor>N 31° 51.188'-E 36° 52.275'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>98</PK>
+          <Name>SHAYRAT</Name>
+          <XCoor>1430</XCoor>
+          <YCoor>117</YCoor>
+          <Twr>NA / 127.2</Twr>
+          <TcnCh>107 X (DAMASCUS INT)  R-028 62DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>14 / 32</Rwy>
+          <Elv>2580</Elv>
+          <GPSCoor>N 34° 16.677'-E 37° 21.487'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>56</PK>
+          <Name>ST CATHRINE</Name>
+          <XCoor>845</XCoor>
+          <YCoor>1295</YCoor>
+          <Twr>NA / 121.9</Twr>
+          <TcnCh>089 X (RAS NASRANI) R-342 36DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>4250</Elv>
+          <GPSCoor>N 28° 59.835'-E 33° 53.276'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>13</PK>
+          <Name>TEL NOF</Name>
+          <XCoor>965</XCoor>
+          <YCoor>655</YCoor>
+          <Twr>342 / 132</Twr>
+          <TcnCh>059 X</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>110.90 (18)</Ils>
+          <Rwy>01 / 19-18 / 36</Rwy>
+          <Elv>180</Elv>
+          <GPSCoor>N 31° 51.727'-E 34° 41.622'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>99</PK>
+          <Name>TIYAS</Name>
+          <XCoor>1545</XCoor>
+          <YCoor>100</YCoor>
+          <Twr>NA / 127.4</Twr>
+          <TcnCh>107 X (DAMASCUS INT) R-045 85DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>1750</Elv>
+          <GPSCoor>N 34° 20.988'-E 37° 59.090'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>86</PK>
+          <Name>TURAIF</Name>
+          <XCoor>1770</XCoor>
+          <YCoor>695</YCoor>
+          <Twr>NA / 122.75</Twr>
+          <TcnCh>108 X</TcnCh>
+          <TcnRng>130</TcnRng>
+          <Ils>108.30 (01)</Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>2690</Elv>
+          <GPSCoor>N 31° 41.489'-E 38° 54.998'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>57</PK>
+          <Name>WADI ABU SHIFAT</Name>
+          <XCoor>620</XCoor>
+          <YCoor>1437</YCoor>
+          <Twr>NA / 121.15</Twr>
+          <TcnCh>112 X (HURGHADA)  R-228 52DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>1170</Elv>
+          <GPSCoor>N 27° 00.211'-E 32° 43.198'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>58</PK>
+          <Name>WADI AL JANDALI</Name>
+          <XCoor>360</XCoor>
+          <YCoor>1003</YCoor>
+          <Twr>NA / 121.75</Twr>
+          <TcnCh>072 X (CAIRO INT)  R-084 15DME</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>760</Elv>
+          <GPSCoor>N 30° 18.507'-E 31° 27.508'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>77</PK>
+          <Name>WADI EL MURBHA (Strip)</Name>
+          <XCoor>1840</XCoor>
+          <YCoor>450</YCoor>
+          <Twr>257.8 / NA</Twr>
+          <TcnCh>-</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>2550</Elv>
+          <GPSCoor>N 32° 46.151'-E 39° 24.451'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>87</PK>
+          <Name>WEJH</Name>
+          <XCoor>1335</XCoor>
+          <YCoor>1790</YCoor>
+          <Twr>NA / 122.85</Twr>
+          <TcnCh>086 X</TcnCh>
+          <TcnRng>150</TcnRng>
+          <Ils>110.70 (01)</Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>290</Elv>
+          <GPSCoor>N 26° 45.662'-E 36° 18.236'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>81</PK>
+          <Name>WUJAH AL HAJAR</Name>
+          <XCoor>1160</XCoor>
+          <YCoor>150</YCoor>
+          <Twr>NA / 119.1</Twr>
+          <TcnCh>109 X</TcnCh>
+          <TcnRng>130</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L / R</Rwy>
+          <Elv>710</Elv>
+          <GPSCoor>N 34° 08.055'-E 35° 52.154'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>14</PK>
+          <Name>YASSER ARAFAT INTL</Name>
+          <XCoor>890</XCoor>
+          <YCoor>760</YCoor>
+          <Twr>NA / 120.4</Twr>
+          <TcnCh>080 X</TcnCh>
+          <TcnRng>40</TcnRng>
+          <Ils>108.90 (36)</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>220</Elv>
+          <GPSCoor>N 31° 23.168'-E 34° 14.802'</GPSCoor>
+</AirportData>

@@ -1,0 +1,27 @@
+Sub Macro1()
+
+    Dim vrStr() As String
+    Dim vrStr2 As String
+    Dim vrCol As Integer
+    vrCol = 3
+    Dim vrMaxRow As Integer
+    vrMaxRow = 150
+  
+    For m = 2 To vrMaxRow
+    
+        Cells(m, 5) = Replace(Cells(m, 5), "/ ", Chr(10))
+        Cells(m, 5) = Replace(Cells(m, 5), "/", Chr(10))
+        Cells(m, 6) = UCase(Cells(m, 6))
+        Cells(m, 8) = Replace(Cells(m, 8), "-", Chr(10))
+        Cells(m, 9) = Replace(Cells(m, 9), "L/R", Chr(10) & "L/R")
+        Cells(m, 9) = Replace(Cells(m, 9), "(L/R)", Chr(10) & "(L/R)")
+        Cells(m, 9) = Replace(Cells(m, 9), "/", " / ")
+        Cells(m, 10) = Replace(Cells(m, 10), "-", Chr(10))
+        Cells(m, 11) = Replace(Cells(m, 11), "-", Chr(10))
+        
+    Next
+
+
+End Sub
+
+

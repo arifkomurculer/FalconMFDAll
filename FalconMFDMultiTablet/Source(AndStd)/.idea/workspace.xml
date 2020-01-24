@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <last-search-timestamp>1557081055724</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea19a0a2-9000-4873-8e79-bd8267b4350a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../FalconMFD.Net/FalconMFDServer/FalconMFDServer/FalconMFDServer.vbproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../FalconMFD.Net/FalconMFDServer/FalconMFDServer/FalconMFDServer.vbproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source(AndStd).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Source(AndStd).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FalconMFDSingleTablet/FalconMFD/FalconMFD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FalconMFDSingleTablet/FalconMFD/FalconMFD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FalconMFDSingleTablet/FalconMFD/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FalconMFDSingleTablet/FalconMFD/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FalconMFDSingleTablet/FalconMFD/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../FalconMFDSingleTablet/FalconMFD/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FalconMFDSingleTablet/FalconMFD/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../FalconMFDSingleTablet/FalconMFD/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/119821-full_2019-obsession-turmoil-rz-compound-bow-package.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/1b7e2b57-a83d-426b-bd42-ac6c5d67475c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/29428128-archer-aiming-archery-quiver-behind-robin-hood-graphic-style-sketch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/41NIDyUHjwL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/56326786-archery-dart-people-male-and-female-silhouette-good-use-for-symbol-web-icon-logo-sign-mascot-or-any-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/Black-Right-Hand-20-70LB-Adjustable-Archery-Compound-Bow-Arrows-Hunting-Target 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/Black-Right-Hand-20-70LB-Adjustable-Archery-Compound-Bow-Arrows-Hunting-Target.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/JOAD-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/JOAD-logo_400x400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/Junxing-M120-Dream-Hunting-Compound-Bow-Right-Hand-Outdoor-Shooting-Bow-Archery-Arrow-Set-2-Color.jpg_640x640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Arif.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Atlan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Atılgan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Berkal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Gülhanım.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Kemal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Nur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Yusuf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem Zühre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK amblem İyiyürek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL Zühre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA Antrenör 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA Antrenör.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA Comp Abi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA Comp Abla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA Rec Abi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA Rec Abla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA Sırt Amblem 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA Sırt Amblem 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA gENEL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ARKA İnsanlı RC C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL-ATATÜRK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/KK-YESİL_09012019-0900.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/M125-Junxing-compound-bow-and-arrow-archery.jpg_350x350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/OSCArcheryLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/Paralympics-disable-athlete-006-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/WhatsApp Image 2019-01-08 at 11.29.14.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/WhatsApp Image 2019-01-08 at 11.30.49.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/b31d3c073ada71b6cb766ed65274a059.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/bowling_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/compound-bow-hunter-silhouette_215430.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/compound-bow-obsession-defcon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/doblando-macho-silueta-blanco-arco-clipart-vectorial_csp53138558.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/indir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/kff006-beyaz-kirmizi-klasik-futbol-forma-04f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/man-practices-archery-white-background-35305993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/okçuluk_forma_ynof002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/silhouette-attractive-male-archer-bending-a-bow-vector-19077327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gaymaklı/silhouette-attractive-male-archer-bending-a-bow-vector-19077354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Arduino-PID-Library-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Ağırlık Hesaplama.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/COCKPIT.mb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Cockpit 1.mb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Cockpit 2.mb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Cockpit 3.mb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Cockpit 4 - Copy.mb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Cockpit 4 Copy.mb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Cockpit 4.mb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/Kokpit İçin Gerekli Malzemeler.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/2DofSeat2MotorSurucu/2DofSeat2MotorSurucu/2DofSeat2MotorSurucu.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/ArduinoKod/ArduinoKod.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/ArduinoKod/ArduinoKod_2310207_0830.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/ArduinoKod/JosytickRead/JosytickRead.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/ArduinoKodDuz/ArduinoKodDuz.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/ArduinoKodNew/ArduinoKodNew.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/18698242_434200440274778_3887111999437668946_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/1f642.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/1x1.trans.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/20245695_720688564789364_7371264637481038711_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/250BByAaSzf.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/4WSQx-s5lyz.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/F4j39KcADZh.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/L6V-CeFlZMT.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/LAXbWHVZX89.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/Lx_esInIuPe.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/O2uHnUJ7-8D.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/Z2duorNoYeF.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/abg.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/ads(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/ads(2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/ads(3).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/adsbygoogle.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/afr(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/afr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/analytics.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/autotrack.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/ca-pub-1945832974951054.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/comment-reply.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/crayon.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/crayon.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/empty(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/empty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/form.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/i_big_tr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/i_small_tr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/jquery-migrate.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/jquery.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/jquery.sonar.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/l" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/l(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/lazy-load.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/lg(1).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/lg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/logo-mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/m_qs_click_protection.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/m_window_focus_non_hydra.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/materialize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/materialize.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/monaco.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/osd.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/osd_listener.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/ot66EH21e8O.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/ping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/push(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/push.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/saved_resource(2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/saved_resource(3).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/saved_resource(4).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/sdk.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/show_ads.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/show_ads_impl.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/watch.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/wp-embed.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/wp-emoji-release.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Arduino'da Potansiyometre(Pot) Kullanımı _ Mühendis Bilim_files/zrt_lookup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/12978.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/182ff2a2-c1a8-42b3-bcfe-7e2a0cbf2571" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/278280-15.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/345753502752103716" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/5GHB2IUWLVHWNHE3HZPYXY.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/890.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/8d05eb7d3ecd.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/9-1xHTV-0iSyC7FJHyxt1EULHgY8V4E3sfvWidulAOw.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/COMMON.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/F0OWYNXJG42UR9Q.RECTANGLE1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/F3HFOCHIU7TQBC2.LARGE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/F4JO913JDUKJJ56.SQUARE2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/F6HN03EJDUKJQEP.SQUARE2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FCDSBRXJC2Y9JTF.SQUARE2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FDE5SF7IU7TQBC1.LARGE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FLJSGHFJFCSYI9U.MEDIUM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FMGQ1ASIPWWUHQX.SQUARE2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FMGQ1ASIPWWUHQX.TINY.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FMJFMG5IMZ65K95.SQUARE2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FNV042RJFUAGUO7.RECTANGLE1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FOHVF18IUEU2EAS.LARGE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FRUDP4YJGCJC96I.RECTANGLE1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FVJDV0FIU9VDY3N.LARGE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/FVRH9FVJ1WW2UOV.RECTANGLE1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/JW5GlLnAsFw(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/JW5GlLnAsFw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/NcL46rc311c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/WYREHQY7RNBF7P57DY343F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/ad_status.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/ae12848777b41970a5f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/all.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/analytics.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/apstag.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/autodesk-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/autodesk-makeanything.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/ba.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/base.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/beacon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/beacon.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/box_77_top-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/by-nc-sa_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/c_30_us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/container.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/durly.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/f(1).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/f(2).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/f(3).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/f(4).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/f(5).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/file.TINY.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/global-desktop-4d5e9e15.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/gpt.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/hbpix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/ible-desktop-out-3620b2fc.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/ible-fad9c957.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/instructables-logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/instructables-robot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/l" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/ls-instructables.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/n" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/pinit.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/pinit_main.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/pixel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/pixel.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/pixel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/promo_styles.min2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/pubads_impl_199.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/pubads_impl_rendering_199.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/remote.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/rolling.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(10).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(100).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(101).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(102).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(103).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(104).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(105).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(106).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(107).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(108).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(109).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(11).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(110).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(111).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(112).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(113).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(114).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(12).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(13).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(14).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(15).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(16).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(17).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(18).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(19).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(20).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(21).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(22).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(23).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(24).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(25).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(26).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(27).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(28).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(29).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(3).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(30).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(31).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(32).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(33).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(34).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(35).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(36).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(37).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(38).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(39).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(4).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(40).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(41).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(42).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(43).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(44).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(45).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(46).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(47).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(48).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(49).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(5).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(50).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(51).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(52).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(53).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(54).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(55).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(56).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(57).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(58).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(59).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(6).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(60).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(61).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(62).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(63).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(64).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(65).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(66).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(67).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(68).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(69).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(7).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(70).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(71).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(72).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(73).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(74).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(75).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(76).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(77).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(78).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(79).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(8).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(80).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(81).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(82).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(83).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(84).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(85).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(86).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(87).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(88).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(89).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(9).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(90).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(91).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(92).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(93).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(94).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(95).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(96).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(97).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(98).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource(99).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/share.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/sovrn_standalone_beacon.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/user.TINY.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/usync.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/widget_iframe.8e64fb971a1b22efbf633db166113ae6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/widgets.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/www-embed-player.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/Tutorial for Monster Motor Shield VNH2SP30_files/www-player-webp-vflXAQLtv.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/Help/new 3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild/VNH2SP30_Monster_Motor_Sheild.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_X/VNH2SP30_Monster_Motor_Sheild_Motor_X.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.20180729_1050_ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.20180729_1130_ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.20180730_2200_ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.20180819_1000_ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.20180830_1200_ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.20180830_1600_ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.pdsprj.GUVKKTUM.192224.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY - Copy/VNH2SP30_Monster_Motor_Sheild_Motor_XY.pdsprj.KOMURCU-EV.ALGIN.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY/VNH2SP30_Monster_Motor_Sheild_Motor_XY.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY/VNH2SP30_Monster_Motor_Sheild_Motor_XY.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Ciecuit/Last Loaded VNH2SP30_Monster_Motor_Sheild_Motor_XY.pdsbak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Ciecuit/VNH2SP30_Monster_Motor_Sheild_Motor_XY.pdsprj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Ciecuit/VNH2SP30_Monster_Motor_Sheild_Motor_XY.pdsprj.GUVKKTUM.192224.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Ciecuit/VNH2SP30_Monster_Motor_Sheild_Motor_XY.pdsprj.KOMURCU-EV.ALGIN.workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AD7746/AD7746.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AD7746/AD7746.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AD7746/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADS1115/ADS1115.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADS1115/ADS1115.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADS1115/examples/ADS1115_differential/ADS1115_differential.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADS1115/examples/ADS1115_single/ADS1115_single.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADS1115/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADXL345/ADXL345.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADXL345/ADXL345.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADXL345/examples/ADXL345_raw/ADXL345_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ADXL345/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8963/AK8963.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8963/AK8963.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8963/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8975/AK8975.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8975/AK8975.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8975/examples/AK8975_MPUEVB_heading/AK8975_MPUEVB_heading.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8975/examples/AK8975_MPUEVB_raw/AK8975_MPUEVB_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8975/examples/AK8975_raw/AK8975_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/AK8975/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/BMA150/BMA150.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/BMA150/BMA150.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/BMA150/examples/BMA150_raw/BMA150_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/BMA150/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/BMP085/BMP085.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/BMP085/BMP085.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/BMP085/examples/BMP085_basic/BMP085_basic.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/BMP085/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/DS1307/DS1307.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/DS1307/DS1307.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/DS1307/examples/DS1307_tick/DS1307_tick.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/DS1307/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HMC5843/HMC5843.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HMC5843/HMC5843.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HMC5843/examples/HMC5843_raw/HMC5843_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HMC5843/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HMC5883L/HMC5883L.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HMC5883L/HMC5883L.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HMC5883L/examples/HMC5883L_raw/HMC5883L_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HMC5883L/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HTU21D/HTU21D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HTU21D/HTU21D.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HTU21D/examples/HTU21D_simple/HTU21D_simple.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/HTU21D/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/I2Cdev/I2Cdev.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/I2Cdev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/I2Cdev/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/I2Cdev/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/IAQ2000/IAQ2000.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/IAQ2000/IAQ2000.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/IAQ2000/examples/IAQ2000/IAQ2000.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/IAQ2000/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/IAQ2000/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ITG3200/ITG3200.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ITG3200/ITG3200.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ITG3200/examples/ITG3200_raw/ITG3200_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/ITG3200/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/L3G4200D/L3G4200D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/L3G4200D/L3G4200D.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/L3G4200D/examples/L3G4200D_raw/L3G4200D_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/L3G4200D/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/L3GD20H/L3GD20H.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/L3GD20H/L3GD20H.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/L3GD20H/examples/L3GD20H_basic/L3GD20H_basic.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/LM73/LM73.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/LM73/LM73.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/LM73/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/LSM303DLHC/LSM303DLHC.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/LSM303DLHC/LSM303DLHC.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/LSM303DLHC/examples/LSM303DLHC_test/LSM303DLHC_test.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPR121/MPR121.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPR121/MPR121.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPR121/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/MPU6050.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/MPU6050_6Axis_MotionApps20.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/MPU6050_9Axis_MotionApps41.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/examples/IMU_Zero/IMU_Zero.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/examples/MPU6050_DMP6/MPU6050_DMP6.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/examples/MPU6050_DMP6/Processing/MPUTeapot/MPUTeapot.pde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/examples/MPU6050_DMP6_ESPWiFi/MPU6050_DMP6_ESPWiFi.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/examples/MPU6050_DMP6_ESPWiFi/Processing/MPUOSCTeapot/MPUOSCTeapot.pde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/examples/MPU6050_DMP6_Ethernet/MPU6050_DMP6_Ethernet.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/examples/MPU6050_raw/MPU6050_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/helper_3dmath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU6050/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU9150/MPU9150.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU9150/MPU9150.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU9150/MPU9150_9Axis_MotionApps41.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU9150/examples/MPU9150_raw/MPU9150_raw.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU9150/helper_3dmath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MPU9150/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MS5803/MS5803.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MS5803/MS5803.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MS5803/examples/test_MS5803/test_MS5803.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/MS5803/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/SSD1308/SSD1308.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/SSD1308/SSD1308.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/SSD1308/example.pde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/SSD1308/fixedWidthFont.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/SSD1308/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/TCA6424A/TCA6424A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/TCA6424A/TCA6424A.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/TCA6424A/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/_Stub/_Stub.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Arduino/_Stub/_Stub.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/EFM32/I2Cdev/I2Cdev.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/EFM32/I2Cdev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/I2Cdev/I2Cdev.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/I2Cdev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/I2Cdev/component.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/MPU6050/MPU6050.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/MPU6050/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/MPU6050/MPU6050_6Axis_MotionApps20.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/MPU6050/MPU6050_9Axis_MotionApps41.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/MPU6050/component.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/components/MPU6050/helper_3dmath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/main/component.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/main/example.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/main/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/sdkconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/ESP32_ESP-IDF/sdkconfig.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Jennic/I2Cdev/I2Cdev.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Jennic/I2Cdev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Jennic/MPU6050/MPU6050.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Jennic/MPU6050/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/Jennic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/AK8975/AK8975.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/AK8975/AK8975.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/AK8975/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/I2Cdev/ArduinoWrapper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/I2Cdev/I2Cdev.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/I2Cdev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/I2Cdev/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/I2Cdev/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/I2Cdev/msp430_i2c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/I2Cdev/msp430_i2c.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/MPU6050/MPU6050.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/MPU6050/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/MPU6050/MPU6050_6Axis_MotionApps20.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/MPU6050/MPU6050_9Axis_MotionApps41.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/MPU6050/helper_3dmath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/MSP430/MPU6050/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/I2Cdev/I2Cdev.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/I2Cdev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/funclist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/Makefile-default.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/Makefile-genesis.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/Makefile-impl.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/Makefile-local-default.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/Makefile-variables.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/Package-default.bash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/configurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/Examples/MPU6050_raw.X/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/MPU6050.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/MPU6050/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/PIC18/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/RaspberryPi_bcm2835/ADXL345/examples/ADXL345_example_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/RaspberryPi_bcm2835/BMP085/examples/BMP085_basic.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/RaspberryPi_bcm2835/HMC5883L/examples/HMC5883L_example_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/RaspberryPi_bcm2835/I2Cdev/I2Cdev.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/RaspberryPi_bcm2835/I2Cdev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/RaspberryPi_bcm2835/MPU6050/examples/MPU6050_example_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/STM32/HMC5883/HMC5883L.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/STM32/HMC5883/HMC5883L.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/STM32/I2Cdev.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/STM32/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/STM32/MPU6050/MPU6050.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/STM32/MPU6050/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/STM32/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/I2Cdev/I2Cdev.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/I2Cdev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/I2Cdev/I2CdevdsPic30F.X/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/I2Cdev.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/MPU6050.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/MPU6050_example_main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/Makefile-default.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/Makefile-genesis.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/Makefile-impl.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/Makefile-local-default.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/Makefile-variables.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/Package-default.bash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/configurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/Examples/MPU6050_example.X/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/MPU6050.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/MPU6050/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/dsPIC30F/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/nRF51/I2CDev/I2Cdev.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Class/i2cdevlib-master/nRF51/I2CDev/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/3dX1aOKXfarloHg2zRLzGm5Q3Hj9XSvcyE_QKpYX3J0.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/8fa3dae7cf2639fa4883c8dd618ba0d7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/EnlighterJS.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/EnlighterJS.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/a1bb10ca8af58154d892db3b8524a596.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/ad_status.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/analytics.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/base.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/comment-reply.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/e1d2feaa645add4a174326b1096c4b5a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/form.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/frontend.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/frontend.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/gy_521_bb-183x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/gy_521_breakboard-300x240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/jquery-migrate.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/jquery.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/mootools-core-yc.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/move_gy521_serialmonitor-300x103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/navigation.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/remote.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/style(1).css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/wTfSfhjhAU0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/wp-embed.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/wp-emoji-release.min.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/www-embed-player.js.indir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/Help/Tutorial_ How to use the GY-521 module (MPU-6050 breakout board) with the Arduino Uno _ Michael Schoeffler_files/www-player-webp-vflK0PwXS.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/I2Cdev.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/I2Cdev.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/MPU6050.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/MPU6050.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/MPU6050_6Axis_MotionApps20.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/MPU6050_9Axis_MotionApps41.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/helper_3dmath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/VNH2SP30_Monster_Motor_Sheild_Motor_XY_Gyro/library.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/VNH2SP30_Monster_Motor_Sheild_Motor_Y/VNH2SP30_Monster_Motor_Sheild_Motor_Y.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/KokpitDevre/gyro/gyro.ino" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/MyCockpit.avi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/MyCockpit.wmv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/UstGorunumOlculeri Basit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/UstGorunumOlculeri Basit.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/UstGorunumOlculeri.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/irfs3307.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/irfs3307zpbf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../HAREKETLI_COCKPIT/myCockpit.0001.wmv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/Form1.Designer.vb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/Form1.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/Form1.vb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/My Project/Application.Designer.vb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/My Project/Application.myapp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/My Project/AssemblyInfo.vb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/My Project/Resources.Designer.vb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/My Project/Resources.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/My Project/Settings.Designer.vb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/My Project/Settings.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Joytsik Read/JoystikReadVb/WindowsApp1/WindowsApp1.vbproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/insert kisiler.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/kktcokculuk_20181204_0800 Gercek.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/kktcokculuk_20181204_0900 Gercek(Kisiler Haric).sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/kktcokculuk_20181209_1500 Gercek.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/kktcokculuk_20190112_1200 Gercek - Kopya.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/kktcokculuk_20190112_1200 Gercek.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/kktcokculuk_20190204_1200 Gercek.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/update/db_update_20180524.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/update/db_update_20180601.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/update/db_update_20180605.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/update/db_update_20180726.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/update/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/DB/yapılan update/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/username_psw.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/Documanlar/username_psw.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Errors/KKTCOkculukPrjErrors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Errors/KKTCOkculukPrjErrors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Global.asax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Global.asax.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/KKTCOKCULUK.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/KKTCOKCULUK.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Logs/KKTCOkculukPrjLogs.6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Main.Master" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Main.Master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Main.Master.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Main.Master.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Properties/licenses.licx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Properties/licenses.licx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtHakemlerSQL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtHakemlerSQL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtKisiTanimlamaSQL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtKisiTanimlamaSQL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtYarismaGurubuInsertSQL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtYarismaGurubuInsertSQL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtYarismaGurubuSQL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtYarismaGurubuSQL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtYarismaGurubuUpdateSQL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtYarismaGurubuUpdateSQL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtYarismaSql.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Sql/txtYarismaSql.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/Web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/WebForm1.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/WebForm1.aspx.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/WebForm1.aspx.designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/ClsLoginInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/ClsLoginInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsKisiler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsKisiler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsLisanslar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsLisanslar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsYarisciHedef.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsYarisciHedef.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsYarisma.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsYarisma.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsYarismaTurSayi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsYarismaTurSayi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsYarismaTuru.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/classes/clsYarismaTuru.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/index.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/index.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/login.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/login.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/login.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/login.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/rptAgreditasyon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/rptAgreditasyon.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/rptBasvuru.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/rptBasvuru.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfAgreditasyonPrint.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfAgreditasyonPrint.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfAntranorlerimiz.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfAntranorlerimiz.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfBasvuru.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfBasvuru.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfBasvuruPrint.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfBasvuruPrint.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfDuyurular.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfDuyurular.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGaleri.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGaleri.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGaleri.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGaleri.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGaleri.aspx.designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGaleri.aspx.designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGelenekselYaySporcular.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGelenekselYaySporcular.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGencSporcular.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfGencSporcular.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfHakemlerimiz.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfHakemlerimiz.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfKisiTanimlama.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfKisiTanimlama.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfKisiTanimlama.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfKisiTanimlama.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfKisiTanimlama.aspx.designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfKisiTanimlama.aspx.designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfKlasikYaySporcular.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfKlasikYaySporcular.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfMakaraliYaySporcular.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfMakaraliYaySporcular.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfMinikSporcular.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfMinikSporcular.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarisma.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarisma.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarisma.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarisma.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarisma.aspx.designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarisma.aspx.designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaExportExcel.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaExportExcel.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaGurubu.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaGurubu.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucGelenekselYay.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucGelenekselYay.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucGenc.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucGenc.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucKlasik.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucKlasik.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucMakara.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucMakara.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucMinik.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucMinik.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucYildiz.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYarismaSonucYildiz.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYildizSporcular.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfYildizSporcular.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfZiyaretciler.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/wfZiyaretciler.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/yonetici.Master" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK/yonetici.Master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK_Report.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/KKTCOKCULUK_Report.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/UpgradeWizardLog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../KKTCOKCULUK/UpgradeWizardLog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Documents.SpreadsheetStreaming.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Documents.SpreadsheetStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Web.Spreadsheet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Web.Spreadsheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Fixed.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Fixed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Flow.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Flow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Spreadsheet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Documents.Spreadsheet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Zip.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Zip.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Zip.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/AdditionalLibraries/Bin45/Telerik.Windows.Zip.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/Telerik.Web.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/Telerik.Web.Device.Detection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/Telerik.Web.Device.Detection.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/Telerik.Web.UI.Skins.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/Telerik.Web.UI.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/Telerik.Web.UI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KKTCOKCULUK/lib/RCAJAX/2018.3.910.45/distribution.xml" beforeDir="false" />
+    </list>
+    <ignored path="Source.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/classes/main/" />
+    <ignored path="$PROJECT_DIR$/build/classes/test/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/assets/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/bundles/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/classes/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/coverage-instrumented-classes/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/dependency-cache/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/dex/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/dex-cache/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/jacoco/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/javaResources/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/libs/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/lint/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/manifests/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/ndk/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/pre-dexed/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/proguard/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/app/build/outputs/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Source$Source_AndStd_.ic" NAME="Source(AndStd) Coverage Results" MODIFIED="1557082524685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Source(AndStd)" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Source" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.android.tools.build:gradle:</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Source" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.SHOW" value="false" />
+    <property name="android.sdk.path" value="C:/android_sdk" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Source(AndStd)">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="app" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration name="All Tests" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Source(AndStd)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android Instrumented Tests.All Tests" />
+      <item itemvalue="Gradle.Source(AndStd)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Source(AndStd)" />
+        <item itemvalue="Android Instrumented Tests.All Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea19a0a2-9000-4873-8e79-bd8267b4350a" name="Default" comment="" />
+      <created>1420205309574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1420205309574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492569" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Palette&#9;" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5021097" side_tool="true" weight="0.24966443" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Captures" order="7" sideWeight="0.507431" side_tool="true" visible="true" weight="0.24966443" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49597314" weight="0.33286119" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Android" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Memory Monitor" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="13" sideWeight="0.50402683" side_tool="true" visible="true" weight="0.33286119" />
+      <window_info anchor="bottom" id="Gradle Console" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32925472" />
+      <window_info anchor="bottom" id="Android Profiler" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="17" sideWeight="0.6557047" weight="0.3286119" />
+      <window_info anchor="bottom" id="Logcat" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.32975152" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Designer" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Device File Explorer" order="10" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/import-summary.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/modes_menu.xml">
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-w600dp-h976dp/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-w768dp-h1232dp/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-w768dp-h976dp/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-w800dp-h1232dp/activity_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

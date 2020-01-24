@@ -1,0 +1,11 @@
+F16		F16
+F18		F18		***
+Mirage	Mirage	***
+A-10	F16
+AV-8	F16
+F15		F16
+Tornado	F16
+JAS-37	F16
+F-4		F16
+F14		F14		***
+Mig 29	F16

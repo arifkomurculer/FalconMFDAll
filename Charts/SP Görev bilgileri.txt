@@ -1,0 +1,37 @@
+case "-1": 'Target
+        case "0": 'Nav 
+        ' TO& Land 
+        case "1": 'takeoff (fallthrogh)
+        case "7": 'Landing (fallthrogh)
+
+        ' Package 
+        case "2": 'Package RNDZ
+        case "3": 'Package break
+   
+        ' Enrout tasks
+        case "4": 'refuel
+        case "5": 'Rearm
+        case "8": 'Timing
+        case "9": 'Contact
+           
+        ' F-16 Action point
+        case "10": 'Escort
+        case "11": 'sweep
+        case "12": 'CAP
+        case "13": 'Intercept
+        case "14": 'Attack
+        case "15": 'Attack
+        case "16": 'S&D
+        case "17": 'Strike
+        case "18": 'Bomb
+        case "19": 'SEAD
+          
+        ' Other tasks
+        case "6": 'Pickup        
+        case "20": 'ELINT
+        case "21": 'Reacon
+        case "22": 'Rescue
+        case "23": 'ASW
+        case "24": 'Fuel
+        case "25": 'Airdrop
+        case "26": 'Jam

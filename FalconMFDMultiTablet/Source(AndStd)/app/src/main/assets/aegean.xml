@@ -1,0 +1,1066 @@
+<AirportData>
+          <PK>1</PK>
+          <Name>Skopje -Former Republic of Yugoslavia</Name>
+          <XCoor>50</XCoor>
+          <YCoor>140</YCoor>
+          <Twr>365.2 / 118.5</Twr>
+          <TcnCh>075 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>108.7 (34)</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>754</Elv>
+          <GPSCoor>N41°57.908-E21°51.550</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>2</PK>
+          <Name>Dolni Rakovets -Bulgaria</Name>
+          <XCoor>275</XCoor>
+          <YCoor>30</YCoor>
+          <Twr>366.8 / 122.8</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>1997</Elv>
+          <GPSCoor>N42°26.266-E23°15.117</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>3</PK>
+          <Name>Chernovo -Bulgaria</Name>
+          <XCoor>405</XCoor>
+          <YCoor>35</YCoor>
+          <Twr>256.4 / 118.9</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>2276</Elv>
+          <GPSCoor>N42°25.893-E24°02.743</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>4</PK>
+          <Name>Lyakhovo -Bulgaria</Name>
+          <XCoor>480</XCoor>
+          <YCoor>95</YCoor>
+          <Twr>256.4 / 118.9</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>760</Elv>
+          <GPSCoor>N42°09.189-E24°29.703</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>5</PK>
+          <Name>Plovdiv Krumovo -Bulgaria</Name>
+          <XCoor>580</XCoor>
+          <YCoor>110</YCoor>
+          <Twr>315.6 / 119.6</Twr>
+          <TcnCh>096 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>111.1 (30)</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>597</Elv>
+          <GPSCoor>N42°05.083-E25°06.389</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>6</PK>
+          <Name>Uzundzhovo -Bulgaria</Name>
+          <XCoor>705</XCoor>
+          <YCoor>140</YCoor>
+          <Twr>289.9 / 121.5</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>567</Elv>
+          <GPSCoor>N41°58.246-E25°50.188</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>7</PK>
+          <Name>Bezmer -Bulgaria</Name>
+          <XCoor>810</XCoor>
+          <YCoor>35</YCoor>
+          <Twr>320.3 / 122.8</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>509</Elv>
+          <GPSCoor>N42°25.559-E26°38.067</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>8</PK>
+          <Name>Alexandria -Greece</Name>
+          <XCoor>170</XCoor>
+          <YCoor>435</YCoor>
+          <Twr>257.8 / 123.5</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>26</Elv>
+          <GPSCoor>N40°39.406-E22°36.856</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>9</PK>
+          <Name>Thessaloniki -Greece (Count)</Name>
+          <XCoor>250</XCoor>
+          <YCoor>460</YCoor>
+          <Twr>257.8 / 118.1</Twr>
+          <TcnCh>065 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>109.5 (01)</Ils>
+          <Rwy>01/19-15/33</Rwy>
+          <Elv>22</Elv>
+          <GPSCoor>N40°31.057-E23°05.760</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>10</PK>
+          <Name>Kozani(Filippos) -Greece</Name>
+          <XCoor>50</XCoor>
+          <YCoor>515</YCoor>
+          <Twr>257.8 / 118.2</Twr>
+          <TcnCh>033 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>2080</Elv>
+          <GPSCoor>N40°17.563-E21°55.455</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>11</PK>
+          <Name>Komotini -Greece</Name>
+          <XCoor>655</XCoor>
+          <YCoor>318</YCoor>
+          <Twr>366.3 / 119.7</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>78</Elv>
+          <GPSCoor>N41°07.222-E25°29.123</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>12</PK>
+          <Name>Amigdhaleon -Greece</Name>
+          <XCoor>490</XCoor>
+          <YCoor>360</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>203</Elv>
+          <GPSCoor>N40°58.515-E24°29.133</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>13</PK>
+          <Name>Chrisoupolis(Mega Alexandros Intl.) -Greece</Name>
+          <XCoor>530</XCoor>
+          <YCoor>370</YCoor>
+          <Twr>257.8 / 118.4</Twr>
+          <TcnCh>063 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>05/23  L/R</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N40°55.809-E24°46.110</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>14</PK>
+          <Name>Alexandroupolis(Dimokritos) -Greece</Name>
+          <XCoor>760</XCoor>
+          <YCoor>385</YCoor>
+          <Twr>257.8 / 123.8</Twr>
+          <TcnCh>085 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>19</Elv>
+          <GPSCoor>N40°51.500-E26°06.167</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>15</PK>
+          <Name>Çanakkale -Turkey</Name>
+          <XCoor>840</XCoor>
+          <YCoor>540</YCoor>
+          <Twr>257.8 / 123.6</Twr>
+          <TcnCh>049 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>22</Elv>
+          <GPSCoor>N40°08.794-E26°31.313</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>16</PK>
+          <Name>Larisa -Greece</Name>
+          <XCoor>150</XCoor>
+          <YCoor>645</YCoor>
+          <Twr>257.8 / 120.55</Twr>
+          <TcnCh>027 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>239</Elv>
+          <GPSCoor>N39°39.295-E22°29.985</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>17</PK>
+          <Name>Stefanovikion -Greece (Count)</Name>
+          <XCoor>205</XCoor>
+          <YCoor>685</YCoor>
+          <Twr>366.3 / 119.7</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>147</Elv>
+          <GPSCoor>N39°29.690-E22°47.094</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>18</PK>
+          <Name>Nea Anchialos -Greece (Count)</Name>
+          <XCoor>205</XCoor>
+          <YCoor>750</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>103 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>82</Elv>
+          <GPSCoor>N39°13.430-E22°47.718</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>19</PK>
+          <Name>Skiathos -Greece (Count)</Name>
+          <XCoor>320</XCoor>
+          <YCoor>760</YCoor>
+          <Twr>257.8 / 126.05</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>49</Elv>
+          <GPSCoor>N39°11.454-E23°28.252</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>20</PK>
+          <Name>Skiros</Name>
+          <XCoor>495</XCoor>
+          <YCoor>810</YCoor>
+          <Twr>257.8 / 123.2</Twr>
+          <TcnCh>108 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>49</Elv>
+          <GPSCoor>N38°57.468-E24°28.344</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>21</PK>
+          <Name>Polikhnitos -Greece (Count)</Name>
+          <XCoor>795</XCoor>
+          <YCoor>775</YCoor>
+          <Twr>355.1 / 119.1</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>649</Elv>
+          <GPSCoor>N39°05.287-E26°09.617</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>22</PK>
+          <Name>Mitilini -Greece (Count)</Name>
+          <XCoor>855</XCoor>
+          <YCoor>790</YCoor>
+          <Twr>257.8 / 123.85</Twr>
+          <TcnCh>033 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>55</Elv>
+          <GPSCoor>N39°03.202-E26°33.999</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>23</PK>
+          <Name>Lamia -Greece</Name>
+          <XCoor>140</XCoor>
+          <YCoor>815</YCoor>
+          <Twr>366.3 / 119.7</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>98</Elv>
+          <GPSCoor>N38°53.049-E22°24.302</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>24</PK>
+          <Name>Tanagra -Greece (Count)</Name>
+          <XCoor>330</XCoor>
+          <YCoor>950</YCoor>
+          <Twr>257.8 / 120.25</Twr>
+          <TcnCh>112 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>485</Elv>
+          <GPSCoor>N38°20.552-E23°29.012</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>25</PK>
+          <Name>Chios -Greece</Name>
+          <XCoor>780</XCoor>
+          <YCoor>950</YCoor>
+          <Twr>257.8 / 122.7</Twr>
+          <TcnCh>123 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N38°20.827-E26°03.046</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>26</PK>
+          <Name>Olimboi -Greece (Count)</Name>
+          <XCoor>750</XCoor>
+          <YCoor>970</YCoor>
+          <Twr>366.3 / 119.7</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>656</Elv>
+          <GPSCoor>N39°14.791-E25°51.742</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>27</PK>
+          <Name>Marathon -Greece</Name>
+          <XCoor>410</XCoor>
+          <YCoor>985</YCoor>
+          <Twr>355.1 / 119.1</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>711</Elv>
+          <GPSCoor>N38°09.247-E23°55.155</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>28</PK>
+          <Name>Tatoi -Greece (Count)</Name>
+          <XCoor>365</XCoor>
+          <YCoor>995</YCoor>
+          <Twr>257.8 / 118.5</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>784</Elv>
+          <GPSCoor>N38°07.014-E23°41.200</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>29</PK>
+          <Name>Elefsis -Greece</Name>
+          <XCoor>315</XCoor>
+          <YCoor>1005</YCoor>
+          <Twr>362.3 / 120.15</Twr>
+          <TcnCh>019 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>144</Elv>
+          <GPSCoor>N38°04.661-E23°27.343</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>30</PK>
+          <Name>Megara -Greece (Count)</Name>
+          <XCoor>290</XCoor>
+          <YCoor>1025</YCoor>
+          <Twr>282.2 / 123.5</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>120</Elv>
+          <GPSCoor>N37°00.147-E23°15.861</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>31</PK>
+          <Name>Venizelos Intl. -Greece (Count)</Name>
+          <XCoor>390</XCoor>
+          <YCoor>1030</YCoor>
+          <Twr>278.7 / 118.625</Twr>
+          <TcnCh>066 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>111.1 (02R)-111.1 (20L)-110.5 (02L)-110.5 (20R)</Ils>
+          <Rwy>02/20 L/R</Rwy>
+          <Elv>308</Elv>
+          <GPSCoor>N37°58.163-E23°50.191</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>32</PK>
+          <Name>Hellinikon -Greece</Name>
+          <XCoor>350</XCoor>
+          <YCoor>1045</YCoor>
+          <Twr>257.8 / 118.1</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>68</Elv>
+          <GPSCoor>N37°54.906-E23°37.044</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>33</PK>
+          <Name>Tripolis -Greece (Count)</Name>
+          <XCoor>120</XCoor>
+          <YCoor>1125</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>035 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>2112</Elv>
+          <GPSCoor>N37°32.167-E22°15.802</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>34</PK>
+          <Name>Mikonos -Greece (Count)</Name>
+          <XCoor>630</XCoor>
+          <YCoor>1155</YCoor>
+          <Twr>257.8 / 119.875</Twr>
+          <TcnCh>037 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>450</Elv>
+          <GPSCoor>N37°25.252-E25°11.198</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>35</PK>
+          <Name>Kalamata -Greece</Name>
+          <XCoor>50</XCoor>
+          <YCoor>1230</YCoor>
+          <Twr>257.8 / 120.75</Twr>
+          <TcnCh>064 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.6 (34)</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>26</Elv>
+          <GPSCoor>N37°04.775-E21°50.964</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>36</PK>
+          <Name>Sparti -Greece (Count)</Name>
+          <XCoor>135</XCoor>
+          <YCoor>1240</YCoor>
+          <Twr>366.3 / 119.7</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>498</Elv>
+          <GPSCoor>N36°58.813-E22°20.292</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>37</PK>
+          <Name>Santorini -Greece (Count)</Name>
+          <XCoor>665</XCoor>
+          <YCoor>1385</YCoor>
+          <Twr>257.8 / 118.05</Twr>
+          <TcnCh>111 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils></Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>131</Elv>
+          <GPSCoor>N36°24.362-E25°13.670</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>38</PK>
+          <Name>Sounda</Name>
+          <XCoor>405</XCoor>
+          <YCoor>1570</YCoor>
+          <Twr>257.8 / 121.1</Twr>
+          <TcnCh>061 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.6 (11)-110.6 (29)</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>492</Elv>
+          <GPSCoor>N35°32.431-E23°51.311</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>39</PK>
+          <Name>Iraklion(Nikos Kazantzakis) -Greece</Name>
+          <XCoor>590</XCoor>
+          <YCoor>1620</YCoor>
+          <Twr>257.8 / 120.85</Twr>
+          <TcnCh>020 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.8 (30)</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>114</Elv>
+          <GPSCoor>N35°19.331-E24°52.382</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>40</PK>
+          <Name>Kasteli -Greece</Name>
+          <XCoor>620</XCoor>
+          <YCoor>1645</YCoor>
+          <Twr>362.3 / 122.1</Twr>
+          <TcnCh>056 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>1181</Elv>
+          <GPSCoor>N35°12.206-E25°00.578</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>41</PK>
+          <Name>Tympaki -Greece (Count)</Name>
+          <XCoor>520</XCoor>
+          <YCoor>1670</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>035 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>6</Elv>
+          <GPSCoor>N35°04.162-E24°27.797</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>42</PK>
+          <Name>Raf Akrotiri -South Cyprus</Name>
+          <XCoor>2020</XCoor>
+          <YCoor>1785</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>035 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>6</Elv>
+          <GPSCoor>N35°04.162-E24°27.797</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>43</PK>
+          <Name>Paphos Intl.  -South Cyprus</Name>
+          <XCoor>1930</XCoor>
+          <YCoor>1750</YCoor>
+          <Twr>279.1 / 119.9</Twr>
+          <TcnCh>062 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>108.9 (29)</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>39</Elv>
+          <GPSCoor>N34°43.935-E32°07.599</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>44</PK>
+          <Name>Dalaman -Turkey</Name>
+          <XCoor>1245</XCoor>
+          <YCoor>1310</YCoor>
+          <Twr>257.8 / 118.5</Twr>
+          <TcnCh>100 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.1 (01)</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>20</Elv>
+          <GPSCoor>N36°43.296-E28°35.202</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>45</PK>
+          <Name>Antalya -Turkey</Name>
+          <XCoor>1600</XCoor>
+          <YCoor>1270</YCoor>
+          <Twr>257.8 / 126.1</Twr>
+          <TcnCh>102 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>108.1 (34R)-108.7 (16R)-110.3 (34L)</Ils>
+          <Rwy>34/16 L/R</Rwy>
+          <Elv>177</Elv>
+          <GPSCoor>N36°54.555-E30°35.233</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>46</PK>
+          <Name>Çardak -Turkey</Name>
+          <XCoor>1410</XCoor>
+          <YCoor>1075</YCoor>
+          <Twr>257.8 / 118.6</Twr>
+          <TcnCh>060 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.7 (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>2795</Elv>
+          <GPSCoor>N37°46.893-E29°34.677</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>47</PK>
+          <Name>Süleyman Demirel -Turkey (Cont)</Name>
+          <XCoor>1560</XCoor>
+          <YCoor>1070</YCoor>
+          <Twr>337.8 / 119.2</Twr>
+          <TcnCh>122 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils></Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>2835</Elv>
+          <GPSCoor>N37°47.213-E30°28.070</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>48</PK>
+          <Name>Konya -Turkey (Cont)</Name>
+          <XCoor>1900</XCoor>
+          <YCoor>1030</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>088 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>01/09</Rwy>
+          <Elv>3381</Elv>
+          <GPSCoor>N37°59.273-E32°26.637</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>49</PK>
+          <Name>Afyon -Turkey</Name>
+          <XCoor>1550</XCoor>
+          <YCoor>860</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>099 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>3310</Elv>
+          <GPSCoor>N38°44.176-E30°32.784</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>50</PK>
+          <Name>Sivrihisar -Turkey (Cont)</Name>
+          <XCoor>1680</XCoor>
+          <YCoor>700</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>029 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>3194</Elv>
+          <GPSCoor>N39°27.369-E31°22.617</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>51</PK>
+          <Name>Temelli -Turkey (Cont)</Name>
+          <XCoor>1850</XCoor>
+          <YCoor>635</YCoor>
+          <Twr>314.8 / 120.3</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>2564</Elv>
+          <GPSCoor>N39°44.623-E32°24.351</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>52</PK>
+          <Name>Kütahya -Turkey (Cont)</Name>
+          <XCoor>1455</XCoor>
+          <YCoor>710</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>046 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>3026</Elv>
+          <GPSCoor>N39°25.414-E30°02.636</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>53</PK>
+          <Name>Eskişehir -Turkey</Name>
+          <XCoor>1540</XCoor>
+          <YCoor>620</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>091 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>2581</Elv>
+          <GPSCoor>N39°47.790-E30°36.908</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>54</PK>
+          <Name>Yenişehir -Turkey (Cont)</Name>
+          <XCoor>1365</XCoor>
+          <YCoor>525</YCoor>
+          <Twr>340.3 / 124.2</Twr>
+          <TcnCh>079 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>109.7 (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>764</Elv>
+          <GPSCoor>N40°15.398-E29°39.0761</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>55</PK>
+          <Name>Bursa -Turkey</Name>
+          <XCoor>1270</XCoor>
+          <YCoor>525</YCoor>
+          <Twr>253.7 / 122</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>318</Elv>
+          <GPSCoor>N40°14.523-E29°04.818</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>56</PK>
+          <Name>Etimesgut -Turkey</Name>
+          <XCoor>1900</XCoor>
+          <YCoor>590</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>113 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.5 (11)</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv></Elv>
+          <GPSCoor>N39°57.544-E32°44.260</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>57</PK>
+          <Name>Güvercinlik -Turkey (Cont)</Name>
+          <XCoor>1915</XCoor>
+          <YCoor>590</YCoor>
+          <Twr>347.9 / 129.0</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>2694</Elv>
+          <GPSCoor>N39°56.633-E32°47.801</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>58</PK>
+          <Name>Akıncı -Turkey</Name>
+          <XCoor>1880</XCoor>
+          <YCoor>555</YCoor>
+          <Twr>362.3 / 122.1</Twr>
+          <TcnCh>092 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils></Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>2767</Elv>
+          <GPSCoor>N40°05.022-E32°37.966</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>59</PK>
+          <Name>Esenboğa -Turkey</Name>
+          <XCoor>1950</XCoor>
+          <YCoor>550</YCoor>
+          <Twr>257.8 / 118.1</Twr>
+          <TcnCh>090 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>108.9 (02L)-108.1 (20L)-110.3 (02R)-108.3 (20R)</Ils>
+          <Rwy>02/20 L/R</Rwy>
+          <Elv>3125</Elv>
+          <GPSCoor>N40°07.840-E33°03.816</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>60</PK>
+          <Name>Topel -Turkey (Cont)</Name>
+          <XCoor>1450</XCoor>
+          <YCoor>415</YCoor>
+          <Twr>362.3 / 122.1</Twr>
+          <TcnCh>086 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>182</Elv>
+          <GPSCoor>N40°44.907-E30°11.900</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>61</PK>
+          <Name>Köşeköy -Turkey (Cont)</Name>
+          <XCoor>1425</XCoor>
+          <YCoor>410</YCoor>
+          <Twr>347.9 / 129.0</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>32</Elv>
+          <GPSCoor>N40°46.207-E30°08.207</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>62</PK>
+          <Name>Yalova -Turkey (Cont)</Name>
+          <XCoor>1330</XCoor>
+          <YCoor>420</YCoor>
+          <Twr>314.8 / 120.3</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>6</Elv>
+          <GPSCoor>N40°41.202-E29°29.430</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>63</PK>
+          <Name>Sabiha Gökçen -Turkey (Cont)</Name>
+          <XCoor>1320</XCoor>
+          <YCoor>380</YCoor>
+          <Twr>243.1 / 128.55</Twr>
+          <TcnCh>025 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>109.9 (05R)-110.9 (23L)</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>268</Elv>
+          <GPSCoor>N40°54.732-E29°27.704</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>64</PK>
+          <Name>Samandıra -Turkey (Cont)</Name>
+          <XCoor>1305</XCoor>
+          <YCoor>355</YCoor>
+          <Twr>314.8 / 120.3</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>400</Elv>
+          <GPSCoor>N40°59.523-E29°21.635</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>65</PK>
+          <Name>Atatürk -Turkey</Name>
+          <XCoor>1225</XCoor>
+          <YCoor>360</YCoor>
+          <Twr>257.8 / 118.1</Twr>
+          <TcnCh>072 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.3 (16R)-111.1 (16L)-111.3 (34R)-111.5 (34L)</Ils>
+          <Rwy>34/16 L/R</Rwy>
+          <Elv>163</Elv>
+          <GPSCoor>N40°59.192-E28°57.441</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>66</PK>
+          <Name>Hezarfen -Turkey (Cont)</Name>
+          <XCoor>1195</XCoor>
+          <YCoor>330</YCoor>
+          <Twr>314.8 / 120.3</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>229</Elv>
+          <GPSCoor>N41°07.605-E28°43.967</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>67</PK>
+          <Name>Çorlu -Turkey</Name>
+          <XCoor>1085</XCoor>
+          <YCoor>330</YCoor>
+          <Twr>362.3 / 120.37</Twr>
+          <TcnCh>106 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.5 (05L)</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>574</Elv>
+          <GPSCoor>N40°19.373-E28°03.870</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>68</PK>
+          <Name>Burgas -Bulgaria</Name>
+          <XCoor>1025</XCoor>
+          <YCoor>5</YCoor>
+          <Twr>314.9 / 119.9</Twr>
+          <TcnCh>057 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.3 (03)</Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>135</Elv>
+          <GPSCoor>N42°35.600-E27°51.355</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>69</PK>
+          <Name>Bandırma -Turkey</Name>
+          <XCoor>1095</XCoor>
+          <YCoor>510</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>047 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>170</Elv>
+          <GPSCoor>N40°19.373-E28°03.870</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>70</PK>
+          <Name>Balıkesir -Turkey</Name>
+          <XCoor>1085</XCoor>
+          <YCoor>665</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>043 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>340</Elv>
+          <GPSCoor>N39°37.882-E27°56.436</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>71</PK>
+          <Name>Akhisar -Turkey</Name>
+          <XCoor>1075</XCoor>
+          <YCoor>845</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>039 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>16/34 L/R</Rwy>
+          <Elv>263</Elv>
+          <GPSCoor>N38°48.791-E27°47.548</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>72</PK>
+          <Name>Şişli -Turkey</Name>
+          <XCoor>935</XCoor>
+          <YCoor>905</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>083 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N38°31.530-E26°56.445</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>73</PK>
+          <Name>Kaklic -Turkey (Cont)</Name>
+          <XCoor>920</XCoor>
+          <YCoor>910</YCoor>
+          <Twr>314.8 / 122.1</Twr>
+          <TcnCh>115 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>13</Elv>
+          <GPSCoor>N38°31.530-E26°54.3787</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>74</PK>
+          <Name>Gaziemir -Turkey</Name>
+          <XCoor>960</XCoor>
+          <YCoor>940</YCoor>
+          <Twr>314.8 / 120.3</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>412</Elv>
+          <GPSCoor>N38°20.024-E27°04.416</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>75</PK>
+          <Name>Adnan Menderes -Turkey</Name>
+          <XCoor>955</XCoor>
+          <YCoor>960</YCoor>
+          <Twr>257.8 / 118.1</Twr>
+          <TcnCh>098 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.3 (34L)-108.5 (16L)</Ils>
+          <Rwy>16/34 L/R</Rwy>
+          <Elv>412</Elv>
+          <GPSCoor>N38°18.077-E27°04.379</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>76</PK>
+          <Name>Samos -Greece (Count)</Name>
+          <XCoor>910</XCoor>
+          <YCoor>1090</YCoor>
+          <Twr>257.8 / 122.1</Twr>
+          <TcnCh>053 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>32</Elv>
+          <GPSCoor>N37°41.826-E26°47.228</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>77</PK>
+          <Name>Leros -Greece</Name>
+          <XCoor>890</XCoor>
+          <YCoor>1205</YCoor>
+          <Twr>257.8 / 124.95</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>36</Elv>
+          <GPSCoor>N37°11.122-E26°38.570</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>78</PK>
+          <Name>Kos -Greece</Name>
+          <XCoor>940</XCoor>
+          <YCoor>1293</YCoor>
+          <Twr>257.8 / 121.05</Twr>
+          <TcnCh>027 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.9 (14)-110.9 (32)</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>410</Elv>
+          <GPSCoor>N36°48.490-E26°53.211</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>79</PK>
+          <Name>Marista -Greece</Name>
+          <XCoor>1120</XCoor>
+          <YCoor>1372</YCoor>
+          <Twr>257.8 / 118.1</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>203</Elv>
+          <GPSCoor>N36°23.372-E27°53.538</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>80</PK>
+          <Name>Paradisi(Diogoras-Rodos) -Greece (Count)</Name>
+          <XCoor>1120</XCoor>
+          <YCoor>1395</YCoor>
+          <Twr>381.0 / 118.2</Twr>
+          <TcnCh>121 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.3 (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N36°21.755-E27°51.399</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>81</PK>
+          <Name>Karpathos -Greece</Name>
+          <XCoor>950</XCoor>
+          <YCoor>1590</YCoor>
+          <Twr>257.8 / 123.2</Twr>
+          <TcnCh>033 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>65</Elv>
+          <GPSCoor>N35°26.875-E26°51.093</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>82</PK>
+          <Name>Limnos -Greece</Name>
+          <XCoor>620</XCoor>
+          <YCoor>590</YCoor>
+          <Twr>257.8 / 128.5</Twr>
+          <TcnCh>095 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils></Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N39°55.861-E25°15.885</GPSCoor>
+</AirportData>

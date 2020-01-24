@@ -1,0 +1,1444 @@
+<AirportData>
+     <PK>1</PK>
+     <Name>Trapani Birgi -SICILY</Name>
+     <XCoor>300</XCoor>
+     <YCoor>1775</YCoor>
+     <Twr>339.45 / 119.7</Twr>
+     <TcnCh>025X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34 L/R</Rwy>
+     <Elv>25</Elv>
+     <GPSCoor>N37°48.36'-E12°45.37'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>2</PK>
+     <Name>Catania Fontanarossa -SICILY</Name>
+     <XCoor>815</XCoor>
+     <YCoor>1860</YCoor>
+     <Twr>234.5 / 118.7</Twr>
+     <TcnCh>058X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>109.9(08)</Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>40</Elv>
+     <GPSCoor>N37°26.26'-E15°39.26'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>3</PK>
+     <Name>Reggio Calabria -ITALY (CONT) </Name>
+     <XCoor>950</XCoor>
+     <YCoor>1750</YCoor>
+     <Twr>257.8 / 118.25</Twr>
+     <TcnCh>047X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>109.3(14R)-111.0(14L)</Ils>
+     <Rwy>14/32-L/R</Rwy>
+     <Elv></Elv>
+     <GPSCoor>N37°55.36'-E16°26.17'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>4</PK>
+     <Name>Sigonella -SICILY</Name>
+     <XCoor>795</XCoor>
+     <YCoor>1890</YCoor>
+     <Twr>337.6 / 118.05</Twr>
+     <TcnCh>053X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>14/32 L/R</Rwy>
+     <Elv>81</Elv>
+     <GPSCoor>N37°19.80'-E15°30.73'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>5</PK>
+     <Name>Palermo -SICILY</Name>
+     <XCoor>425</XCoor>
+     <YCoor>1720</YCoor>
+     <Twr>257.8 / 119.05</Twr>
+     <TcnCh>077X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>109.9(23L)-109.5(23R)</Ils>
+     <Rwy>05/23-L/R</Rwy>
+     <Elv>64</Elv>
+     <GPSCoor>N38°02.80'-E13°27.46'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>6</PK>
+     <Name>Pantelleria -SICILY</Name>
+     <XCoor>190</XCoor>
+     <YCoor>2000</YCoor>
+     <Twr>279.125 / 118.45</Twr>
+     <TcnCh>108X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>02/20-L/R</Rwy>
+     <Elv>636</Elv>
+     <GPSCoor>N36°48.54'-E12°06.29'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>7</PK>
+     <Name>Lamezia Terme -ITALY (CONT)</Name>
+     <XCoor>1070</XCoor>
+     <YCoor>1575</YCoor>
+     <Twr>257.8 / 119.7</Twr>
+     <TcnCh>072X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>110.3 (02)</Ils>
+     <Rwy>43862</Rwy>
+     <Elv>40</Elv>
+     <GPSCoor>N38°43.86'-E17°12.66'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>8</PK>
+     <Name>Crotone -ITALY</Name>
+     <XCoor>1240</XCoor>
+     <YCoor>1565</YCoor>
+     <Twr>257.8 / 119.1</Twr>
+     <TcnCh>          R085° 072X Dme46</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>520</Elv>
+     <GPSCoor>N38°47.63'-E18°10.37'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>9</PK>
+     <Name>Zakinthos -GREECE</Name>
+     <XCoor>2020</XCoor>
+     <YCoor>1803</YCoor>
+     <Twr>257.8 / 125.5</Twr>
+     <TcnCh>045X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>14</Elv>
+     <GPSCoor>N37°39.73'- E22°27.83'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>10</PK>
+     <Name>Kefallinia -GREECE</Name>
+     <XCoor>1945</XCoor>
+     <YCoor>1735</YCoor>
+     <Twr>257.8 / 122.25</Twr>
+     <TcnCh>047X </TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>44256</Rwy>
+     <Elv>60</Elv>
+     <GPSCoor>  N38°00.75'-E22°05.80'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>11</PK>
+     <Name>Preveza -GREECE</Name>
+     <XCoor>2000</XCoor>
+     <YCoor>1575</YCoor>
+     <Twr>257.8 / 122.1</Twr>
+     <TcnCh>029X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>110.9 (08)</Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>13</Elv>
+     <GPSCoor>N38°43.32'-E22°31.70'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>12</PK>
+     <Name>Loanina -GREECE</Name>
+     <XCoor>2010</XCoor>
+     <YCoor>1415</YCoor>
+     <Twr>257.8 / 132.2</Twr>
+     <TcnCh>023X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>14/32</Rwy>
+     <Elv>1563</Elv>
+     <GPSCoor>N39°24.81'-E22°40.60'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>13</PK>
+     <Name>Gjirokaster -ALBANIA</Name>
+     <XCoor>1870</XCoor>
+     <YCoor>1345</YCoor>
+     <Twr>230.15 / 126.2</Twr>
+     <TcnCh>          R302° 023X Dme43</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>666</Elv>
+     <GPSCoor>N39°46.90'-E21°57.35'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>14</PK>
+     <Name>Lecce -ITALY (CONT)</Name>
+     <XCoor>1455</XCoor>
+     <YCoor>1292</YCoor>
+     <Twr>234.65 / 119.55</Twr>
+     <TcnCh>075X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>14/32</Rwy>
+     <Elv>158</Elv>
+     <GPSCoor>N39°27.14'-E19°34.19'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>15</PK>
+     <Name>San Pancrazio -ITALY (CONT)</Name>
+     <XCoor>1403</XCoor>
+     <YCoor>1263</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>          R205° 079X Dme15</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>160</Elv>
+     <GPSCoor>N40°07.92'-E19°15.11'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>16</PK>
+     <Name>Grottaglie -ITALY</Name>
+     <XCoor>1313</XCoor>
+     <YCoor>1240</YCoor>
+     <Twr>257.8 / 118.7</Twr>
+     <TcnCh>115X</TcnCh>
+     <TcnRng>40</TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>216</Elv>
+     <GPSCoor>N40°11.69'-E18°43.12'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>17</PK>
+     <Name>Matera -ITALY (CONT)</Name>
+     <XCoor>1135</XCoor>
+     <YCoor>1255</YCoor>
+     <Twr>230.95 / 126.2</Twr>
+     <TcnCh>          R227° 124X Dme27</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>14/32</Rwy>
+     <Elv>360</Elv>
+     <GPSCoor>N40°07.92'-E17°42.08'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>18</PK>
+     <Name>Gioia Del Colle -ITALY</Name>
+     <XCoor>1205</XCoor>
+     <YCoor>1183</YCoor>
+     <Twr>275.325 / 122.1</Twr>
+     <TcnCh>124X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34 -L/R</Rwy>
+     <Elv>1187</Elv>
+     <GPSCoor>N40°26.24'-E18°10.09'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>19</PK>
+     <Name>Brindisi-Casale -ITALY</Name>
+     <XCoor>1420</XCoor>
+     <YCoor>1220</YCoor>
+     <Twr>257.8 / 118.1</Twr>
+     <TcnCh>079X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>109.5 (33)</Ils>
+     <Rwy>01/19-15/33</Rwy>
+     <Elv>48</Elv>
+     <GPSCoor>N40°19.77'-E19°23.62'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>20</PK>
+     <Name>Palese Macchie -ITALY (CONT)</Name>
+     <XCoor>1175</XCoor>
+     <YCoor>1120</YCoor>
+     <Twr>302.5 / 118.3</Twr>
+     <TcnCh>100X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>109.3 (08)-111.3 (26)</Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>176</Elv>
+     <GPSCoor>N40°45.64'-E17°59.57'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>21</PK>
+     <Name>Grazzanise -ITALY</Name>
+     <XCoor>627</XCoor>
+     <YCoor>1130</YCoor>
+     <Twr>324.65 / 118.025</Twr>
+     <TcnCh>122X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils></Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>29</Elv>
+     <GPSCoor>N40°42.94'-E14°43.58'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>22</PK>
+     <Name>Capodichino -ITALY</Name>
+     <XCoor>667</XCoor>
+     <YCoor>1160</YCoor>
+     <Twr>235.15 / 118.5</Twr>
+     <TcnCh>125X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils>109.5 (26)</Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>298</Elv>
+     <GPSCoor>N40°34.86'-E14°58.03'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>23</PK>
+     <Name>Latina -ITALY (CONT)</Name>
+     <XCoor>380</XCoor>
+     <YCoor>1035</YCoor>
+     <Twr>261.0 /119.15</Twr>
+     <TcnCh>049X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>11293</Rwy>
+     <Elv>93</Elv>
+     <GPSCoor>N41°08.27'-E13°18.44'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>24</PK>
+     <Name>Practica Di Mare -ITALY (CONT)</Name>
+     <XCoor>300</XCoor>
+     <YCoor>1010</YCoor>
+     <Twr>358.9 / 122.1</Twr>
+     <TcnCh>024X</TcnCh>
+     <TcnRng>40</TcnRng>
+     <Ils>108.5 (30)</Ils>
+     <Rwy>11293</Rwy>
+     <Elv>41</Elv>
+     <GPSCoor>N41°14.73'-N12°48.57'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>25</PK>
+     <Name>Fiumicino İntl. -ITALY</Name>
+     <XCoor>250</XCoor>
+     <YCoor>988</YCoor>
+     <Twr>305.5 / 118.7</Twr>
+     <TcnCh>096X</TcnCh>
+     <TcnRng>80</TcnRng>
+     <Ils>109.7 (14R)-108.1 (14L)</Ils>
+     <Rwy>16/34 L/R</Rwy>
+     <Elv>14</Elv>
+     <GPSCoor>N41°22.28'-E12°31.55'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>26</PK>
+     <Name>Ciampino -ITALY</Name>
+     <XCoor>317</XCoor>
+     <YCoor>975</YCoor>
+     <Twr>308.775 / 120.5</Twr>
+     <TcnCh>045X</TcnCh>
+     <TcnRng>40</TcnRng>
+     <Ils>109.9 (16)</Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>426</Elv>
+     <GPSCoor>N41°23.35'-E12°57.83'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>27</PK>
+     <Name>Roma Urbe -ITALY (CONT)</Name>
+     <XCoor>310</XCoor>
+     <YCoor>948</YCoor>
+     <Twr>257.8 / 123.8</Twr>
+     <TcnCh>         R063° 096X Dme19</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>55</Elv>
+     <GPSCoor>N41°34.44'-E12°53.36'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>28</PK>
+     <Name>Guidogna -ITALY (CONT)</Name>
+     <XCoor>355</XCoor>
+     <XCoor>355</XCoor>
+     <YCoor>945</YCoor>
+     <Twr>257.8 / 122.1</Twr>
+     <TcnCh>         R066° 096X Dme30</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34-18/36</Rwy>
+     <Elv>289</Elv>
+     <GPSCoor>N41°34.13'-E13°08.56'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>29</PK>
+     <Name>Ginolisa -ITALY</Name>
+     <XCoor>918</XCoor>
+     <YCoor>1060</YCoor>
+     <Twr>362.3 / 118.85</Twr>
+     <TcnCh>         R246° 054X Dme12</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>266</Elv>
+     <GPSCoor>N41°08.88'-E16°31.88'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>30</PK>
+     <Name>Amendola -ITALY</Name>
+     <XCoor>965</XCoor>
+     <YCoor>1040</YCoor>
+     <Twr>257.8 / 118.2</Twr>
+     <TcnCh>054X</TcnCh>
+     <TcnRng>40</TcnRng>
+     <Ils></Ils>
+     <Rwy>47423</Rwy>
+     <Elv>160</Elv>
+     <GPSCoor>N41°07.44'-E16°47.02'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>31</PK>
+     <Name>Pescara -ITALY (CONT)</Name>
+     <XCoor>640</XCoor>
+     <YCoor>850</YCoor>
+     <Twr>257.8 / 118.45</Twr>
+     <TcnCh>106X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>110.7 (20)</Ils>
+     <Rwy>43862</Rwy>
+     <Elv>48</Elv>
+     <GPSCoor>N41°57.30'-E14°55.13'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>32</PK>
+     <Name>Grosseto -ITALY</Name>
+     <XCoor>12</XCoor>
+     <YCoor>780</YCoor>
+     <Twr>264.75 / 122.1</Twr>
+     <TcnCh>028X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>15</Elv>
+     <GPSCoor>N42°16.70'-E11°05.46'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>33</PK>
+     <Name>Ampugnano -ITALY</Name>
+     <XCoor>50</XCoor>
+     <YCoor>690</YCoor>
+     <Twr>359.15 / 122.1</Twr>
+     <TcnCh>039X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>638</Elv>
+     <GPSCoor>N42°42.03'-E11°19.43'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>34</PK>
+     <Name>Perugia -ITALY (CONT)</Name>
+     <XCoor>300</XCoor>
+     <YCoor>710</YCoor>
+     <Twr>325.15 / 118.1</Twr>
+     <TcnCh>031X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>110.95 (01)</Ils>
+     <Rwy>43466</Rwy>
+     <Elv>693</Elv>
+     <GPSCoor>N42°35.56'-E12°53.09'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>35</PK>
+     <Name>Falconara -ITALY</Name>
+     <XCoor>477</XCoor>
+     <YCoor>620</YCoor>
+     <Twr>257.8 / 119.8</Twr>
+     <TcnCh>035X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils>111.9 (20)</Ils>
+     <Rwy>02/20</Rwy>
+     <Elv>50</Elv>
+     <GPSCoor>N43°01.43'-E13°59.48'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>36</PK>
+     <Name>Peretola -ITALY (CONT)</Name>
+     <XCoor>35</XCoor>
+     <YCoor>570</YCoor>
+     <Twr>230.15 / 118.3</Twr>
+     <TcnCh>072X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>110.3 (03)</Ils>
+     <Rwy>44256</Rwy>
+     <Elv>144</Elv>
+     <GPSCoor>N43°14.36'-E11°15.16'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>37</PK>
+     <Name>Split -CROATIA</Name>
+     <XCoor>1075</XCoor>
+     <YCoor>620</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>104X</TcnCh>
+     <TcnRng>100</TcnRng>
+     <Ils>110.5 (03)</Ils>
+     <Rwy>44256</Rwy>
+     <Elv>79</Elv>
+     <GPSCoor>N42°59.27'-E17°39.62'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>38</PK>
+     <Name>Zadar -CROATIA</Name>
+     <XCoor>880</XCoor>
+     <YCoor>515</YCoor>
+     <Twr>236.6 / 123.7</Twr>
+     <TcnCh>023X</TcnCh>
+     <TcnRng>70</TcnRng>
+     <Ils></Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>289</Elv>
+     <GPSCoor>N43°29.98'-E16°32.43'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>39</PK>
+     <Name>Rimini -ITALY (CONT)</Name>
+     <XCoor>325</XCoor>
+     <YCoor>530</YCoor>
+     <Twr>278.1 / 119.1</Twr>
+     <TcnCh>109X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>109.3 (30)</Ils>
+     <Rwy>11293</Rwy>
+     <Elv>41</Elv>
+     <GPSCoor>N43°24.60'-E13°02.02'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>40</PK>
+     <Name>Forli -ITALY</Name>
+     <XCoor>210</XCoor>
+     <YCoor>490</YCoor>
+     <Twr>257.8 / 118.95</Twr>
+     <TcnCh>       R262° 083X Dme15</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>11293</Rwy>
+     <Elv>98</Elv>
+     <GPSCoor>N43°35.37'-E12°20.72'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>41</PK>
+     <Name>Cervia -ITALY</Name>
+     <XCoor>268</XCoor>
+     <YCoor>480</YCoor>
+     <Twr>338.225 / 122.1</Twr>
+     <TcnCh>083X</TcnCh>
+     <TcnRng>40</TcnRng>
+     <Ils></Ils>
+     <Rwy>11293</Rwy>
+     <Elv>19</Elv>
+     <GPSCoor>N43°36.99'-E12°40.85'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>42</PK>
+     <Name>Ravenna -ITALY (CONT)</Name>
+     <XCoor>245</XCoor>
+     <YCoor>453</YCoor>
+     <Twr>230.15 / 123.5</Twr>
+     <TcnCh>       R323° 083X Dme10</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>0</Elv>
+     <GPSCoor>N43°45.07'-E12°32.87'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>43</PK>
+     <Name>Bologna -ITALY</Name>
+     <XCoor>50</XCoor>
+     <YCoor>420</YCoor>
+     <Twr>257.8 / 120.8</Twr>
+     <TcnCh>059X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils>108.9 (12)</Ils>
+     <Rwy>11293</Rwy>
+     <Elv>122</Elv>
+     <GPSCoor>N43°54.23'-E11°21.31'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>44</PK>
+     <Name>Pula -CROATIA</Name>
+     <XCoor>600</XCoor>
+     <YCoor>350</YCoor>
+     <Twr>366.4 / 120.0</Twr>
+     <TcnCh>049X</TcnCh>
+     <TcnRng>100</TcnRng>
+     <Ils>111.5 (26)</Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>276</Elv>
+     <GPSCoor>N44°13.09'-E14°45.18'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>45</PK>
+     <Name>Portoroz -SLOVENIA</Name>
+     <XCoor>520</XCoor>
+     <YCoor>230</YCoor>
+     <Twr>230.15 / 129.325</Twr>
+     <TcnCh>       R227° 074X Dme65</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>7</Elv>
+     <GPSCoor>N44°44.34'-E15°32.97'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>46</PK>
+     <Name>Venezia Tessera -ITALY (CONT)</Name>
+     <XCoor>270</XCoor>
+     <YCoor>220</YCoor>
+     <Twr>257.8 / 120.2</Twr>
+     <TcnCh>100X</TcnCh>
+     <TcnRng>40</TcnRng>
+     <Ils>110.3 (05R)</Ils>
+     <Rwy>05/23 L/R</Rwy>
+     <Elv>7</Elv>
+     <GPSCoor>N44°47.58'-E12°45.92'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>47</PK>
+     <Name>Padova -ITALY (CONT)</Name>
+     <XCoor>155</XCoor>
+     <YCoor>240</YCoor>
+     <Twr>257.8 / 123.25</Twr>
+     <TcnCh>       R125° 081X Dme17</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>05/23 L/R</Rwy>
+     <Elv>44</Elv>
+     <GPSCoor>N44°42.73'-E12°01.80'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>48</PK>
+     <Name>Vicenca -ITALY (CONT)</Name>
+     <XCoor>110</XCoor>
+     <YCoor>200</YCoor>
+     <Twr>389.25 / 130.4</Twr>
+     <TcnCh>081X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>128</Elv>
+     <GPSCoor>N44°52.43'-E11°43.72'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>49</PK>
+     <Name>Treviso -ITALY (CONT)</Name>
+     <XCoor>235</XCoor>
+     <YCoor>195</YCoor>
+     <Twr>278.2 / 118.7</Twr>
+     <TcnCh>       R086° 081X Dme35     </TcnCh>
+     <TcnRng></TcnRng>
+     <Ils>109.3 (08)</Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>57</Elv>
+     <GPSCoor>N44°55.12'-E12°31.70'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>50</PK>
+     <Name>Istrana -ITALY (CONT)</Name>
+     <XCoor>215</XCoor>
+     <YCoor>180</YCoor>
+     <Twr>234.1 / 122.1</Twr>
+     <TcnCh>054X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils></Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>143</Elv>
+     <GPSCoor>N44°58.30'-E12°25.01'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>51</PK>
+     <Name>Asiago -ITALY</Name>
+     <XCoor>95</XCoor>
+     <YCoor>145</YCoor>
+     <Twr>334.2 / 122.6</Twr>
+     <TcnCh>       R353° 081X Dme17</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>05/23 L/R</Rwy>
+     <Elv>3409</Elv>
+     <GPSCoor>N45°08.59'-E11°39.34'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>52</PK>
+     <Name>Mattarello -ITALY (CONT)</Name>
+     <XCoor>20</XCoor>
+     <YCoor>115</YCoor>
+     <Twr>220.1 / 119.65</Twr>
+     <TcnCh>       R315° 081X Dme35</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>05/23 L/R</Rwy>
+     <Elv>44</Elv>
+     <GPSCoor>N44°42.73'-E12°01.80'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>53</PK>
+     <Name>Bolzano -ITALY</Name>
+     <XCoor>55</XCoor>
+     <YCoor>30</YCoor>
+     <Twr>257.8 / 120.6</Twr>
+     <TcnCh>117X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils></Ils>
+     <Rwy>02/20 L/R</Rwy>
+     <Elv>784</Elv>
+     <GPSCoor>N45°38.77'-E11°23.51'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>54</PK>
+     <Name>Aviano -ITALY</Name>
+     <XCoor>315</XCoor>
+     <YCoor>117</YCoor>
+     <Twr>284.65 / 142.05</Twr>
+     <TcnCh>111X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils>109.5 (03)</Ils>
+     <Rwy>44256</Rwy>
+     <Elv>418</Elv>
+     <GPSCoor>N45°16.71'-E13°05.20'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>55</PK>
+     <Name>Rivolto -ITALY (CONT)</Name>
+     <XCoor>407</XCoor>
+     <YCoor>127</YCoor>
+     <Twr>234.15 / 122.1</Twr>
+     <TcnCh>037X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>184</Elv>
+     <GPSCoor>N45°13.44'-E13°39.51'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>56</PK>
+     <Name>Ronchi Dei Legionari -ITALY (CONT)</Name>
+     <XCoor>500</XCoor>
+     <YCoor>160</YCoor>
+     <Twr>257.8 / 130.2</Twr>
+     <TcnCh>089X</TcnCh>
+     <TcnRng>40</TcnRng>
+     <Ils>109.7 (11)</Ils>
+     <Rwy>47423</Rwy>
+     <Elv>37</Elv>
+     <GPSCoor>N45°06.36'-E14°13.48'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>57</PK>
+     <Name>Ljubljana -SLOVENIA</Name>
+     <XCoor>700</XCoor>
+     <YCoor>70</YCoor>
+     <Twr>385.15 / 118.1</Twr>
+     <TcnCh>074X</TcnCh>
+     <TcnRng>100</TcnRng>
+     <Ils>110.5 (30)</Ils>
+     <Rwy>11293</Rwy>
+     <Elv>1273</Elv>
+     <GPSCoor>N45°26.91'-E15°31.52'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>58</PK>
+     <Name>Bloska Polica Airstript -SLOVENIA</Name>
+     <XCoor>728</XCoor>
+     <YCoor>175</YCoor>
+     <Twr>236.6 / 122.</Twr>
+     <TcnCh>      R165° 074X Dme27</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>46631</Rwy>
+     <Elv>2550</Elv>
+     <GPSCoor>N45°45.01'-E15°39.37'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>59</PK>
+     <Name>Rijeka -CROATIA</Name>
+     <XCoor>717</XCoor>
+     <YCoor>250</YCoor>
+     <Twr>308.8 / 11</Twr>
+     <TcnCh>125X</TcnCh>
+     <TcnRng>100</TcnRng>
+     <Ils>108.5 (08)</Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>279</Elv>
+     <GPSCoor>N44°37.88'-E15°32.97'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>60</PK>
+     <Name>Slovenj Gradec -SLOVENIA</Name>
+     <XCoor>840</XCoor>
+     <YCoor>30</YCoor>
+     <Twr>205.2 / 123.5</Twr>
+     <TcnCh>      R069° 074X Dme39</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>1645</Elv>
+     <GPSCoor>N45°42.00'-E16°23.66'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>61</PK>
+     <Name>Cerklje Airstrip -SLOVENIA</Name>
+     <XCoor>925</XCoor>
+     <YCoor>140</YCoor>
+     <Twr>236.6 / 122.6</Twr>
+     <TcnCh>      R279° 084X Dme41</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>46631</Rwy>
+     <Elv>510</Elv>
+     <GPSCoor>N45°06.98'-E16°40.18'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>62</PK>
+     <Name>Cerklje -SLOVENIA</Name>
+     <XCoor>880</XCoor>
+     <YCoor>150</YCoor>
+     <Twr>230.15 / 126.2</Twr>
+     <TcnCh>      R106° 074X Dme62</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>510</Elv>
+     <GPSCoor>N45°09.67'-E16°53.44'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>63</PK>
+     <Name>Karlovac Airstript  -CROATIA</Name>
+     <XCoor>940</XCoor>
+     <YCoor>244</YCoor>
+     <Twr>233.8 / 122.8</Twr>
+     <TcnCh>      R235° 084X Dme33</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>550</Elv>
+     <GPSCoor>550 N44°42.19'-E16°57.46'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>64</PK>
+     <Name>Bihac -BOSNIA HERZEGOVINA</Name>
+     <XCoor>970</XCoor>
+     <YCoor>360</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>      R291° 114X Dme156</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>11293</Rwy>
+     <Elv>1120</Elv>
+     <GPSCoor>N44°11.47'-E17°03.36'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>65</PK>
+     <Name>Udbina -CROATIA</Name>
+     <XCoor>970</XCoor>
+     <YCoor>415</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>      R331° 104X Dme65</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>11293</Rwy>
+     <Elv>2462</Elv>
+     <GPSCoor>N43°55.85'-E17°04.01'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>66</PK>
+     <Name>Maribor -SLOVENIA</Name>
+     <XCoor>958</XCoor>
+     <YCoor>33</YCoor>
+     <Twr>375.15 / 119.2</Twr>
+     <TcnCh>     R079° 074X Dme70</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils>110.1 (34)</Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>876</Elv>
+     <GPSCoor>N45°40.92'-E17°10.60'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>67</PK>
+     <Name>Zagreb -CROATIA</Name>
+     <XCoor>1040</XCoor>
+     <YCoor>170</YCoor>
+     <Twr>370.2 / 118.3</Twr>
+     <TcnCh>084X</TcnCh>
+     <TcnRng>100</TcnRng>
+     <Ils>109.5 (05R)-109.1 (23R)</Ils>
+     <Rwy>05/23 L/R</Rwy>
+     <Elv>351</Elv>
+     <GPSCoor>N45°00.51'-E17°36.70'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>68</PK>
+     <Name>Varazdin -CROATIA</Name>
+     <XCoor>1100</XCoor>
+     <YCoor>70</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R030° 084X Dme35</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>548</Elv>
+     <GPSCoor>N45°30.15'-E18°04.00'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>69</PK>
+     <Name>Nagykanisza -HUNGARY</Name>
+     <XCoor>1226</XCoor>
+     <YCoor>40</YCoor>
+     <Twr>230.15/118.1</Twr>
+     <TcnCh>     R053° 084X Dme63</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>470</Elv>
+     <GPSCoor>N45°37.69'-E18°51.95</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>70</PK>
+     <Name>Bjelovar Airstript -CROATIA</Name>
+     <XCoor>1185</XCoor>
+     <YCoor>150</YCoor>
+     <Twr>233.8 / 122.8</Twr>
+     <TcnCh>     R080° 084X Dme43</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>310</Elv>
+     <GPSCoor>N45°07.51'-E18°37.08'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>71</PK>
+     <Name>Taszar -HUNGARY</Name>
+     <XCoor>1410</XCoor>
+     <YCoor>45</YCoor>
+     <Twr>230.15 / 123.0</Twr>
+     <TcnCh>089X</TcnCh>
+     <TcnRng>50</TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34 L/R</Rwy>
+     <Elv>526</Elv>
+     <GPSCoor>N45°37.15'-E20°04.30'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>72</PK>
+     <Name>Pecs East -HUNGARY</Name>
+     <XCoor>1470</XCoor>
+     <YCoor>120</YCoor>
+     <Twr>230.15 / 126.9</Twr>
+     <TcnCh>     R356° 114X Dme124</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>350</Elv>
+     <GPSCoor>N45°15.60'-E20°26.11'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>73</PK>
+     <Name>Banja Luka -BOSNIA HERZEGOVINA</Name>
+     <XCoor>1280</XCoor>
+     <YCoor>340</YCoor>
+     <Twr>295.4 / 118.95</Twr>
+     <TcnCh>     R316° 114X Dme86</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils>108.7 (16)</Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>400</Elv>
+     <GPSCoor>N44°16.32'-E19°04.26'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>74</PK>
+     <Name>Slavonski Brod -BOSNIA HERZEGOVINA</Name>
+     <XCoor>1412</XCoor>
+     <YCoor>290</YCoor>
+     <Twr>233.8 / 122.8</Twr>
+     <TcnCh>     R267° 070X Dme38</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>46631</Rwy>
+     <Elv>210</Elv>
+     <GPSCoor>N44°08.78'-E22°04.96'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>75</PK>
+     <Name>Ocseny -HUNGARY</Name>
+     <XCoor>1580</XCoor>
+     <YCoor>70</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R010° 114X Dme139</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>295</Elv>
+     <GPSCoor>N45°30.69'-E21°10.92'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>76</PK>
+     <Name>Satorhely -HUNGARY</Name>
+     <XCoor>1560</XCoor>
+     <YCoor>130</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R005° 114X Dme118</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>08/26</Rwy>
+     <Elv>410</Elv>
+     <GPSCoor>N45°10.75'-E20°55.11'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>77</PK>
+     <Name>Sombor -SERBIA</Name>
+     <XCoor>1650</XCoor>
+     <YCoor>170</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R305° 070X Dme86</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>14/32</Rwy>
+     <Elv>290</Elv>
+     <GPSCoor>N45°00.51'-E21°29.92'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>78</PK>
+     <Name>Osijek -CROATIA</Name>
+     <XCoor>1585</XCoor>
+     <YCoor>230</YCoor>
+     <Twr>230.15 / 118.8</Twr>
+     <TcnCh>     R015° 114X Dme94</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>02/20 L/R</Rwy>
+     <Elv>292</Elv>
+     <GPSCoor>N44°44.88'-E21°05.83'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>79</PK>
+     <Name>Brcko -BOSNIA HERZEGOVINA</Name>
+     <XCoor>1555</XCoor>
+     <YCoor>340</YCoor>
+     <Twr>233.8 / 122.8</Twr>
+     <TcnCh>     R347° 069X Dme28</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>46631</Rwy>
+     <Elv>290</Elv>
+     <GPSCoor>N44°17.40'-E20°46.79'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>80</PK>
+     <Name>Tuzla -BOSNIA HERZEGOVINA</Name>
+     <XCoor>1570</XCoor>
+     <YCoor>440</YCoor>
+     <Twr>379.5 / 130.85</Twr>
+     <TcnCh>069X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils>109.7 (12)</Ils>
+     <Rwy>11293</Rwy>
+     <Elv>785</Elv>
+     <GPSCoor>N44°50.46'-E20°50.57'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>81</PK>
+     <Name>Mostar -BOSNIA HERZEGOVINA</Name>
+     <XCoor>1395</XCoor>
+     <YCoor>665</YCoor>
+     <Twr>365.4 / 124.2</Twr>
+     <TcnCh>096X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34 R/L</Rwy>
+     <Elv>174</Elv>
+     <GPSCoor>N42°43.10'-E19°34.50'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>82</PK>
+     <Name>Sarajevo Intl. -BOSNIA HERZEGOVINA</Name>
+     <XCoor>1500</XCoor>
+     <YCoor>560</YCoor>
+     <Twr>234.15 / 118.25</Twr>
+     <TcnCh>114X</TcnCh>
+     <TcnRng>150</TcnRng>
+     <Ils>110.7 (12)</Ils>
+     <Rwy>11293</Rwy>
+     <Elv>1707</Elv>
+     <GPSCoor>N43°14.90'-E20°18.16'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>83</PK>
+     <Name>Gorazde</Name>
+     <XCoor>1647</XCoor>
+     <YCoor>630</YCoor>
+     <Twr>233.7 / 127.7</Twr>
+     <TcnCh>     R290° 114X Dme42</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>46631</Rwy>
+     <Elv>2480</Elv>
+     <GPSCoor>N42°59.81'-E21°08.92'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>84</PK>
+     <Name>Lepa Gleva -SERBIA</Name>
+     <XCoor>1770</XCoor>
+     <YCoor>560</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R213° 070X Dme65</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>11293</Rwy>
+     <Elv>2733</Elv>
+     <GPSCoor>N43°15.15'-E21°59.16'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>85</PK>
+     <Name>Sabac Airstript -SERBIA</Name>
+     <XCoor>1770</XCoor>
+     <YCoor>360</YCoor>
+     <Twr>233.7 / 127.7</Twr>
+     <TcnCh>     R267° 070X Dme38</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>210</Elv>
+     <GPSCoor>N44°08.78'-E22°04.96'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>86</PK>
+     <Name>Szeged -HUNGARY</Name>
+     <XCoor>1860</XCoor>
+     <YCoor>70</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R350° 070X Dme78</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>02/20 L/R</Rwy>
+     <Elv>259</Elv>
+     <GPSCoor>N45°26.91'-E22°56.23'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>87</PK>
+     <Name>Batajnica -SERBIA</Name>
+     <XCoor>1890</XCoor>
+     <YCoor>340</YCoor>
+     <Twr>230.15 / 118.15</Twr>
+     <TcnCh>     R324° 070X Dme7</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34 L/R</Rwy>
+     <Elv>265</Elv>
+     <GPSCoor>N44°15.79'-E22°57.85'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>88</PK>
+     <Name>Beograd -SERBIA</Name>
+     <XCoor>1900</XCoor>
+     <YCoor>360</YCoor>
+     <Twr>275.195 / 118.1</Twr>
+     <TcnCh>070X</TcnCh>
+     <TcnRng>150</TcnRng>
+     <Ils>110.3 (12)-109.9 (30)</Ils>
+     <Rwy>11293</Rwy>
+     <Elv>335</Elv>
+     <GPSCoor>N44°10.40'-E22°57.85'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>89</PK>
+     <Name>Kovin -SERBIA</Name>
+     <XCoor>2020</XCoor>
+     <YCoor>370</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R096° 070X Dme33</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>11293</Rwy>
+     <Elv>280</Elv>
+     <GPSCoor>N44°07.16'-E23°42.23'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>90</PK>
+     <Name>Kraljevo -SERBIA</Name>
+     <XCoor>1960</XCoor>
+     <YCoor>560</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R165° 070X Dme59</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>14/32</Rwy>
+     <Elv>680</Elv>
+     <GPSCoor>N43°14.36'-E23°06.72'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>91</PK>
+     <Name>Sjenica -SERBIA</Name>
+     <XCoor>1843</XCoor>
+     <YCoor>677</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R190° 070X Dme090</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>11293</Rwy>
+     <Elv>3285</Elv>
+     <GPSCoor>N42°43.10'-E22°19.52'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>92</PK>
+     <Name>Ivangrad -MONTENEGRO</Name>
+     <XCoor>1810</XCoor>
+     <YCoor>775</YCoor>
+     <Twr>230.15 / 118.1</Twr>
+     <TcnCh>     R055° 076X Dme41</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>43466</Rwy>
+     <Elv>2270</Elv>
+     <GPSCoor>N42°16.70'-E22°00.92'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>93</PK>
+     <Name>Trebinje Airstript  -BOSNIA HERZEGOVINA</Name>
+     <XCoor>1510</XCoor>
+     <YCoor>780</YCoor>
+     <Twr>233.8 / 122.8</Twr>
+     <TcnCh>     R179° 114X Dme59</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>2030</Elv>
+     <GPSCoor>N42°16.16'-E20°10.87'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>94</PK>
+     <Name>Dubrovnic -CROATIA</Name>
+     <XCoor>1480</XCoor>
+     <YCoor>830</YCoor>
+     <Twr>305.15 / 118.5</Twr>
+     <TcnCh>101X</TcnCh>
+     <TcnRng>100</TcnRng>
+     <Ils>110.1 (30)</Ils>
+     <Rwy>11293</Rwy>
+     <Elv>527</Elv>
+     <GPSCoor>N42°04.31'-E19°34.50'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>95</PK>
+     <Name>Tivat -MONTENEGRO</Name>
+     <XCoor>1570</XCoor>
+     <YCoor>860</YCoor>
+     <Twr>324.15 / 118.0</Twr>
+     <TcnCh>     R275° 076X Dme29</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils>110.3 (32)</Ils>
+     <Rwy>14/32</Rwy>
+     <Elv>20</Elv>
+     <GPSCoor>N41°55.15'-E20°33'.90'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>96</PK>
+     <Name>Danilovgrad Airstript -MONTENEGRO</Name>
+     <XCoor>1670</XCoor>
+     <YCoor>840</YCoor>
+     <Twr>233.7 / 127.7</Twr>
+     <TcnCh>     R328° 076X Dme11</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>46631</Rwy>
+     <Elv>180</Elv>
+     <GPSCoor>N42°02.15'-E21°06.88'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>97</PK>
+     <Name>Podgorica -MONTENEGRO</Name>
+     <XCoor>1680</XCoor>
+     <YCoor>870</YCoor>
+     <Twr>305.4 / 118.2</Twr>
+     <TcnCh>076X</TcnCh>
+     <TcnRng>80</TcnRng>
+     <Ils>111.0 (23R)</Ils>
+     <Rwy>05/23 L/R</Rwy>
+     <Elv>121</Elv>
+     <GPSCoor>N41°52.99'-E21°12.66'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>98</PK>
+     <Name>Shkoder -ALBANIA</Name>
+     <XCoor>1750</XCoor>
+     <YCoor>925</YCoor>
+     <Twr>230.15 / 126.2</Twr>
+     <TcnCh>    R135° 076X Dme23</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>14/32</Rwy>
+     <Elv>80</Elv>
+     <GPSCoor>N41°36.83'-E21°31.72'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>99</PK>
+     <Name>Kukes -ALBANIA</Name>
+     <XCoor>1927</XCoor>
+     <YCoor>928</YCoor>
+     <Twr>230.15 / 126.2</Twr>
+     <TcnCh>    R105° 076X Dme68</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>14/32</Rwy>
+     <Elv>1120</Elv>
+     <GPSCoor>N41°35.75'-E22°35.67'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>100</PK>
+     <Name>Gramsh -ALBANIA</Name>
+     <XCoor>1760</XCoor>
+     <YCoor>960</YCoor>
+     <Twr>230.15 / 129.5</Twr>
+     <TcnCh>    R142° 076X Dme32</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>23</Elv>
+     <GPSCoor>N41°28.20'-E21°34.63'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>101</PK>
+     <Name>Peshkopi Airstrip -ALBANIA</Name>
+     <XCoor>1930</XCoor>
+     <YCoor>1010</YCoor>
+     <Twr>231.4 / 123.4</Twr>
+     <TcnCh>    R120° 076X Dme77</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>2500</Elv>
+     <GPSCoor>N41°15.27'-E22°34.18'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>102</PK>
+     <Name>Ohrid -MACEDONIA</Name>
+     <XCoor>1985</XCoor>
+     <YCoor>1110</YCoor>
+     <Twr>250.2 / 119.2</Twr>
+     <TcnCh>072X</TcnCh>
+     <TcnRng>25</TcnRng>
+     <Ils>108.9 (02)</Ils>
+     <Rwy>43862</Rwy>
+     <Elv>2313</Elv>
+     <GPSCoor>N40°48.33'-NE22°50.10</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>103</PK>
+     <Name>Durres -ALBANIA</Name>
+     <XCoor>1730</XCoor>
+     <YCoor>1067</YCoor>
+     <Twr>231.4 / 123.4</Twr>
+     <TcnCh>    R167° 076X Dme56</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>40</Elv>
+     <GPSCoor>N40°59.11'-E21°19.95'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>104</PK>
+     <Name>Tirane Rinas -ALBANIA</Name>
+     <XCoor>1775</XCoor>
+     <YCoor>1065</YCoor>
+     <Twr>230.15 / 122.5</Twr>
+     <TcnCh>    R154° 076X Dme58</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>125</Elv>
+     <GPSCoor>N41°02.34'-E21°38'.32'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>105</PK>
+     <Name>Elbasan -ALBANIA</Name>
+     <XCoor>1840</XCoor>
+     <YCoor>1140</YCoor>
+     <Twr>230.15 / 119.15</Twr>
+     <TcnCh>    R150° 076X Dme86</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>05/23 L/R</Rwy>
+     <Elv>440</Elv>
+     <GPSCoor>N40°40.25'-E21°56.80'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>106</PK>
+     <Name>Lushnje -ALBANIA</Name>
+     <XCoor>1770</XCoor>
+     <YCoor>1140</YCoor>
+     <Twr>231.4 / 123.4</Twr>
+     <TcnCh>    R163° 076X Dme78</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>60</Elv>
+     <GPSCoor>N40°39.17'-E21°31.06'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>107</PK>
+     <Name>Berat -ALBANIA</Name>
+     <XCoor>1805</XCoor>
+     <YCoor>1190</YCoor>
+     <Twr>230.15 / 119.2</Twr>
+     <TcnCh>    R160° 076X Dme93</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>420</Elv>
+     <GPSCoor>N40°26.78'-E21°42.57'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>108</PK>
+     <Name>Cerrik Airtsrip -ALBANIA</Name>
+     <XCoor>1892</XCoor>
+     <YCoor>1183</YCoor>
+     <Twr>231.4 / 123.4</Twr>
+     <TcnCh>    R146° 076X Dme103</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>18/36</Rwy>
+     <Elv>920</Elv>
+     <GPSCoor>N40°27.85'-E22°13.19'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>109</PK>
+     <Name>Mifol -ALBANIA</Name>
+     <XCoor>1715</XCoor>
+     <YCoor>1230</YCoor>
+     <Twr>230.15 / 126.2</Twr>
+     <TcnCh>    R175° 076X Dme98</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>110</Elv>
+     <GPSCoor>N40°17.08'-E21°09.24'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>110</PK>
+     <Name>Korce North -ALBANIA</Name>
+     <XCoor>1987</XCoor>
+     <YCoor>1220</YCoor>
+     <Twr>230.15 / 126.2</Twr>
+     <TcnCh>    R357° 023X Dme55</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>43862</Rwy>
+     <Elv>665</Elv>
+     <GPSCoor>N40°18.69-E22°45.59'</GPSCoor>
+</AirportData>
+<AirportData>
+     <PK>111</PK>
+     <Name>Frosinone -ITALY</Name>
+     <XCoor>448</XCoor>
+     <YCoor>1006</YCoor>
+     <Twr>360.4 / 122.1</Twr>
+     <TcnCh>    R096° 096X Dme55</TcnCh>
+     <TcnRng></TcnRng>
+     <Ils></Ils>
+     <Rwy>16/34</Rwy>
+     <Elv>594</Elv>
+     <GPSCoor>N41°16.35'-E13°43.11'</GPSCoor>
+</AirportData>

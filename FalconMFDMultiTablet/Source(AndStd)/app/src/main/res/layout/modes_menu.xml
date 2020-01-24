@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup"
+    android:layout_width="200dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:id="@+id/menu_ecm_hmcs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true" >
+
+            <ImageView
+                android:id="@+id/imgUst"
+                android:layout_width="200dp"
+                android:layout_height="5dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/menuy_ust" />
+            
+            <ImageButton
+                android:id="@+id/btnMenuAP"
+                android:layout_width="200dp"
+                android:layout_height="45dp"
+                android:layout_below="@+id/imgUst"
+                android:background="@drawable/menuy_ecmhmcs"
+                android:scaleType="fitXY"
+                android:src="@drawable/menuy_ecmhmcs" />
+
+            <ImageView
+                android:id="@+id/ImgAlt"
+                android:layout_width="200dp"
+                android:layout_height="5dp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/btnMenuAP"
+                android:scaleType="fitXY"
+                android:src="@drawable/menuy_ust" />
+
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:id="@+id/menu_maps"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/menu_ecm_hmcs" >
+
+            <ImageView
+                android:id="@+id/ImgAltmenu_maps"
+                android:layout_width="200dp"
+                android:layout_height="5dp"
+                android:layout_alignParentLeft="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/menuy_ust" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+ 
+</LinearLayout>
+ 

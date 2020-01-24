@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/btnMapKorea"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_x="20dp"
+        android:layout_y="25dp"
+        android:text="Korea Map" />
+    
+    <Button
+        android:id="@+id/btnMapBalkan"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnMapKorea"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_x="20dp"
+        android:layout_y="85dp"
+        android:text="Balkan Map" />
+
+    <Button
+        android:id="@+id/btnMapAegean"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnMapBalkan"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_x="19dp"
+        android:layout_y="140dp"
+        android:text="Aegean Map" />
+    
+    <Button
+        android:id="@+id/btnMapIsrail"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnMapAegean"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Isreal Map" />
+
+</RelativeLayout>

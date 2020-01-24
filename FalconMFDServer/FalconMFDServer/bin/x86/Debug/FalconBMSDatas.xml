@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FalconBMS>
+  <Datas>
+    <KeyName>Picture</KeyName>
+    <KeyValue>D:\Games\Falcon BMS 4.33 U1\User\Pictures</KeyValue>
+  </Datas>
+  <Datas>
+    <KeyName>FalconBMSVersion</KeyName>
+    <KeyValue>BMS 4.33 U1</KeyValue>
+  </Datas>
+  <Datas>
+    <KeyName>AndroidIP</KeyName>
+    <KeyValue>192.168.1.101</KeyValue>
+  </Datas>
+  <Datas>
+    <KeyName>CallSign</KeyName>
+    <KeyValue>Viper</KeyValue>
+    <KeyValuePath>D:\Games\Falcon BMS 4.33 U1\User\Config\Viper.ini</KeyValuePath>
+  </Datas>
+</FalconBMS>

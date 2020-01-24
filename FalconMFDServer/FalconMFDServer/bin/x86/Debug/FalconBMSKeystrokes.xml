@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FalconBMS>
+  <Keystrokes>
+    <ID>SimECMOn</ID>
+    <Button>0X2D</Button>
+    <Modifier>2</Modifier>
+    <Description>HOTAS-ECM on - Consent Toggle</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimECMOn</ID>
+    <Button>0X2D</Button>
+    <Modifier>6</Modifier>
+    <Description>Sim-ECM On</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHmsSymWheelUp</ID>
+    <Button>0XC9</Button>
+    <Modifier>2</Modifier>
+    <Description>HMCS-Brightness Up</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHmsSymWheelDn</ID>
+    <Button>0XD1</Button>
+    <Modifier>2</Modifier>
+    <Description>HMCS-Brightness Down</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSJammerPower</ID>
+    <Button>0X3F</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Jammer Power</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSProgDec</ID>
+    <Button>0X10</Button>
+    <Modifier>1</Modifier>
+    <Description>Sim-EWS Program Dec</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSProgOne</ID>
+    <Button>0X2C</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Program 1</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSProgTwo</ID>
+    <Button>0X1E</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Program 2</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSProgThree</ID>
+    <Button>0X2E</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Program 3</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSProgFour</ID>
+    <Button>0X21</Button>
+    <Modifier>2</Modifier>
+    <Description>CMDS-Program 4</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSModeOff</ID>
+    <Button>0X35</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Mode Selector OFF</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSModeStby</ID>
+    <Button>0X34</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Mode Selector STBY</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSModeMan</ID>
+    <Button>0X33</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Mode Selector MAN</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSModeSemi</ID>
+    <Button>0X34</Button>
+    <Modifier>7</Modifier>
+    <Description>CMDS-Mode Selector SEMI</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSModeAuto</ID>
+    <Button>0X33</Button>
+    <Modifier>7</Modifier>
+    <Description>CMDS-Mode Selector AUTO</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimEWSModeByp</ID>
+    <Button>0X18</Button>
+    <Modifier>7</Modifier>
+    <Description>CMDS-Mode Selector BYP</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimDropFlare</ID>
+    <Button>0X1F</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Drop Flares</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimDropChaff</ID>
+    <Button>0X10</Button>
+    <Modifier>6</Modifier>
+    <Description>CMDS-Drop Chaffs</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>AFGearToggle</ID>
+    <Button>0X22</Button>
+    <Modifier>0</Modifier>
+    <Description>LG Panel-LG Handle Toggle</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimLeftAPUp</ID>
+    <Button>0X10</Button>
+    <Modifier>5</Modifier>
+    <Description>MISC ARMAMENT-ROLL HDG SEL</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimLeftAPMid</ID>
+    <Button>0X11</Button>
+    <Modifier>5</Modifier>
+    <Description>MISC ARMAMENT-ROLL ATT HOLD</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimLeftAPDown</ID>
+    <Button>0X12</Button>
+    <Modifier>5</Modifier>
+    <Description>MISC ARMAMENT-ROLL STRG SEL</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimRightAPUp</ID>
+    <Button>0X14</Button>
+    <Modifier>5</Modifier>
+    <Description>MISC ARMAMENT-PITCH ALT HOLD</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimRightAPMid</ID>
+    <Button>0X15</Button>
+    <Modifier>5</Modifier>
+    <Description>MISC ARMAMENT-PITCH A/P OFF</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimRightAPDown</ID>
+    <Button>0X16</Button>
+    <Modifier>5</Modifier>
+    <Description>MISC ARMAMENT-PITCH ATT HOLD</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_1L</ID>
+    <Button>0X2</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-1</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_2L</ID>
+    <Button>0X3</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-2</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_3L</ID>
+    <Button>0X4</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-3</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_4L</ID>
+    <Button>0X5</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-4</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_5L</ID>
+    <Button>0X6</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-5</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_6L</ID>
+    <Button>0X7</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-6</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_7L</ID>
+    <Button>0X8</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-7</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_8L</ID>
+    <Button>0X9</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-8</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_9L</ID>
+    <Button>0XA</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-9</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_10L</ID>
+    <Button>0XB</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-10</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_11L</ID>
+    <Button>0X4F</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-11</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_12L</ID>
+    <Button>0X50</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-12</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_13L</ID>
+    <Button>0X51</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-13</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_14L</ID>
+    <Button>0X4B</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-14</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_15L</ID>
+    <Button>0X4C</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-15</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_16L</ID>
+    <Button>0X4D</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-16</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_17L</ID>
+    <Button>0X47</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-17</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_18L</ID>
+    <Button>0X48</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-18</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_19L</ID>
+    <Button>0X49</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-19</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_20L</ID>
+    <Button>0X52</Button>
+    <Modifier>6</Modifier>
+    <Description>LMFD OSB-20</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimSymWheelUp</ID>
+    <Button>0X30</Button>
+    <Modifier>2</Modifier>
+    <Description>HUD-Brightness Up</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimSymWheelDn</ID>
+    <Button>0X20</Button>
+    <Modifier>6</Modifier>
+    <Description>HUD-Brightness Down</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimRetUp</ID>
+    <Button>0X1B</Button>
+    <Modifier>2</Modifier>
+    <Description>HUD-ManBomBRet Up</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimRetDn</ID>
+    <Button>0X1A</Button>
+    <Modifier>2</Modifier>
+    <Description>HUD-ManBombRet Down</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimWarnReset</ID>
+    <Button>0X11</Button>
+    <Modifier>7</Modifier>
+    <Description>ICP-Warning reset</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPCom1</ID>
+    <Button>0XB5</Button>
+    <Modifier>1</Modifier>
+    <Description>ICP-COM1</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPCom2</ID>
+    <Button>0X37</Button>
+    <Modifier>1</Modifier>
+    <Description>ICP-COM2</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPIFF</ID>
+    <Button>0XB5</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-IFF</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPLIST</ID>
+    <Button>0X53</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-LIST</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPDEDDOWN</ID>
+    <Button>0XD0</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-DCS-Down</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPDEDUP</ID>
+    <Button>0XC8</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-DCS-Up</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPDEDSEQ</ID>
+    <Button>0XCD</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-DCS-Seq</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPResetDED</ID>
+    <Button>0XCB</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-DCS-Return</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPCLEAR</ID>
+    <Button>0XD3</Button>
+    <Modifier>2</Modifier>
+    <Description>ICP-Reset</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPTILS</ID>
+    <Button>0X4F</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-1-ILS</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPALOW</ID>
+    <Button>0X50</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-2-ALOW</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPTHREE</ID>
+    <Button>0X51</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-3</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPStpt</ID>
+    <Button>0X4B</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-4-STPT</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPCrus</ID>
+    <Button>0X4C</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-5-CRUS</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPSIX</ID>
+    <Button>0X4D</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-6-TIME</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPMark</ID>
+    <Button>0X47</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-7-MARK</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPEIGHT</ID>
+    <Button>0X48</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-8-FIX</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPNINE</ID>
+    <Button>0X49</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-9-A-CAL</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPZERO</ID>
+    <Button>0X52</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-0-M-SEL</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPEnter</ID>
+    <Button>0X9C</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-Enter</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPNext</ID>
+    <Button>0XC9</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-Next</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPPrevious</ID>
+    <Button>0XD1</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-Previous</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimDriftCO</ID>
+    <Button>0X4E</Button>
+    <Modifier>0</Modifier>
+    <Description>ICP-Drift C/O Toggle</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimAltPressInc</ID>
+    <Button>0X10</Button>
+    <Modifier>3</Modifier>
+    <Description>Sim-Altimeter Calibration Inc</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimAltPressDec</ID>
+    <Button>0X11</Button>
+    <Modifier>3</Modifier>
+    <Description>Sim-Altimeter Calibration Dec</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHsiCourseDec</ID>
+    <Button>0X2F</Button>
+    <Modifier>6</Modifier>
+    <Description>HSI-course decrement</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHsiCourseInc</ID>
+    <Button>0X30</Button>
+    <Modifier>6</Modifier>
+    <Description>HSI-course increment</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHsiHeadingDec</ID>
+    <Button>0X31</Button>
+    <Modifier>6</Modifier>
+    <Description>HSI-heading decrement</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHsiHeadingInc</ID>
+    <Button>0X32</Button>
+    <Modifier>6</Modifier>
+    <Description>HSI-heading increment</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimFuelSwitchTest</ID>
+    <Button>0X15</Button>
+    <Modifier>6</Modifier>
+    <Description>FUEL QTY SEL-Test</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimFuelSwitchNorm</ID>
+    <Button>0X16</Button>
+    <Modifier>6</Modifier>
+    <Description>FUEL QTY SEL-Norm</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimFuelSwitchResv</ID>
+    <Button>0X17</Button>
+    <Modifier>6</Modifier>
+    <Description>FUEL QTY SEL-Rsvr</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimFuelSwitchWingInt</ID>
+    <Button>0X18</Button>
+    <Modifier>6</Modifier>
+    <Description>FUEL QTY SEL-Int Wing</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimFuelSwitchWingExt</ID>
+    <Button>0X19</Button>
+    <Modifier>6</Modifier>
+    <Description>FUEL QTY SEL-Ext Wing</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimFuelSwitchCenterExt</ID>
+    <Button>0X25</Button>
+    <Modifier>6</Modifier>
+    <Description>FUEL QTY SEL-Ext Ctr</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_1R</ID>
+    <Button>0X2</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-1</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_2R</ID>
+    <Button>0X28</Button>
+    <Modifier>0</Modifier>
+    <Description>RMFD OSB-2</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_3R</ID>
+    <Button>0X4</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-3</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_4R</ID>
+    <Button>0X5</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-4</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_5R</ID>
+    <Button>0X6</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-5</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_6R</ID>
+    <Button>0X7</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-6</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_7R</ID>
+    <Button>0X8</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-7</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_8R</ID>
+    <Button>0X9</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-8</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_9R</ID>
+    <Button>0XA</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-9</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_10R</ID>
+    <Button>0XB</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-10</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_11R</ID>
+    <Button>0X4F</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-11</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_12R</ID>
+    <Button>0X50</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-12</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_13R</ID>
+    <Button>0X51</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-13</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_14R</ID>
+    <Button>0X4B</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-14</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_15R</ID>
+    <Button>0X4C</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-15</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_16R</ID>
+    <Button>0X4D</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-16</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_17R</ID>
+    <Button>0X47</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-17</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_18R</ID>
+    <Button>0X48</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-18</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_19R</ID>
+    <Button>0X49</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-19</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimCBEOSB_20R</ID>
+    <Button>0X52</Button>
+    <Modifier>5</Modifier>
+    <Description>RMFD OSB-20</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>OTWStepHudColor</ID>
+    <Button>-2</Button>
+    <Modifier>0</Modifier>
+    <Description>OTWStepHudColor</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>OTWStepHudColor</ID>
+    <Button>0X2E</Button>
+    <Modifier>7</Modifier>
+    <Description>UFC-HUD Color</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>AFBrakesToggle</ID>
+    <Button>-2</Button>
+    <Modifier>0</Modifier>
+    <Description>Ckpit-Air brakes toggle</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimDropChaff</ID>
+    <Button>-2</Button>
+    <Modifier>0</Modifier>
+    <Description>Custom function</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPAA</ID>
+    <Button>-2</Button>
+    <Modifier>0</Modifier>
+    <Description>SimICPAA</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimICPAG</ID>
+    <Button>-2</Button>
+    <Modifier>0</Modifier>
+    <Description>SimICPAG</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHsiCrsDecBy1</ID>
+    <Button>0X28</Button>
+    <Modifier>7</Modifier>
+    <Description>HSI CRS 1 deg dec</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHsiCrsIncBy1</ID>
+    <Button>0X27</Button>
+    <Modifier>7</Modifier>
+    <Description>HSI CRS 1 deg inc</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHsiHdgDecBy1</ID>
+    <Button>0X35</Button>
+    <Modifier>7</Modifier>
+    <Description>HSI HDG 1 deg dec</Description>
+  </Keystrokes>
+  <Keystrokes>
+    <ID>SimHsiHdgIncBy1</ID>
+    <Button>0X2B</Button>
+    <Modifier>7</Modifier>
+    <Description>HSI HDG 1 deg inc</Description>
+  </Keystrokes>
+</FalconBMS>

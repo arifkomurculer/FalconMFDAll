@@ -1,0 +1,1079 @@
+<AirportData>
+          <PK>1</PK>
+          <Name>Seosan</Name>
+          <XCoor>780</XCoor>
+          <YCoor>1420</YCoor>
+          <Twr>353.1 / 136.75</Twr>
+          <TcnCh>052X</TcnCh>
+          <TcnRng>50 Nm</TcnRng>
+          <Ils>111.5 (20)</Ils>
+          <Rwy>02 / 20 L/R</Rwy>
+          <Elv>026'</Elv>
+          <GPSCoor>N36°41.72'-E127°19.84'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>2</PK>
+          <Name>R505</Name>
+          <XCoor>943</XCoor>
+          <YCoor>1423</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>042X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>30'</Elv>
+          <GPSCoor>N36°37.25'-E128°19.21'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>3</PK>
+          <Name>Chongwon</Name>
+          <XCoor>992</XCoor>
+          <YCoor>1423</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>042X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>180'</Elv>
+          <GPSCoor>N36°59.49'-E129°08.81'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>4</PK>
+          <Name>R601</Name>
+          <XCoor>1145</XCoor>
+          <YCoor>1409</YCoor>
+          <Twr>306.8 / 125.3</Twr>
+          <TcnCh>026X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L/R</Rwy>
+          <Elv>240'</Elv>
+          <GPSCoor>N36°41.88'-E129°26.52'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>5</PK>
+          <Name>Yechon</Name>
+          <XCoor>1185</XCoor>
+          <YCoor>1409</YCoor>
+          <Twr>269.5 / 124.35</Twr>
+          <TcnCh>026X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>491'</Elv>
+          <GPSCoor>N36°41.68'-E129°40.93'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>6</PK>
+          <Name>R110</Name>
+          <XCoor>825</XCoor>
+          <YCoor>1381</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>019X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>0'</Elv>
+          <GPSCoor>N36°49.11'-E127°39.65'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>7</PK>
+          <Name>Chongju</Name>
+          <XCoor>992</XCoor>
+          <YCoor>1385</YCoor>
+          <Twr>250.2 / 118.7</Twr>
+          <TcnCh>042X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L/R</Rwy>
+          <Elv>187'</Elv>
+          <GPSCoor>N36°48.41'-E128°36.74'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>8</PK>
+          <Name>Yongju</Name>
+          <XCoor>1230</XCoor>
+          <YCoor>1371</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>026X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>240'</Elv>
+          <GPSCoor>N36°51.26'-E129°55.13'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>9</PK>
+          <Name>Songwhan</Name>
+          <XCoor>911</XCoor>
+          <YCoor>1361</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>019X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>80'</Elv>
+          <GPSCoor>N36°54.50'-E128°09.63'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>10</PK>
+          <Name>PYongTaeg</Name>
+          <XCoor>897</XCoor>
+          <YCoor>1349</YCoor>
+          <Twr>257.8 / 122.5</Twr>
+          <TcnCh>019X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>108.5 (34)</Ils>
+          <Rwy>16 / 34</Rwy>
+          <Elv>102'</Elv>
+          <GPSCoor>N36°57.87'-E128°03.41'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>11</PK>
+          <Name>Choongwon</Name>
+          <XCoor>1089</XCoor>
+          <YCoor>1341</YCoor>
+          <Twr>230.15 / 126.2</Twr>
+          <TcnCh>005X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>111.3 (34R)</Ils>
+          <Rwy>16 / 34 L/R</Rwy>
+          <Elv>642'</Elv>
+          <GPSCoor>N36°59.80'-E129°08.78'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>12</PK>
+          <Name>Osan</Name>
+          <XCoor>885</XCoor>
+          <YCoor>1328</YCoor>
+          <Twr>308.8 / 122.1</Twr>
+          <TcnCh>094X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>60 / 27</Rwy>
+          <Elv></Elv>
+          <GPSCoor>N37°03.80'-E128°00.83'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>13</PK>
+          <Name>R605</Name>
+          <XCoor>1159</XCoor>
+          <YCoor>1304</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>005X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>0'</Elv>
+          <GPSCoor>N37°10.66'-E129°31.89'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>14</PK>
+          <Name>Suwon</Name>
+          <XCoor>875</XCoor>
+          <YCoor>1282</YCoor>
+          <Twr>366.0 / 126.2</Twr>
+          <TcnCh>022X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>108.5 (32L)</Ils>
+          <Rwy>14 / 32 L/R</Rwy>
+          <Elv>167'</Elv>
+          <GPSCoor>N37°16.73'-E127°57.15'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>15</PK>
+          <Name>Signal</Name>
+          <XCoor>903</XCoor>
+          <YCoor>1272</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>046X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>150'</Elv>
+          <GPSCoor>N37°19.28'-E128°07.93'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>16</PK>
+          <Name>Seoul</Name>
+          <XCoor>897</XCoor>
+          <YCoor>1244</YCoor>
+          <Twr>237.1 / 126.2</Twr>
+          <TcnCh>046X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>110.9 (19)</Ils>
+          <Rwy>18L / 36R - 01L / 19R</Rwy>
+          <Elv>258'</Elv>
+          <GPSCoor>N37°26.97'-E128°07.13'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>17</PK>
+          <Name>R103</Name>
+          <XCoor>814</XCoor>
+          <YCoor>1234</YCoor>
+          <Twr>236.6 / 122.6</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>0'</Elv>
+          <GPSCoor>N37°28.26'-E127°38.90'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>18</PK>
+          <Name>Hoengsong</Name>
+          <XCoor>1097</XCoor>
+          <YCoor>1234</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>053X</TcnCh>
+          <TcnRng>50 Nm</TcnRng>
+          <Ils>110.2</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>113'</Elv>
+          <GPSCoor>N37°27.90'-E129°13.70'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>19</PK>
+          <Name>Kimpo</Name>
+          <XCoor>827</XCoor>
+          <YCoor>1208</YCoor>
+          <Twr>240.9 / 118.05</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>109.9 (14L)-110.1 (14R)-108.3 (32L)-110.7 (32R)</Ils>
+          <Rwy>14 / 32 L/R</Rwy>
+          <Elv>096'</Elv>
+          <GPSCoor>N37°36.868'-E127°42.801'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>20</PK>
+          <Name>R419</Name>
+          <XCoor>1089</XCoor>
+          <YCoor>1183</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>005X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>1120'</Elv>
+          <GPSCoor>N37°41.910'-E129°12.830'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>21</PK>
+          <Name>Kangnung</Name>
+          <XCoor>1314</XCoor>
+          <YCoor>1171</YCoor>
+          <Twr>334.9 / 126.2</Twr>
+          <TcnCh>056X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>111.5 (26)</Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>051'</Elv>
+          <GPSCoor>N37°47.31'-E130°29.77'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>22</PK>
+          <Name>R113</Name>
+          <XCoor>843</XCoor>
+          <YCoor>1179</YCoor>
+          <Twr>236.6 / 122.6</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>100'</Elv>
+          <GPSCoor>N37°43.11'-E127°49.35'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>23</PK>
+          <Name>R107</Name>
+          <XCoor>782</XCoor>
+          <YCoor>1167</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>090X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>94'</Elv>
+          <GPSCoor>N37°46.23'-E127°28.89'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>24</PK>
+          <Name>R222</Name>
+          <XCoor>891</XCoor>
+          <YCoor>1143</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>240'</Elv>
+          <GPSCoor>N37°52.69'-E128°06.15'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>25</PK>
+          <Name>R217</Name>
+          <XCoor>925</XCoor>
+          <YCoor>1123</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>094X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>230'</Elv>
+          <GPSCoor>N37°57.82'-E128°18.83'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>26</PK>
+          <Name>Chunchon</Name>
+          <XCoor>1044</XCoor>
+          <YCoor>1139</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>094X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>290'</Elv>
+          <GPSCoor>N37°53.77'-E128°56.75'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>27</PK>
+          <Name>Sokcho</Name>
+          <XCoor>1252</XCoor>
+          <YCoor>1091</YCoor>
+          <Twr>236.6 / 122.2</Twr>
+          <TcnCh>047X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>111.0 (18)</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>-</Elv>
+          <GPSCoor>N38°06.84'-E130°09.07'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>28</PK>
+          <Name>R218</Name>
+          <XCoor>883</XCoor>
+          <YCoor>1101</YCoor>
+          <Twr>233.8 / 122.8</Twr>
+          <TcnCh>094X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>110'</Elv>
+          <GPSCoor>N38°03.47'-E128°04.85'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>29</PK>
+          <Name>Mandumi</Name>
+          <XCoor>867</XCoor>
+          <YCoor>1105</YCoor>
+          <Twr>253.4 / 118.9</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>239'</Elv>
+          <GPSCoor>N38°04.45'-E127°57.83'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>30</PK>
+          <Name>Ongjin</Name>
+          <XCoor>1028</XCoor>
+          <YCoor>1117</YCoor>
+          <Twr>368.1 / 119.7</Twr>
+          <TcnCh>058X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>11 / 29</Rwy>
+          <Elv>248'</Elv>
+          <GPSCoor>N37°59.158'-E126°01.761'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>31</PK>
+          <Name>Haeju</Name>
+          <XCoor>627</XCoor>
+          <YCoor>1105</YCoor>
+          <Twr>280.4 / 118.3</Twr>
+          <TcnCh>N.A.</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>113'</Elv>
+          <GPSCoor>N38°02.223'-E126°36.807'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>32</PK>
+          <Name>Ayang_ni</Name>
+          <XCoor>641</XCoor>
+          <YCoor>1046</YCoor>
+          <Twr>233.7 / 122.7</Twr>
+          <TcnCh>N.A.</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>-</Elv>
+          <GPSCoor>N38°18.14'-E126°43.00'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>33</PK>
+          <Name>Nuchon_Ni</Name>
+          <XCoor>718</XCoor>
+          <YCoor>1058</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>180'</Elv>
+          <GPSCoor>N38°16.54'-E127°07.44'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>34</PK>
+          <Name>Taebukpo_ri</Name>
+          <XCoor>827</XCoor>
+          <YCoor>1034</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>458'</Elv>
+          <GPSCoor>N38°21.39'-E127°46.20'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>35</PK>
+          <Name>Ich_on</Name>
+          <XCoor>839</XCoor>
+          <YCoor>978</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>1084'</Elv>
+          <GPSCoor>N38°36.48'-E127°51.34'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>36</PK>
+          <Name>Hyon_ni</Name>
+          <XCoor>970</XCoor>
+          <YCoor>962</YCoor>
+          <Twr>240.9 / 118.57</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>2598'</Elv>
+          <GPSCoor>N38°41.300'-E128°37.565'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>37</PK>
+          <Name>Hoeyang_se</Name>
+          <XCoor>1020</XCoor>
+          <YCoor>939</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>1695'</Elv>
+          <GPSCoor>N38°47.26'-E128°54.29'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>38</PK>
+          <Name>Kojo</Name>
+          <XCoor>1066</XCoor>
+          <YCoor>919</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>616'</Elv>
+          <GPSCoor>N38°52.11'-E129°11.30'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>39</PK>
+          <Name>Kuum_ni</Name>
+          <XCoor>1081</XCoor>
+          <YCoor>917</YCoor>
+          <Twr>388.7 / 128.0</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L/R</Rwy>
+          <Elv>198'</Elv>
+          <GPSCoor>N38°54.190'-E129°17.199'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>40</PK>
+          <Name>Taetan</Name>
+          <XCoor>492</XCoor>
+          <YCoor>1087</YCoor>
+          <Twr>288.7 / 117.3</Twr>
+          <TcnCh>058X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>174'</Elv>
+          <GPSCoor>N38°08.607'-E125°51.628'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>41</PK>
+          <Name>Pongsan</Name>
+          <XCoor>607</XCoor>
+          <YCoor>998</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>188'</Elv>
+          <GPSCoor>N38°32.17'-E126°32.51'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>42</PK>
+          <Name>Koksan</Name>
+          <XCoor>778</XCoor>
+          <YCoor>935</YCoor>
+          <Twr>318.2 / 127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L/R</Rwy>
+          <Elv>1058'</Elv>
+          <GPSCoor>N38°48.157'-E127°32.883'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>43</PK>
+          <Name>Koksan_HS</Name>
+          <XCoor>788</XCoor>
+          <YCoor>935</YCoor>
+          <Twr>231.4 / 123.4</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>1064'</Elv>
+          <GPSCoor>N38°47.80'-E127°35.51'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>44</PK>
+          <Name>Onch_on</Name>
+          <XCoor>472</XCoor>
+          <YCoor>905</YCoor>
+          <Twr>302.4 / 129.1</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>02 / 20 L/R</Rwy>
+          <Elv>13'</Elv>
+          <GPSCoor>N38°57.412'-E125°45.757'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>45</PK>
+          <Name>Sangwon</Name>
+          <XCoor>659</XCoor>
+          <YCoor>917</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>059X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>326'</Elv>
+          <GPSCoor>N38°53.18'-E126°50.17'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>46</PK>
+          <Name>Mirim</Name>
+          <XCoor>625</XCoor>
+          <YCoor>879</YCoor>
+          <Twr>225.3 / 128.65</Twr>
+          <TcnCh>059X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>127'</Elv>
+          <GPSCoor>N39°03.544'-E126°39.615'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>47</PK>
+          <Name>Wonsan</Name>
+          <XCoor>986</XCoor>
+          <YCoor>841</YCoor>
+          <Twr>244.4 / 123.8</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>50 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>01 / 19 -15 / 33</Rwy>
+          <Elv>14'</Elv>
+          <GPSCoor>N39°13.084'-E128°45.577'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>48</PK>
+          <Name>okpyong_ni</Name>
+          <XCoor>941</XCoor>
+          <YCoor>816</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>174'</Elv>
+          <GPSCoor>N39°19.59'-E128°30.53'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>49</PK>
+          <Name>Sunan</Name>
+          <XCoor>577</XCoor>
+          <YCoor>833</YCoor>
+          <Twr>264.0 / 133.0</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>100 Nm</TcnRng>
+          <Ils>109.9(18)-110.3(34)-109.5(36)</Ils>
+          <Rwy>18 / 26 -16 / 34</Rwy>
+          <Elv>174'</Elv>
+          <GPSCoor>N39°15.720'-E126°21.840'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>50</PK>
+          <Name>Sunchon</Name>
+          <XCoor>629</XCoor>
+          <YCoor>792</YCoor>
+          <Twr>253.1 / 124.0</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>16 / 34 L/R</Rwy>
+          <Elv>228'</Elv>
+          <GPSCoor>N39°26.670'-E126°42.318'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>51</PK>
+          <Name>yonghung</Name>
+          <XCoor>947</XCoor>
+          <YCoor>768</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>22'</Elv>
+          <GPSCoor>N39°33.06'-E128°32.99'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>52</PK>
+          <Name>puckhun_up</Name>
+          <XCoor>633</XCoor>
+          <YCoor>752</YCoor>
+          <Twr>264.9 / 128.2</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>14 / 32</Rwy>
+          <Elv>288'</Elv>
+          <GPSCoor>N39°37.849'-E126°44.436'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>53</PK>
+          <Name>kwaksan</Name>
+          <XCoor>460</XCoor>
+          <YCoor>728</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>301'</Elv>
+          <GPSCoor>N39°43.84'-E125°44.30'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>54</PK>
+          <Name>kaechon</Name>
+          <XCoor>629</XCoor>
+          <YCoor>714</YCoor>
+          <Twr>350.0 / 137.5</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>204'</Elv>
+          <GPSCoor>N39°47.400'-E126°42.427'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>55</PK>
+          <Name>Sondok</Name>
+          <XCoor>984</XCoor>
+          <YCoor>714</YCoor>
+          <Twr>343.8 / 136.6</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>32'</Elv>
+          <GPSCoor>N39°47.577'-E128°47.130'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>56</PK>
+          <Name>kaechon_sw</Name>
+          <XCoor>611</XCoor>
+          <YCoor>702</YCoor>
+          <Twr>231.4 / 123.4</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>516'</Elv>
+          <GPSCoor>N39°51.38'-E126°37.25'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>57</PK>
+          <Name>Sonchon_SW</Name>
+          <XCoor>387</XCoor>
+          <YCoor>716</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>055X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>281'</Elv>
+          <GPSCoor>N39°47.61'-E125°19.20'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>58</PK>
+          <Name>Panghyon_as</Name>
+          <XCoor>464</XCoor>
+          <YCoor>679</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>N.A.</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv></Elv>
+          <GPSCoor></GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>59</PK>
+          <Name>panghyon</Name>
+          <XCoor>478</XCoor>
+          <YCoor>671</YCoor>
+          <Twr>270.8 / 120.6</Twr>
+          <TcnCh>N.A.</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils></Ils>
+          <Rwy>02 / 20 L/R</Rwy>
+          <Elv>362'</Elv>
+          <GPSCoor>N39°58.840'-E125°51.027'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>60</PK>
+          <Name>Taechon</Name>
+          <XCoor>532</XCoor>
+          <YCoor>675</YCoor>
+          <Twr>275.5 / 119.02</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>213'</Elv>
+          <GPSCoor>N39°57.415'-E126°10.724'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>61</PK>
+          <Name>Toksan</Name>
+          <XCoor>1014</XCoor>
+          <YCoor>653</YCoor>
+          <Twr>324.8 / 124.6</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>02 / 20 L/R</Rwy>
+          <Elv>447'</Elv>
+          <GPSCoor>N40°03.690'-E128°59.915'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>62</PK>
+          <Name>Uiju</Name>
+          <XCoor>337</XCoor>
+          <YCoor>613</YCoor>
+          <Twr>372.0 / 136.0</Twr>
+          <TcnCh>055X</TcnCh>
+          <TcnRng>75 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L/R</Rwy>
+          <Elv>120'</Elv>
+          <GPSCoor>N40°15.017'-E125°01.967'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>63</PK>
+          <Name>Iwon</Name>
+          <XCoor>1256</XCoor>
+          <YCoor>579</YCoor>
+          <Twr>234.4 / 122.4</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>470'</Elv>
+          <GPSCoor>N40°24.718'-E130°26.856'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>64</PK>
+          <Name>Tangchon</Name>
+          <XCoor>1284</XCoor>
+          <YCoor>573</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>196'</Elv>
+          <GPSCoor>N40°25.33'-E130°36.18'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>65</PK>
+          <Name>hwangsuwon</Name>
+          <XCoor>1149</XCoor>
+          <YCoor>506</YCoor>
+          <Twr>368.5 / 136.3</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>12 / 30</Rwy>
+          <Elv>3991'</Elv>
+          <GPSCoor>N40°43.756'-E129°50.507'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>66</PK>
+          <Name>Manpo</Name>
+          <XCoor>738</XCoor>
+          <YCoor>401</YCoor>
+          <Twr>242.4 / 130.02</Twr>
+          <TcnCh>055X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>1392'</Elv>
+          <GPSCoor>N41°11.801'-E127°27.140'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>67</PK>
+          <Name>kilchu</Name>
+          <XCoor>1395</XCoor>
+          <YCoor>444</YCoor>
+          <Twr>231.4 / 123.4</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>448'</Elv>
+          <GPSCoor>N40°59.27'-E131°18.62'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>68</PK>
+          <Name>orang</Name>
+          <XCoor>1466</XCoor>
+          <YCoor>337</YCoor>
+          <Twr>349.9 / 118.07</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>03 / 21</Rwy>
+          <Elv>151'</Elv>
+          <GPSCoor>N41°27.626'-E131°48.613'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>69</PK>
+          <Name>kyongsong_chun</Name>
+          <XCoor>1464</XCoor>
+          <YCoor>307</YCoor>
+          <Twr>231.4 / 123.4</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>173'</Elv>
+          <GPSCoor>N41°35.92'-E131°48.53'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>70</PK>
+          <Name>sugam_ni</Name>
+          <XCoor>1484</XCoor>
+          <YCoor>272</YCoor>
+          <Twr>233.7 / 127.7</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>110'</Elv>
+          <GPSCoor>N41°46.15'-E131°56.43'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>71</PK>
+          <Name>nachodka</Name>
+          <XCoor>1792</XCoor>
+          <YCoor>-2</YCoor>
+          <Twr>398.8 / 149.9</Twr>
+          <TcnCh>-</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>14 / 32</Rwy>
+          <Elv>600'</Elv>
+          <GPSCoor>N42°59.916'-E134°00.718'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>72</PK>
+          <Name>liuhe</Name>
+          <XCoor>500</XCoor>
+          <YCoor>184</YCoor>
+          <Twr>390.8 / 150.12</Twr>
+          <TcnCh>088X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>01 / 19</Rwy>
+          <Elv>1555'</Elv>
+          <GPSCoor>N42°09.997'-E126°05.412'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>73</PK>
+          <Name>shenyang</Name>
+          <XCoor>93</XCoor>
+          <YCoor>236</YCoor>
+          <Twr>395.5 / 151.9</Twr>
+          <TcnCh>088X</TcnCh>
+          <TcnRng>100 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L/R</Rwy>
+          <Elv>254'</Elv>
+          <GPSCoor>N41°55.587'-E123°37.946'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>74</PK>
+          <Name>kunsan</Name>
+          <XCoor>790</XCoor>
+          <YCoor>1572</YCoor>
+          <Twr>292.3 / 126.5</Twr>
+          <TcnCh>075X</TcnCh>
+          <TcnRng>100 Nm</TcnRng>
+          <Ils>110.3 (18&36)</Ils>
+          <Rwy>18 / 36</Rwy>
+          <Elv>10'</Elv>
+          <GPSCoor>N35°58.39'-E127°25.38'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>75</PK>
+          <Name>kumi</Name>
+          <XCoor>1157</XCoor>
+          <YCoor>1518</YCoor>
+          <Twr>236.6 / 122.6</Twr>
+          <TcnCh>026X</TcnCh>
+          <TcnRng>-</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>09 / 27</Rwy>
+          <Elv>254'</Elv>
+          <GPSCoor>N36°12.61'-E129°27.68'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>76</PK>
+          <Name>taegu</Name>
+          <XCoor>1246</XCoor>
+          <YCoor>1574</YCoor>
+          <Twr>365.0 / 126.2</Twr>
+          <TcnCh>125X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>108.7 (32)</Ils>
+          <Rwy>14 / 32</Rwy>
+          <Elv>353'</Elv>
+          <GPSCoor>N35°58.41'-E129°55.55'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>77</PK>
+          <Name>pohang</Name>
+          <XCoor>1403</XCoor>
+          <YCoor>1554</YCoor>
+          <Twr>236.6 / 118.05</Twr>
+          <TcnCh>072X</TcnCh>
+          <TcnRng>100 Nm</TcnRng>
+          <Ils>110.9 (26)</Ils>
+          <Rwy>08 / 26</Rwy>
+          <Elv>37'</Elv>
+          <GPSCoor>N36°02.88'-E130°49.59'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>78</PK>
+          <Name>kwangju</Name>
+          <XCoor>847</XCoor>
+          <YCoor>1740</YCoor>
+          <Twr>254.6 / 126.2</Twr>
+          <TcnCh>091X</TcnCh>
+          <TcnRng>100 Nm</TcnRng>
+          <Ils>111.1 (02&20)</Ils>
+          <Rwy>02 / 20</Rwy>
+          <Elv>110'</Elv>
+          <GPSCoor>N35°12.80'-E127°39.97'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>79</PK>
+          <Name>sachon</Name>
+          <XCoor>1121</XCoor>
+          <YCoor>1760</YCoor>
+          <Twr>305.4 / 130.2</Twr>
+          <TcnCh>037X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>111.5 (05L)-108.1 (23R)</Ils>
+          <Rwy>05 / 23 L/R</Rwy>
+          <Elv>139'</Elv>
+          <GPSCoor>N35°07.95'-E129°09.96'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>80</PK>
+          <Name>kimhae</Name>
+          <XCoor>1306</XCoor>
+          <YCoor>1744</YCoor>
+          <Twr>233.3 / 118.1</Twr>
+          <TcnCh>117X</TcnCh>
+          <TcnRng>25 Nm</TcnRng>
+          <Ils>109.5 (34)</Ils>
+          <Rwy>16 / 34</Rwy>
+          <Elv>39'</Elv>
+          <GPSCoor>N35°13.29'-E130°11.66'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>81</PK>
+          <Name>pusan</Name>
+          <XCoor>1359</XCoor>
+          <YCoor>1736</YCoor>
+          <Twr>232.4 / 118.1</Twr>
+          <TcnCh>087X</TcnCh>
+          <TcnRng>50 Nm</TcnRng>
+          <Ils>109.5 (32)</Ils>
+          <Rwy>14 / 32</Rwy>
+          <Elv>579'</Elv>
+          <GPSCoor>N35°14.41'-E130°28.96'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>82</PK>
+          <Name>fukuoka</Name>
+          <XCoor>1788</XCoor>
+          <YCoor>1867</YCoor>
+          <Twr>225.5 / 126.2</Twr>
+          <TcnCh>057X</TcnCh>
+          <TcnRng>100 Nm</TcnRng>
+          <Ils>109.7(01)-108.7(19)</Ils>
+          <Rwy>01 / 19 -15 / 33</Rwy>
+          <Elv>106'</Elv>
+          <GPSCoor>N34°39.39'-E132°55.13'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>83</PK>
+          <Name>Samjiyon</Name>
+          <XCoor>1191</XCoor>
+          <YCoor>236</YCoor>
+          <Twr>299.1/131.8</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>75 Nm</TcnRng>
+          <Ils>-</Ils>
+          <Rwy>05 / 23 L/R</Rwy>
+          <Elv>4478'</Elv>
+          <GPSCoor>N41°55.243'-E130°13.612'</GPSCoor>
+</AirportData>

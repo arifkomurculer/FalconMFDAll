@@ -1,0 +1,1345 @@
+<AirportData>
+          <PK>1</PK>
+          <ICAO></ICAO>
+          <Name>ADNAN MENDERES (TURKEY)</Name>
+          <XCoor>950</XCoor>
+          <YCoor>970</YCoor>
+          <Twr>257.8
+118.1</Twr>
+          <TcnCh>098 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.3  (34L)
+108.5  (16L)</Ils>
+          <Rwy>16/34
+L/R</Rwy>
+          <Elv>412</Elv>
+          <GPSCoor>N38°18.077
+27°04.379</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>2</PK>
+          <ICAO></ICAO>
+          <Name>AFYON (TURKEY)</Name>
+          <XCoor>1555</XCoor>
+          <YCoor>866</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>099 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>3310</Elv>
+          <GPSCoor>N38°44.176
+30°32.784</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>3</PK>
+          <ICAO></ICAO>
+          <Name>AKHISAR (TURKEY)</Name>
+          <XCoor>1078</XCoor>
+          <YCoor>848</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>039 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>16/34
+L/R</Rwy>
+          <Elv>263</Elv>
+          <GPSCoor>N38°48.791
+27°47.548</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>4</PK>
+          <ICAO></ICAO>
+          <Name>AKINCI
+(Ankara) (TURKEY)</Name>
+          <XCoor>1885</XCoor>
+          <YCoor>562</YCoor>
+          <Twr>362.3
+122.1</Twr>
+          <TcnCh>092 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>2767</Elv>
+          <GPSCoor>N40°05.022
+32°37.966</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>5</PK>
+          <ICAO></ICAO>
+          <Name>AKROTIRI (RAF) (CYPRUS)</Name>
+          <XCoor>2024</XCoor>
+          <YCoor>1787</YCoor>
+          <Twr>339.9
+122.1</Twr>
+          <TcnCh>107 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>109.7  (29)</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>75</Elv>
+          <GPSCoor>N34°35.853
+32°37.3351</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>6</PK>
+          <ICAO></ICAO>
+          <Name>ALEXANDRIA (GREECE)</Name>
+          <XCoor>175</XCoor>
+          <YCoor>439</YCoor>
+          <Twr>257.8
+123.5</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>26</Elv>
+          <GPSCoor>N40°39.406
+22°36.856</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>7</PK>
+          <ICAO></ICAO>
+          <Name>ALEXANDROU-
+POLIS (Dimokritos) (GREECE)</Name>
+          <XCoor>767</XCoor>
+          <YCoor>389</YCoor>
+          <Twr>257.8
+123.8</Twr>
+          <TcnCh>085 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>19</Elv>
+          <GPSCoor>N40°51.500
+26°06.167</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>8</PK>
+          <ICAO></ICAO>
+          <Name>AMIGDHALEON (GREECE)</Name>
+          <XCoor>494</XCoor>
+          <YCoor>361</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>203</Elv>
+          <GPSCoor>N40°58.515
+24°29.133</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>9</PK>
+          <ICAO></ICAO>
+          <Name>ANTALYA (TURKEY)</Name>
+          <XCoor>1605</XCoor>
+          <YCoor>1272</YCoor>
+          <Twr>257.8
+126.1</Twr>
+          <TcnCh>102 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>108.1  (34R)
+108.7  (16R)
+110.3  (34L)</Ils>
+          <Rwy>34/16
+L/R</Rwy>
+          <Elv>177</Elv>
+          <GPSCoor>N36°54.555
+30°35.233</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>10</PK>
+          <ICAO></ICAO>
+          <Name>ATATURK
+(Istanbul) (TURKEY)</Name>
+          <XCoor>1240</XCoor>
+          <YCoor>364</YCoor>
+          <Twr>257.8
+118.1</Twr>
+          <TcnCh>072 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.3  (16R)
+111.1  (16L)
+111.3  (34R)
+111.5  (34L)</Ils>
+          <Rwy>34/16
+LR</Rwy>
+          <Elv>163</Elv>
+          <GPSCoor>N40°59.192
+28°57.441</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>11</PK>
+          <ICAO></ICAO>
+          <Name>BALIKESIR (TURKEY)</Name>
+          <XCoor>1092</XCoor>
+          <YCoor>666</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>043 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>340</Elv>
+          <GPSCoor>N39°37.882
+27°56.436</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>12</PK>
+          <ICAO></ICAO>
+          <Name>BANDIRMA (TURKEY)</Name>
+          <XCoor>1102</XCoor>
+          <YCoor>513</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>047 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>170</Elv>
+          <GPSCoor>N40°19.373
+28°03.870</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>13</PK>
+          <ICAO></ICAO>
+          <Name>BEZMER (BULGARIA)</Name>
+          <XCoor>829</XCoor>
+          <YCoor>43</YCoor>
+          <Twr>320.3
+122.8</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>509</Elv>
+          <GPSCoor>N42°25.559
+26°38.067</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>14</PK>
+          <ICAO></ICAO>
+          <Name>BURGAS (BULGARIA)</Name>
+          <XCoor>1030</XCoor>
+          <YCoor>8</YCoor>
+          <Twr>314.9
+119.9</Twr>
+          <TcnCh>057 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.3   (03)</Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>135</Elv>
+          <GPSCoor>N42°35.600
+27°51.355</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>15</PK>
+          <ICAO></ICAO>
+          <Name>BURSA (TURKEY)</Name>
+          <XCoor>1277</XCoor>
+          <YCoor>530</YCoor>
+          <Twr>253.7
+  122</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>318</Elv>
+          <GPSCoor>N40°14.523
+29°04.818</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>16</PK>
+          <ICAO></ICAO>
+          <Name>CANAKKALE AB (TURKEY)</Name>
+          <XCoor>842</XCoor>
+          <YCoor>548</YCoor>
+          <Twr>257.8
+123.6</Twr>
+          <TcnCh>049 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>22</Elv>
+          <GPSCoor>N40°08.794
+26°31.313</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>17</PK>
+          <ICAO></ICAO>
+          <Name>CARDAK (TURKEY)</Name>
+          <XCoor>1408</XCoor>
+          <YCoor>1077</YCoor>
+          <Twr>257.8
+118.6</Twr>
+          <TcnCh>060 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.7  (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>2795</Elv>
+          <GPSCoor>N37°46.893
+29°34.677</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>18</PK>
+          <ICAO></ICAO>
+          <Name>CHERNOVO (BULGARIA)</Name>
+          <XCoor>411</XCoor>
+          <YCoor>39</YCoor>
+          <Twr>256.4
+118.9</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>2276</Elv>
+          <GPSCoor>N42°25.893
+24°02.743</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>19</PK>
+          <ICAO></ICAO>
+          <Name>CHIOS (GREECE)</Name>
+          <XCoor>782</XCoor>
+          <YCoor>951</YCoor>
+          <Twr>257.8
+122.7</Twr>
+          <TcnCh>123 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N38°20.827
+26°03.046</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>20</PK>
+          <ICAO></ICAO>
+          <Name>CHRISOUPOLIS
+(mega Alexandros Intl) (GREECE)</Name>
+          <XCoor>535</XCoor>
+          <YCoor>377</YCoor>
+          <Twr>257.8
+118.4</Twr>
+          <TcnCh>063 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>05/23
+LR</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N40°55.809
+24°46.110</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>21</PK>
+          <ICAO></ICAO>
+          <Name>CIGLI (TURKEY)</Name>
+          <XCoor>935</XCoor>
+          <YCoor>907</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>083 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N38°31.530
+26°56.445</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>22</PK>
+          <ICAO></ICAO>
+          <Name>CORLU (TURKEY)</Name>
+          <XCoor>1090</XCoor>
+          <YCoor>330</YCoor>
+          <Twr>362.3
+120.37</Twr>
+          <TcnCh>106 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.5  (05L)</Ils>
+          <Rwy>05/23
+L/R</Rwy>
+          <Elv>574</Elv>
+          <GPSCoor>N41°08.663
+28°04.997</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>23</PK>
+          <ICAO></ICAO>
+          <Name>DALAMAN (TURKEY)</Name>
+          <XCoor>1251</XCoor>
+          <YCoor>1316</YCoor>
+          <Twr>257.8
+118.5</Twr>
+          <TcnCh>100 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.1  (01)</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>20</Elv>
+          <GPSCoor>N36°43.296
+28°35.202</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>24</PK>
+          <ICAO></ICAO>
+          <Name>DOLNI RAKOVETS (BULGARIA)</Name>
+          <XCoor>280</XCoor>
+          <YCoor>38</YCoor>
+          <Twr>366.8
+122.8</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>1997</Elv>
+          <GPSCoor>N42°26.266
+23°15.117</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>25</PK>
+          <ICAO></ICAO>
+          <Name>ELEFSIS (GREECE)</Name>
+          <XCoor>330</XCoor>
+          <YCoor>1013</YCoor>
+          <Twr>362.3
+120.15</Twr>
+          <TcnCh>019 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>144</Elv>
+          <GPSCoor>N38°04.661
+23°27.343</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>26</PK>
+          <ICAO></ICAO>
+          <Name>ESENBOGA (TURKEY)</Name>
+          <XCoor>1955</XCoor>
+          <YCoor>555</YCoor>
+          <Twr>257.8
+118.1</Twr>
+          <TcnCh>090 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>108.9  (02L)
+108.1  (20L)
+110.3  (02R)
+108.3  (20R)</Ils>
+          <Rwy>02/20
+LR</Rwy>
+          <Elv>3125</Elv>
+          <GPSCoor>N40°07.840
+33°03.816</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>27</PK>
+          <ICAO></ICAO>
+          <Name>ESKISEHIR (TURKEY)</Name>
+          <XCoor>1549</XCoor>
+          <YCoor>629</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>091 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>2581</Elv>
+          <GPSCoor>N39°47.790
+30°36.908</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>28</PK>
+          <ICAO></ICAO>
+          <Name>ETIMESGUT (TURKEY)</Name>
+          <XCoor>1904</XCoor>
+          <YCoor>594</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>113 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.5  (11)</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>2653</Elv>
+          <GPSCoor>N39°57.544
+32°44.260</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>29</PK>
+          <ICAO></ICAO>
+          <Name>GAZIEMIR (TURKEY)</Name>
+          <XCoor>970</XCoor>
+          <YCoor>950</YCoor>
+          <Twr>314.8
+120.3</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>412</Elv>
+          <GPSCoor>N38°20.024
+27°04.416</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>30</PK>
+          <ICAO></ICAO>
+          <Name>GUVERCINLIK (TURKEY)</Name>
+          <XCoor>1917</XCoor>
+          <YCoor>596</YCoor>
+          <Twr>347.9
+129,0</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>2694</Elv>
+          <GPSCoor>N39°56.633
+32°47.801</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>31</PK>
+          <ICAO></ICAO>
+          <Name>HELLINIKON (GREECE)</Name>
+          <XCoor>359</XCoor>
+          <YCoor>1047</YCoor>
+          <Twr>257.8
+118.1</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>68</Elv>
+          <GPSCoor>N37°54.906
+23°37.044</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>32</PK>
+          <ICAO></ICAO>
+          <Name>HEZARFEN
+(istanbul) (TURKEY)</Name>
+          <XCoor>1200</XCoor>
+          <YCoor>333</YCoor>
+          <Twr>314.8
+120.3</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>229</Elv>
+          <GPSCoor>N41°07.605
+28°43.967</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>33</PK>
+          <ICAO></ICAO>
+          <Name>IRAKLION (Nikos
+Kazantzakis) (GREECE)</Name>
+          <XCoor>597</XCoor>
+          <YCoor>1625</YCoor>
+          <Twr>257.8
+120.85</Twr>
+          <TcnCh>020 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.8  (30)</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>114</Elv>
+          <GPSCoor>N35°19.331
+24°52.382</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>34</PK>
+          <ICAO></ICAO>
+          <Name>KAKLIC (TURKEY)</Name>
+          <XCoor>924</XCoor>
+          <YCoor>914</YCoor>
+          <Twr>314.8
+122.1</Twr>
+          <TcnCh>115 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>13</Elv>
+          <GPSCoor>N38°31.530
+26°54.3787</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>35</PK>
+          <ICAO></ICAO>
+          <Name>KALAMATA (GREECE)</Name>
+          <XCoor>53</XCoor>
+          <YCoor>1231</YCoor>
+          <Twr>257.8
+120.75</Twr>
+          <TcnCh>064 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.6  (34)</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>26</Elv>
+          <GPSCoor>N37°04.775
+21°50.964</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>36</PK>
+          <ICAO></ICAO>
+          <Name>KARPATHOS (GREECE)</Name>
+          <XCoor>955</XCoor>
+          <YCoor>1597</YCoor>
+          <Twr>257.8
+123.2</Twr>
+          <TcnCh>033 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>65</Elv>
+          <GPSCoor>N35°26.875
+26°51.093</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>37</PK>
+          <ICAO></ICAO>
+          <Name>KASTELI (GREECE)</Name>
+          <XCoor>625</XCoor>
+          <YCoor>1650</YCoor>
+          <Twr>362.3
+122.1</Twr>
+          <TcnCh>056 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>1181</Elv>
+          <GPSCoor>N35°12.206
+25°00.578</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>38</PK>
+          <ICAO></ICAO>
+          <Name>KOMOTINI (GREECE)</Name>
+          <XCoor>660</XCoor>
+          <YCoor>331</YCoor>
+          <Twr>366.3
+119.7</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>78</Elv>
+          <GPSCoor>N41°07.222
+25°29.123</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>39</PK>
+          <ICAO></ICAO>
+          <Name>KONYA (TURKEY)</Name>
+          <XCoor>1907</XCoor>
+          <YCoor>1032</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>088 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>3381</Elv>
+          <GPSCoor>N37°59.273
+32°26.637</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>40</PK>
+          <ICAO></ICAO>
+          <Name>KOS (GREECE)</Name>
+          <XCoor>948</XCoor>
+          <YCoor>1295</YCoor>
+          <Twr>257.8
+121.05</Twr>
+          <TcnCh>027 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.9   (14)
+110.9   (32)</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>410</Elv>
+          <GPSCoor>N36°48.490
+26°53.211</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>41</PK>
+          <ICAO></ICAO>
+          <Name>KOSEKOY (TURKEY)</Name>
+          <XCoor>1439</XCoor>
+          <YCoor>413</YCoor>
+          <Twr>347.9
+129,0</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>32</Elv>
+          <GPSCoor>N40°46.207
+30°08.207</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>42</PK>
+          <ICAO></ICAO>
+          <Name>KOZANI (Filippos) (GREECE)</Name>
+          <XCoor>58</XCoor>
+          <YCoor>518</YCoor>
+          <Twr>257.8
+118.2</Twr>
+          <TcnCh>033 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>2080</Elv>
+          <GPSCoor>N40°17.563
+21°55.455</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>43</PK>
+          <ICAO></ICAO>
+          <Name>KUTAHYA (TURKEY)</Name>
+          <XCoor>1460</XCoor>
+          <YCoor>713</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>046 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>3026</Elv>
+          <GPSCoor>N39°25.414
+30°02.636</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>44</PK>
+          <ICAO></ICAO>
+          <Name>LAMIA (GREECE)</Name>
+          <XCoor>148</XCoor>
+          <YCoor>829</YCoor>
+          <Twr>366.3
+119.7</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>98</Elv>
+          <GPSCoor>N38°53.049
+22°24.302</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>45</PK>
+          <ICAO></ICAO>
+          <Name>LARISA (GREECE)</Name>
+          <XCoor>158</XCoor>
+          <YCoor>661</YCoor>
+          <Twr>257.8
+120.55</Twr>
+          <TcnCh>027 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>239</Elv>
+          <GPSCoor>N39°39.295
+22°29.985</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>46</PK>
+          <ICAO></ICAO>
+          <Name>LEROS (GREECE)</Name>
+          <XCoor>900</XCoor>
+          <YCoor>1210</YCoor>
+          <Twr>257.8
+124.95</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>36</Elv>
+          <GPSCoor>N37°11.122
+26°38.570</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>47</PK>
+          <ICAO></ICAO>
+          <Name>LIMNOS (GREECE)</Name>
+          <XCoor>629</XCoor>
+          <YCoor>596</YCoor>
+          <Twr>257.8
+128.5</Twr>
+          <TcnCh>095 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N39°55.861
+25°15.885</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>48</PK>
+          <ICAO></ICAO>
+          <Name>LVAKHOVO (BULGARIA)</Name>
+          <XCoor>485</XCoor>
+          <YCoor>102</YCoor>
+          <Twr>256.4
+118.9</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>760</Elv>
+          <GPSCoor>N42°09.189
+24°29.703</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>49</PK>
+          <ICAO></ICAO>
+          <Name>MARATHON (GREECE)</Name>
+          <XCoor>416</XCoor>
+          <YCoor>991</YCoor>
+          <Twr>355.1
+119.1</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>711</Elv>
+          <GPSCoor>N38°09.247
+23°55.155</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>50</PK>
+          <ICAO></ICAO>
+          <Name>MARITSA (GREECE)</Name>
+          <XCoor>1129</XCoor>
+          <YCoor>1382</YCoor>
+          <Twr>257.8
+118.1</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>203</Elv>
+          <GPSCoor>N36°23.372
+27°53.538</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>51</PK>
+          <ICAO></ICAO>
+          <Name>MEGARA (GREECE)</Name>
+          <XCoor>296</XCoor>
+          <YCoor>1029</YCoor>
+          <Twr>282.2
+123.5</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>120</Elv>
+          <GPSCoor>N37°00.147
+23°15.861</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>52</PK>
+          <ICAO></ICAO>
+          <Name>MIKONOS (GREECE)</Name>
+          <XCoor>638</XCoor>
+          <YCoor>1157</YCoor>
+          <Twr>257.8
+119.875</Twr>
+          <TcnCh>037 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>450</Elv>
+          <GPSCoor>N37°25.252
+25°11.198</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>53</PK>
+          <ICAO></ICAO>
+          <Name>MITILINI (GREECE)</Name>
+          <XCoor>862</XCoor>
+          <YCoor>794</YCoor>
+          <Twr>257.8
+123.85</Twr>
+          <TcnCh>033 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>55</Elv>
+          <GPSCoor>N39°03.202
+26°33.999</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>54</PK>
+          <ICAO></ICAO>
+          <Name>NEA ANCHIALOS (GREECE)</Name>
+          <XCoor>210</XCoor>
+          <YCoor>757</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>103 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>82</Elv>
+          <GPSCoor>N39°13.430
+22°47.718</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>55</PK>
+          <ICAO></ICAO>
+          <Name>OLIMBOI (GREECE)</Name>
+          <XCoor>753</XCoor>
+          <YCoor>972</YCoor>
+          <Twr>366.3
+119.7</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>656</Elv>
+          <GPSCoor>N39°14.791
+25°51.742</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>56</PK>
+          <ICAO></ICAO>
+          <Name>PAPHOS INT. (CYPRUS)</Name>
+          <XCoor>1930</XCoor>
+          <YCoor>1757</YCoor>
+          <Twr>279.1
+119.9</Twr>
+          <TcnCh>062 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>108.9  (29)</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>39</Elv>
+          <GPSCoor>N34°43.935
+32°07.599</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>57</PK>
+          <ICAO></ICAO>
+          <Name>PARADISI
+(Dioagoras - Rodos) (GREECE)</Name>
+          <XCoor>1125</XCoor>
+          <YCoor>1395</YCoor>
+          <Twr>381.0
+118.2</Twr>
+          <TcnCh>121 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.3  (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>16</Elv>
+          <GPSCoor>N36°21.755
+27°51.399</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>58</PK>
+          <ICAO></ICAO>
+          <Name>PLODIV/KRUZOVO (BULGARIA)</Name>
+          <XCoor>582</XCoor>
+          <YCoor>117</YCoor>
+          <Twr>315.6
+119.6</Twr>
+          <TcnCh>096 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>111.1  (30)</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>597</Elv>
+          <GPSCoor>N42°05.083
+25°06.389</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>59</PK>
+          <ICAO></ICAO>
+          <Name>POLIKHNITOS (GREECE)</Name>
+          <XCoor>798</XCoor>
+          <YCoor>784</YCoor>
+          <Twr>355.1
+119.1</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>649</Elv>
+          <GPSCoor>N39°05.287
+26°09.617</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>60</PK>
+          <ICAO></ICAO>
+          <Name>SABIHA GOKCEN (TURKEY)</Name>
+          <XCoor>1326</XCoor>
+          <YCoor>380</YCoor>
+          <Twr>243.1
+128.55</Twr>
+          <TcnCh>025 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>109.9  (05R)
+110.9  (23L)</Ils>
+          <Rwy>05/23
+L/R</Rwy>
+          <Elv>268</Elv>
+          <GPSCoor>N40°54.732
+29°27.704</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>61</PK>
+          <ICAO></ICAO>
+          <Name>SAMANDIRA (TURKEY)</Name>
+          <XCoor>1307</XCoor>
+          <YCoor>361</YCoor>
+          <Twr>314.8
+120.3</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>400</Elv>
+          <GPSCoor>N40°59.523
+29°21.635</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>62</PK>
+          <ICAO></ICAO>
+          <Name>SAMOS (GREECE)</Name>
+          <XCoor>917</XCoor>
+          <YCoor>1098</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>053 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>32</Elv>
+          <GPSCoor>N37°41.826
+26°47.228</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>63</PK>
+          <ICAO></ICAO>
+          <Name>SANTORINI (GREECE)</Name>
+          <XCoor>668</XCoor>
+          <YCoor>1389</YCoor>
+          <Twr>257.8
+118.05</Twr>
+          <TcnCh>111 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>131</Elv>
+          <GPSCoor>N36°24.362
+25°13.670</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>64</PK>
+          <ICAO></ICAO>
+          <Name>SIVRIHISAR (TURKEY)</Name>
+          <XCoor>1685</XCoor>
+          <YCoor>706</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>029 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>3194</Elv>
+          <GPSCoor>N39°27.369
+31°22.617</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>65</PK>
+          <ICAO></ICAO>
+          <Name>SKIATHOS (GREECE)</Name>
+          <XCoor>328</XCoor>
+          <YCoor>763</YCoor>
+          <Twr>257.8
+126.05</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>49</Elv>
+          <GPSCoor>N39°11.454
+23°28.252</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>66</PK>
+          <ICAO></ICAO>
+          <Name>SKIROS (GREECE)</Name>
+          <XCoor>502</XCoor>
+          <YCoor>818</YCoor>
+          <Twr>257.8
+123.2</Twr>
+          <TcnCh>108 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>49</Elv>
+          <GPSCoor>N38°57.468
+24°28.344</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>67</PK>
+          <ICAO></ICAO>
+          <Name>SKOPJE (YUGOSLAVIA)</Name>
+          <XCoor>52</XCoor>
+          <YCoor>144</YCoor>
+          <Twr>365.2
+118.5</Twr>
+          <TcnCh>75  X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>108.7 (34)</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>754</Elv>
+          <GPSCoor>N41°57.908
+21°51.550</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>68</PK>
+          <ICAO></ICAO>
+          <Name>SOUDA (GREECE)</Name>
+          <XCoor>412</XCoor>
+          <YCoor>1578</YCoor>
+          <Twr>257.8
+121.1</Twr>
+          <TcnCh>061 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>110.6   (11)
+110.6   (29)</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>492</Elv>
+          <GPSCoor>N35°32.431
+23°51.311</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>69</PK>
+          <ICAO></ICAO>
+          <Name>SPARTI (GREECE)</Name>
+          <XCoor>140</XCoor>
+          <YCoor>1253</YCoor>
+          <Twr>366.3
+119.7</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>498</Elv>
+          <GPSCoor>N36°58.813
+22°20.292</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>70</PK>
+          <ICAO></ICAO>
+          <Name>STEFANOVIKION (GREECE)</Name>
+          <XCoor>212</XCoor>
+          <YCoor>694</YCoor>
+          <Twr>366.3
+119.7</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>147</Elv>
+          <GPSCoor>N39°29.690
+22°47.094</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>71</PK>
+          <ICAO></ICAO>
+          <Name>SULEYMAN DEMIREL (TURKEY)</Name>
+          <XCoor>1565</XCoor>
+          <YCoor>1075</YCoor>
+          <Twr>337.8
+119.2</Twr>
+          <TcnCh>122 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>05/23
+L/R</Rwy>
+          <Elv>2835</Elv>
+          <GPSCoor>N37°47.213
+30°28.070</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>72</PK>
+          <ICAO></ICAO>
+          <Name>TANAGRA (GREECE)</Name>
+          <XCoor>333</XCoor>
+          <YCoor>954</YCoor>
+          <Twr>257.8
+120.25</Twr>
+          <TcnCh>112 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>485</Elv>
+          <GPSCoor>N38°20.552
+23°29.012</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>73</PK>
+          <ICAO></ICAO>
+          <Name>TATOI (GREECE)</Name>
+          <XCoor>370</XCoor>
+          <YCoor>1001</YCoor>
+          <Twr>257.8
+118.5</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>784</Elv>
+          <GPSCoor>N38°07.014
+23°41.200</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>74</PK>
+          <ICAO></ICAO>
+          <Name>TEMELLI (TURKEY)</Name>
+          <XCoor>1854</XCoor>
+          <YCoor>641</YCoor>
+          <Twr>314.8
+120.3</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip NS</Rwy>
+          <Elv>2564</Elv>
+          <GPSCoor>N39°44.623
+32°24.351</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>75</PK>
+          <ICAO></ICAO>
+          <Name>THESSALONIKI (GREECE)</Name>
+          <XCoor>257</XCoor>
+          <YCoor>467</YCoor>
+          <Twr>257.8
+118.1</Twr>
+          <TcnCh>065 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>109.5  (01)</Ils>
+          <Rwy>01/19
+15/33</Rwy>
+          <Elv>22</Elv>
+          <GPSCoor>N40°31.057
+23°05.760</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>76</PK>
+          <ICAO></ICAO>
+          <Name>TOPEL (TURKEY)</Name>
+          <XCoor>1455</XCoor>
+          <YCoor>416</YCoor>
+          <Twr>362.3
+122.1</Twr>
+          <TcnCh>086 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>182</Elv>
+          <GPSCoor>N40°44.907
+30°11.900</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>77</PK>
+          <ICAO></ICAO>
+          <Name>TRIPOLIS (GREECE)</Name>
+          <XCoor>126</XCoor>
+          <YCoor>1129</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>035 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>2112</Elv>
+          <GPSCoor>N37°32.167
+22°15.802</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>78</PK>
+          <ICAO></ICAO>
+          <Name>TYMPAKI (GREECE)</Name>
+          <XCoor>526</XCoor>
+          <YCoor>1680</YCoor>
+          <Twr>257.8
+122.1</Twr>
+          <TcnCh>035 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>6</Elv>
+          <GPSCoor>N35°04.162
+24°27.797</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>79</PK>
+          <ICAO></ICAO>
+          <Name>UZUNDZHOVO (BULGARIA)</Name>
+          <XCoor>710</XCoor>
+          <YCoor>143</YCoor>
+          <Twr>289.9
+121.5</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>567</Elv>
+          <GPSCoor>N41°58.246
+25°50.188</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>80</PK>
+          <ICAO></ICAO>
+          <Name>VENIZELOS INTL (GREECE)</Name>
+          <XCoor>400</XCoor>
+          <YCoor>1035</YCoor>
+          <Twr>278.7
+118.625</Twr>
+          <TcnCh>066 X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>111.1  (02R)
+111.1  (20L)
+110.5  (02L)
+110.5  (20R)</Ils>
+          <Rwy>02/20
+LR</Rwy>
+          <Elv>308</Elv>
+          <GPSCoor>N37°58.163
+23°50.191</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>81</PK>
+          <ICAO></ICAO>
+          <Name>YALOVA (TURKEY)</Name>
+          <XCoor>1336</XCoor>
+          <YCoor>432</YCoor>
+          <Twr>314.8
+120.3</Twr>
+          <TcnCh>No tacan</TcnCh>
+          <TcnRng></TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>Strip EW</Rwy>
+          <Elv>6</Elv>
+          <GPSCoor>N40°41.202
+29°29.430</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>82</PK>
+          <ICAO></ICAO>
+          <Name>YENISEHIR (TURKEY)</Name>
+          <XCoor>1371</XCoor>
+          <YCoor>528</YCoor>
+          <Twr>340.3
+124.2</Twr>
+          <TcnCh>079 X</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>109.7  (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>764</Elv>
+          <GPSCoor>N40°15.398
+29°39.0761</GPSCoor>
+</AirportData>

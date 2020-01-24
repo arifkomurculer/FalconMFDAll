@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{54EE64D8-2808-43D4-A625-59160A419B1A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>FalconMFDServer.frmServer</StartupObject>
+    <RootNamespace>FalconMFDServer</RootNamespace>
+    <AssemblyName>FalconMFDServer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>G:\YAZILIM\Falcon MFD\Kurulum %28Yeni%29\Publish %28And. Ver 3.0.0 and Ser. Ver 3.0.0.0 %29\FalconMFDServer %28Ver 3.0.0.0%29\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ProductName>FalconMFDServer</ProductName>
+    <PublisherName>Arif KÖMÜRCÜLER</PublisherName>
+    <SuiteName>Arif KÖMÜRCÜLER</SuiteName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>3.5.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FalconMFDServer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FalconMFDServer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>FalconMFDServer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>FalconMFDServer.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ic_launcher.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DA92D99E217BDF2FE46E5CEE68C7337E149F3387</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>FalconMFDServer_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="F4SharedMem, Version=3.0.0.0, Culture=neutral, PublicKeyToken=98c24c6603c8861c, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\F4SharedMem.dll</HintPath>
+    </Reference>
+    <Reference Include="F4TexSharedMem, Version=1.4.0.0, Culture=neutral, PublicKeyToken=13cc4724751b44e4, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\F4TexSharedMem.dll</HintPath>
+    </Reference>
+    <Reference Include="Nini">
+      <HintPath>Dll\Nini.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsReadMemoryThread.vb" />
+    <Compile Include="clsReadMemoryThreadDED.vb" />
+    <Compile Include="clsReadMemoryThreadFlightData.vb" />
+    <Compile Include="clsReadMemoryThreadFlightDataNav.vb" />
+    <Compile Include="clsReadMemoryThreadFlightDataLoad.vb" />
+    <Compile Include="clsReadMemoryThreadFlightDataNavMap.vb" />
+    <Compile Include="clsReadMemoryThreadRWR.vb" />
+    <Compile Include="clsReadMemoryThreadSagMFD.vb" />
+    <Compile Include="clsReadMemoryThreadSolMFD.vb" />
+    <Compile Include="frmKlavye.Designer.vb">
+      <DependentUpon>frmKlavye.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKlavye.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServer.Designer.vb">
+      <DependentUpon>frmServer.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globals.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NativeWin32.vb" />
+    <Compile Include="ServerClass.vb" />
+    <Compile Include="TinyClient.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TinyEnums.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmKlavye.resx">
+      <DependentUpon>frmKlavye.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServer.resx">
+      <DependentUpon>frmServer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FalconMFDServer_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amblem1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn71.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn81.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn131.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn141.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn151.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn181.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn191.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mfd16_bit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ic_launcher.ico" />
+    <Content Include="Untitled-1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,6 @@
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4TexSharedMem\bin\x86\Debug\F4TexSharedMem.dll
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4TexSharedMem\bin\x86\Debug\F4TexSharedMem.pdb
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4TexSharedMem\obj\x86\Debug\F4TexSharedMem.csprojAssemblyReference.cache
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4TexSharedMem\obj\x86\Debug\F4TexSharedMem.csproj.CoreCompileInputs.cache
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4TexSharedMem\obj\x86\Debug\F4TexSharedMem.dll
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4TexSharedMem\obj\x86\Debug\F4TexSharedMem.pdb

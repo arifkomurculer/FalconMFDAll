@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <AbsoluteLayout xmlns:android1="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pnlMisSch"
+        android:layout_width="4096dp"
+        android:layout_height="4096dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:clearTaskOnLaunch="true"
+        android:finishOnTaskLaunch="true"
+        android:fitsSystemWindows="false" >
+
+        <AbsoluteLayout
+            android:id="@+id/pnlResim"
+            android:layout_width="4096dp"
+            android:layout_height="4096dp"
+            android:background="#000000"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/imgMisSch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:src="@drawable/map_korea1" />
+
+        </AbsoluteLayout>
+        
+        <ImageButton
+        android:id="@+id/imgBtnSag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="80dp"
+        android:layout_y="0dp"
+        android:src="@drawable/btn_sol_mfd" />
+
+
+    <ImageButton
+        android:id="@+id/imgBtnSol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="220dp"
+        android:layout_y="0dp"
+        android:src="@drawable/btn_sag_mfd" />
+
+    <TextView
+        android:id="@+id/lblIndex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="155dp"
+        android:layout_y="10dp"
+        android:text="1/5"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="30dp" />
+
+    <ImageButton
+        android:id="@+id/btnCloseSch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="300dp"
+        android:layout_y="0dp"
+        android:src="@drawable/btn_close" />
+
+    <ImageButton
+        android:id="@+id/btnGetMisSch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:src="@drawable/print_screen" />
+
+    <CheckBox
+        android:id="@+id/chkLatestImage"
+        android:layout_width="211dp"
+        android:layout_height="wrap_content"
+        android:layout_x="370dp"
+        android:layout_y="10dp"
+        android:text="Get Latest 1. Image" />
+        
+        </AbsoluteLayout>

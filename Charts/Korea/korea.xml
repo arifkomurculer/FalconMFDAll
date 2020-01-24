@@ -1,0 +1,1387 @@
+﻿<AirportData>
+          <PK>1</PK>
+          <ICAO></ICAO>
+          <Name>Ayang-Ni HS (NORTH KOREA)</Name>
+          <XCoor>650</XCoor>
+          <YCoor>1055</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R160°</TcnRng>
+          <Ils>Dme62</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>370</Elv>
+          <GPSCoor>N38°18.16'
+E126°42.82'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>2</PK>
+          <ICAO></ICAO>
+          <Name>Chongju (SOUTH KOREA)</Name>
+          <XCoor>1000</XCoor>
+          <YCoor>1389</YCoor>
+          <Twr>250.2
+118.7</Twr>
+          <TcnCh>042x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>111.7 (23R)</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>187</Elv>
+          <GPSCoor>N36°48.41'
+E128°36.74'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>3</PK>
+          <ICAO></ICAO>
+          <Name>Chongwon (SOUTH KOREA)</Name>
+          <XCoor>998</XCoor>
+          <YCoor>1430</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>042X</TcnCh>
+          <TcnRng>R180°</TcnRng>
+          <Ils>Dme11</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>368</Elv>
+          <GPSCoor>N36°37.39'
+E128°35.36'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>4</PK>
+          <ICAO></ICAO>
+          <Name>Choongwon (SOUTH KOREA)</Name>
+          <XCoor>1095</XCoor>
+          <YCoor>1350</YCoor>
+          <Twr>230.15
+126.2</Twr>
+          <TcnCh>005x</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>111.3 (34R)</Ils>
+          <Rwy>16/34 L/R</Rwy>
+          <Elv>642</Elv>
+          <GPSCoor>N36°59.80'
+E129°08.78'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>5</PK>
+          <ICAO></ICAO>
+          <Name>Chunchon (SOUTH KOREA)</Name>
+          <XCoor>1046</XCoor>
+          <YCoor>1146</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>094X</TcnCh>
+          <TcnRng>R040°</TcnRng>
+          <Ils>Dme66</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>383</Elv>
+          <GPSCoor>N37°53.91'
+E128°56.79'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>6</PK>
+          <ICAO></ICAO>
+          <Name>Fukuoka (Kadena) (JAPAN)</Name>
+          <XCoor>1820</XCoor>
+          <YCoor>1872</YCoor>
+          <Twr>225.5
+126.2</Twr>
+          <TcnCh>057X</TcnCh>
+          <TcnRng>100°</TcnRng>
+          <Ils>109.7 (01)
+108.7 (19)</Ils>
+          <Rwy>01/19
+15/33</Rwy>
+          <Elv>106</Elv>
+          <GPSCoor>N34°39.39'
+E132°55.13'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>7</PK>
+          <ICAO></ICAO>
+          <Name>Haeju (NORTH KOREA)</Name>
+          <XCoor>636</XCoor>
+          <YCoor>1115</YCoor>
+          <Twr>280.4
+118.3</Twr>
+          <TcnCh>058X</TcnCh>
+          <TcnRng>R085°</TcnRng>
+          <Ils>Dme28</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>113</Elv>
+          <GPSCoor>N38°02.06'
+E126°37.20'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>8</PK>
+          <ICAO></ICAO>
+          <Name>Hoengsong (SOUTH KOREA)</Name>
+          <XCoor>1099</XCoor>
+          <YCoor>1243</YCoor>
+          <Twr>265.5
+126.2</Twr>
+          <TcnCh>U.S.</TcnCh>
+          <TcnRng>_</TcnRng>
+          <Ils>U.S.</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>580</Elv>
+          <GPSCoor>N37°27.87'
+E129°13.75'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>9</PK>
+          <ICAO></ICAO>
+          <Name>Hoeyang SE
+HS (NORTH KOREA)</Name>
+          <XCoor>1026</XCoor>
+          <YCoor>948</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R227°</TcnRng>
+          <Ils>Dme55</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>1695</Elv>
+          <GPSCoor>N38°47.26'
+E128°54.29'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>10</PK>
+          <ICAO></ICAO>
+          <Name>Hwangju (NORTH KOREA)</Name>
+          <XCoor>618</XCoor>
+          <YCoor>963</YCoor>
+          <Twr>337.6
+122.4</Twr>
+          <TcnCh>059X</TcnCh>
+          <TcnRng>R190°</TcnRng>
+          <Ils>Dme22</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>231</Elv>
+          <GPSCoor>N38°42.89'
+E126°32.93'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>11</PK>
+          <ICAO></ICAO>
+          <Name>Hwangsuwon (NORTH KOREA)</Name>
+          <XCoor>1158</XCoor>
+          <YCoor>516</YCoor>
+          <Twr>368.5
+136.3</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>R190°</TcnRng>
+          <Ils>Dme73</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>3991</Elv>
+          <GPSCoor>N40°43.59'
+E129°51.28'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>12</PK>
+          <ICAO></ICAO>
+          <Name>Hyon-Ni (NORTH KOREA)</Name>
+          <XCoor>976</XCoor>
+          <YCoor>967</YCoor>
+          <Twr>240.9
+118.57</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R188°</TcnRng>
+          <Ils>Dme33</Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>2598</Elv>
+          <GPSCoor>N38°41.18'
+E128°37.55'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>13</PK>
+          <ICAO></ICAO>
+          <Name>Ich'on Airstrip (NORTH KOREA)</Name>
+          <XCoor>846</XCoor>
+          <YCoor>987</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R120°</TcnRng>
+          <Ils>Dme83</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>1084</Elv>
+          <GPSCoor>N38°36.48'
+E127°51.34'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>14</PK>
+          <ICAO></ICAO>
+          <Name>Iwon (NORTH KOREA)</Name>
+          <XCoor>1261</XCoor>
+          <YCoor>586</YCoor>
+          <Twr>234.4
+122.4</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>R170°</TcnRng>
+          <Ils>Dme94</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>470</Elv>
+          <GPSCoor>N40°24.49'
+E130°26.15'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>15</PK>
+          <ICAO></ICAO>
+          <Name>Kaech'on (NORTH KOREA)</Name>
+          <XCoor>631</XCoor>
+          <YCoor>724</YCoor>
+          <Twr>350.0
+137.5</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R025°</TcnRng>
+          <Ils>Dme35</Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>204</Elv>
+          <GPSCoor>N39°48.04'
+E126°42.75'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>16</PK>
+          <ICAO></ICAO>
+          <Name>Kaech'on SW (NORTH KOREA)</Name>
+          <XCoor>619</XCoor>
+          <YCoor>709</YCoor>
+          <Twr>231.4
+123.4</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R015°</TcnRng>
+          <Ils>Dme37</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>516</Elv>
+          <GPSCoor>N39°51.38'
+E126°37.25'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>17</PK>
+          <ICAO></ICAO>
+          <Name>Kangnung (SOUTH KOREA)</Name>
+          <XCoor>1320</XCoor>
+          <YCoor>1171</YCoor>
+          <Twr>334.9
+126.2</Twr>
+          <TcnCh>056x</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>111.5 (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>51</Elv>
+          <GPSCoor>N37°47.31'
+E130°29.77'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>18</PK>
+          <ICAO></ICAO>
+          <Name>Kilchu HS (NORTH KOREA)</Name>
+          <XCoor>1397</XCoor>
+          <YCoor>457</YCoor>
+          <Twr>231.4
+123.4</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>R135°</TcnRng>
+          <Ils>Dme79</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>448</Elv>
+          <GPSCoor>N40°59.27'
+E131°18.62'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>19</PK>
+          <ICAO></ICAO>
+          <Name>Kimhae (SOUTH KOREA)</Name>
+          <XCoor>1308</XCoor>
+          <YCoor>1744</YCoor>
+          <Twr>233.3
+118.1</Twr>
+          <TcnCh>117x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>109.5 (34)</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>39</Elv>
+          <GPSCoor>N35°13.29'
+E130°11.66'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>20</PK>
+          <ICAO></ICAO>
+          <Name>Kimpo (SOUTH KOREA)</Name>
+          <XCoor>830</XCoor>
+          <YCoor>1214</YCoor>
+          <Twr>240.9
+118.05</Twr>
+          <TcnCh>083x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>109.9 (14L)
+110.1 (14R)
+108.3 (32L)
+110.7 (32R)</Ils>
+          <Rwy>14/32 L/R</Rwy>
+          <Elv>96</Elv>
+          <GPSCoor>N37°36.868'
+E127°42.801'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>21</PK>
+          <ICAO></ICAO>
+          <Name>Kojo HS (NORTH KOREA)</Name>
+          <XCoor>1071</XCoor>
+          <YCoor>929</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R135°</TcnRng>
+          <Ils>Dme31</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>616</Elv>
+          <GPSCoor>N38°52.11'
+E129°11.30'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>22</PK>
+          <ICAO></ICAO>
+          <Name>Koksan (NORTH KOREA)</Name>
+          <XCoor>793</XCoor>
+          <YCoor>941</YCoor>
+          <Twr>318.2
+127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R245°</TcnRng>
+          <Ils>Dme60</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>1058</Elv>
+          <GPSCoor>N38°48.12'
+E127°33.43'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>23</PK>
+          <ICAO></ICAO>
+          <Name>Koksan HS (NORTH KOREA)</Name>
+          <XCoor>780</XCoor>
+          <YCoor>947</YCoor>
+          <Twr>231.4
+123.4</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R115°</TcnRng>
+          <Ils>Dme65</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>1064</Elv>
+          <GPSCoor>N38°47.80'
+E127°35.51'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>24</PK>
+          <ICAO></ICAO>
+          <Name>Kotar Tactical Rng (ROK)</Name>
+          <XCoor>833</XCoor>
+          <YCoor>1385</YCoor>
+          <Twr>Unicom 306.8</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng>108°</TcnRng>
+          <Ils></Ils>
+          <Rwy></Rwy>
+          <Elv>2854'</Elv>
+          <GPSCoor>N37°08.60'
+E130°20.80'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>25</PK>
+          <ICAO></ICAO>
+          <Name>Kumi (SOUTH KOREA)</Name>
+          <XCoor>1162</XCoor>
+          <YCoor>1522</YCoor>
+          <Twr>236.6
+122.6</Twr>
+          <TcnCh>026X</TcnCh>
+          <TcnRng>R195°</TcnRng>
+          <Ils>Dme30</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>254</Elv>
+          <GPSCoor>N36°12.61'
+E129°27.68'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>26</PK>
+          <ICAO></ICAO>
+          <Name>Kunsan (SOUTH KOREA)</Name>
+          <XCoor>797</XCoor>
+          <YCoor>1574</YCoor>
+          <Twr>292.3
+126.5</Twr>
+          <TcnCh>075x</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.3 (18&36)</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>10</Elv>
+          <GPSCoor>N35°58.39'
+E127°25.38'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>27</PK>
+          <ICAO></ICAO>
+          <Name>Kuum-ni (NORTH KOREA)</Name>
+          <XCoor>1090</XCoor>
+          <YCoor>923</YCoor>
+          <Twr>388.7
+128.0</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R125°</TcnRng>
+          <Ils>Dme32</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>198</Elv>
+          <GPSCoor>N38°53.95'
+E129°16.69'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>28</PK>
+          <ICAO></ICAO>
+          <Name>Kwail (NORTH KOREA)</Name>
+          <XCoor>430</XCoor>
+          <YCoor>1022</YCoor>
+          <Twr>349.4
+125.9</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R220°</TcnRng>
+          <Ils>Dme64</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>274</Elv>
+          <GPSCoor>N38°27.19'
+E125°28.72'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>29</PK>
+          <ICAO></ICAO>
+          <Name>Kwaksan (NORTH KOREA)</Name>
+          <XCoor>470</XCoor>
+          <YCoor>738</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R315°</TcnRng>
+          <Ils>Dme41</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>301</Elv>
+          <GPSCoor>N39°43.84'
+E125°44.30'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>30</PK>
+          <ICAO></ICAO>
+          <Name>Kwangju (SOUTH KOREA)</Name>
+          <XCoor>847</XCoor>
+          <YCoor>1744</YCoor>
+          <Twr>254.6
+126.2</Twr>
+          <TcnCh>091x</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>111.1 (02&20)</Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>110</Elv>
+          <GPSCoor>N35°12.80'
+E127°39.97'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>31</PK>
+          <ICAO></ICAO>
+          <Name>Kyongsong Chuul (NORTH KOREA)</Name>
+          <XCoor>1468</XCoor>
+          <YCoor>321</YCoor>
+          <Twr>231.4
+123.4</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>R105°</TcnRng>
+          <Ils>Dme77</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>173</Elv>
+          <GPSCoor>N41°35.92'
+E131°48.53'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>32</PK>
+          <ICAO></ICAO>
+          <Name>Liuhe (PEOPLE’s REPUBLIC of CHINA)</Name>
+          <XCoor>509</XCoor>
+          <YCoor>196</YCoor>
+          <Twr>390.8
+150.12</Twr>
+          <TcnCh>088X</TcnCh>
+          <TcnRng>R080°</TcnRng>
+          <Ils>Dme112</Ils>
+          <Rwy>01/09</Rwy>
+          <Elv>1555</Elv>
+          <GPSCoor>N42°09.32'
+E126°05.36'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>33</PK>
+          <ICAO></ICAO>
+          <Name>Mandumi (SOUTH KOREA)</Name>
+          <XCoor>865</XCoor>
+          <YCoor>1105</YCoor>
+          <Twr>253.4
+118.9</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>R020°</TcnRng>
+          <Ils>Dme31</Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>259</Elv>
+          <GPSCoor>N38°04.45'
+E127°57.83'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>34</PK>
+          <ICAO></ICAO>
+          <Name>Manp'o (NORTH KOREA)</Name>
+          <XCoor>743</XCoor>
+          <YCoor>413</YCoor>
+          <Twr>242.4
+130.02</Twr>
+          <TcnCh>055X</TcnCh>
+          <TcnRng>R060°</TcnRng>
+          <Ils>Dme124</Ils>
+          <Rwy>01/19</Rwy>
+          <Elv>1392</Elv>
+          <GPSCoor>N41°11.13'
+E127°27.07'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>35</PK>
+          <ICAO></ICAO>
+          <Name>Mirim (NORTH KOREA)</Name>
+          <XCoor>631</XCoor>
+          <YCoor>886</YCoor>
+          <Twr>225.3
+128.68</Twr>
+          <TcnCh>059x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>127</Elv>
+          <GPSCoor>N39°03.56'
+E126°38.94'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>36</PK>
+          <ICAO></ICAO>
+          <Name>Nachodka (RUSSIA)</Name>
+          <XCoor>1795</XCoor>
+          <YCoor>11</YCoor>
+          <Twr>398.8
+149.9</Twr>
+          <TcnCh></TcnCh>
+          <TcnRng></TcnRng>
+          <Ils></Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>600</Elv>
+          <GPSCoor>N43°00.35'
+E134°00.31'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>37</PK>
+          <ICAO></ICAO>
+          <Name>Nuch'on-Ni (NORTH KOREA)</Name>
+          <XCoor>722</XCoor>
+          <YCoor>1062</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R147°</TcnRng>
+          <Ils>Dme71</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>180</Elv>
+          <GPSCoor>N38°16.54'
+E127°07.44'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>38</PK>
+          <ICAO></ICAO>
+          <Name>Okpyong-Ni (NORTH KOREA)</Name>
+          <XCoor>950</XCoor>
+          <YCoor>828</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R295°</TcnRng>
+          <Ils>Dme12</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>174</Elv>
+          <GPSCoor>N39°19.59'
+E128°30.53'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>39</PK>
+          <ICAO></ICAO>
+          <Name>Onch'on (NORTH KOREA)</Name>
+          <XCoor>480</XCoor>
+          <YCoor>910</YCoor>
+          <Twr>302.4
+129.1</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R235°</TcnRng>
+          <Ils>Dme34</Ils>
+          <Rwy>02/20 L/R</Rwy>
+          <Elv>13</Elv>
+          <GPSCoor>N38°57.01'
+E125°45.47'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>40</PK>
+          <ICAO></ICAO>
+          <Name>Ongjin (NORTH KOREA)</Name>
+          <XCoor>534</XCoor>
+          <YCoor>1127</YCoor>
+          <Twr>368.1
+119.7</Twr>
+          <TcnCh>058x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>11/29</Rwy>
+          <Elv>248</Elv>
+          <GPSCoor>N37°58.92'
+E126°02.29'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>41</PK>
+          <ICAO></ICAO>
+          <Name>Orang (NORTH KOREA)</Name>
+          <XCoor>1471</XCoor>
+          <YCoor>352</YCoor>
+          <Twr>349.9
+118.07</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>R110°</TcnRng>
+          <Ils>Dme80</Ils>
+          <Rwy>03/21</Rwy>
+          <Elv>151</Elv>
+          <GPSCoor>N41°28.27'
+E131°49.00'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>42</PK>
+          <ICAO></ICAO>
+          <Name>Osan (SOUTH KOREA)</Name>
+          <XCoor>891</XCoor>
+          <YCoor>1331</YCoor>
+          <Twr>308.8
+122.1</Twr>
+          <TcnCh>094x</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>111.3 
+(09/27)</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>97</Elv>
+          <GPSCoor>N37°03.80'
+E128°00.83'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>44</PK>
+          <ICAO></ICAO>
+          <Name>Panghyon (NORTH KOREA)</Name>
+          <XCoor>470</XCoor>
+          <YCoor>690</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>055X</TcnCh>
+          <TcnRng>R120°</TcnRng>
+          <Ils>Dme40</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>463</Elv>
+          <GPSCoor>N39°56.23'
+E125°46.20'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>43</PK>
+          <ICAO></ICAO>
+          <Name>Panghyon (NORTH KOREA)</Name>
+          <XCoor>486</XCoor>
+          <YCoor>681</YCoor>
+          <Twr>120.6</Twr>
+          <TcnCh>055X</TcnCh>
+          <TcnRng>R115°</TcnRng>
+          <Ils>Dme42</Ils>
+          <Rwy>02/20 L/R</Rwy>
+          <Elv>362</Elv>
+          <GPSCoor>N39°59.37'
+E125°51.22'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>45</PK>
+          <ICAO></ICAO>
+          <Name>Pohang (SOUTH KOREA)</Name>
+          <XCoor>1405</XCoor>
+          <YCoor>1557</YCoor>
+          <Twr>236.6
+118.05</Twr>
+          <TcnCh>072x</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>110.9 (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>37</Elv>
+          <GPSCoor>N36°02.88'
+E130°49.59'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>46</PK>
+          <ICAO></ICAO>
+          <Name>Pongsan (NORTH KOREA)</Name>
+          <XCoor>617</XCoor>
+          <YCoor>1003</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R167°</TcnRng>
+          <Ils>Dme45</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>188</Elv>
+          <GPSCoor>N38°32.17'
+E126°32.51'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>47</PK>
+          <ICAO></ICAO>
+          <Name>Pukch'ang-up (NORTH KOREA)</Name>
+          <XCoor>640</XCoor>
+          <YCoor>760</YCoor>
+          <Twr>264.9
+128.2</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R035°</TcnRng>
+          <Ils>Dme28</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>288</Elv>
+          <GPSCoor>N38°39.29'
+E126°44.00'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>48</PK>
+          <ICAO></ICAO>
+          <Name>Pusan (SOUTH KOREA)</Name>
+          <XCoor>1361</XCoor>
+          <YCoor>1739</YCoor>
+          <Twr>232.4
+118.1</Twr>
+          <TcnCh>087x</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>109.5 (32)</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>579</Elv>
+          <GPSCoor>N35°14.41'
+E130°28.96'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>49</PK>
+          <ICAO></ICAO>
+          <Name>P'Yong'Taeg (SOUTH KOREA)</Name>
+          <XCoor>900</XCoor>
+          <YCoor>1353</YCoor>
+          <Twr>257.8
+122.5</Twr>
+          <TcnCh>019x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>108.5 (34)</Ils>
+          <Rwy>16/34</Rwy>
+          <Elv>102</Elv>
+          <GPSCoor>N36°57.87'
+E128°03.81'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>50</PK>
+          <ICAO></ICAO>
+          <Name>R103 (SOUTH KOREA)</Name>
+          <XCoor>823</XCoor>
+          <YCoor>1240</YCoor>
+          <Twr>236.6
+122.6</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>R200°</TcnRng>
+          <Ils>Dme07</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>135</Elv>
+          <GPSCoor>N37°28.59'
+E127°38.72'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>51</PK>
+          <ICAO></ICAO>
+          <Name>R107 (SOUTH KOREA)</Name>
+          <XCoor>790</XCoor>
+          <YCoor>1174</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>094X</TcnCh>
+          <TcnRng>R325°</TcnRng>
+          <Ils>Dme51</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>136</Elv>
+          <GPSCoor>N37°46.37'
+E127°28.93'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>52</PK>
+          <ICAO></ICAO>
+          <Name>R110 (SOUTH KOREA)</Name>
+          <XCoor>825</XCoor>
+          <YCoor>1381</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>019X</TcnCh>
+          <TcnRng>R245°</TcnRng>
+          <Ils>Dme21</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>68</Elv>
+          <GPSCoor>N36°49.25'
+E127°39.68'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>53</PK>
+          <ICAO></ICAO>
+          <Name>R113 (SOUTH KOREA)</Name>
+          <XCoor>850</XCoor>
+          <YCoor>1186</YCoor>
+          <Twr>236.6
+122.6</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>R030°</TcnRng>
+          <Ils>Dme10</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>171</Elv>
+          <GPSCoor>N37°43.13'
+E127°49.17'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>54</PK>
+          <ICAO></ICAO>
+          <Name>R217 (SOUTH KOREA)</Name>
+          <XCoor>934</XCoor>
+          <YCoor>1129</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>094X</TcnCh>
+          <TcnRng>R010°</TcnRng>
+          <Ils>Dme56</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>455</Elv>
+          <GPSCoor>N37°58.22'
+E128°18.86'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>55</PK>
+          <ICAO></ICAO>
+          <Name>R218 (SOUTH KOREA)</Name>
+          <XCoor>894</XCoor>
+          <YCoor>1111</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>094X</TcnCh>
+          <TcnRng>R360°</TcnRng>
+          <Ils>Dme61</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>236</Elv>
+          <GPSCoor>N38°03.61'
+E128°04.88'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>56</PK>
+          <ICAO></ICAO>
+          <Name>R222 (SOUTH KOREA)</Name>
+          <XCoor>897</XCoor>
+          <YCoor>1150</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>083X</TcnCh>
+          <TcnRng>R045°</TcnRng>
+          <Ils>Dme25</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>360</Elv>
+          <GPSCoor>N37°52.83'
+E128°06.19'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>57</PK>
+          <ICAO></ICAO>
+          <Name>R419 (SOUTH KOREA)</Name>
+          <XCoor>1096</XCoor>
+          <YCoor>1188</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>005X</TcnCh>
+          <TcnRng>R360°</TcnRng>
+          <Ils>Dme43</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>1063</Elv>
+          <GPSCoor>N37°42.06'
+E129°12.87'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>58</PK>
+          <ICAO></ICAO>
+          <Name>R505 (SOUTH KOREA)</Name>
+          <XCoor>951</XCoor>
+          <YCoor>1430</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>042X</TcnCh>
+          <TcnRng>R230°</TcnRng>
+          <Ils>Dme17</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>130</Elv>
+          <GPSCoor>N36°37.39'
+E128°19.25'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>59</PK>
+          <ICAO></ICAO>
+          <Name>R601 (SOUTH KOREA)</Name>
+          <XCoor>1151</XCoor>
+          <YCoor>1413</YCoor>
+          <Twr>306.8
+125.3</Twr>
+          <TcnCh>026X</TcnCh>
+          <TcnRng>R195°</TcnRng>
+          <Ils>Dme30</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>666</Elv>
+          <GPSCoor>N36°41.88'
+E129°26.52'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>60</PK>
+          <ICAO></ICAO>
+          <Name>R605 (SOUTH KOREA)</Name>
+          <XCoor>1160</XCoor>
+          <YCoor>1307</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>005X</TcnCh>
+          <TcnRng>R055°</TcnRng>
+          <Ils>Dme21</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>920</Elv>
+          <GPSCoor>N37°10.80'
+E129°31.92'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>61</PK>
+          <ICAO></ICAO>
+          <Name>Sachon (SOUTH KOREA)</Name>
+          <XCoor>1121</XCoor>
+          <YCoor>1760</YCoor>
+          <Twr>305.4
+130.2</Twr>
+          <TcnCh>037x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>111.5 (05L)
+108.1 (23R)</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>139</Elv>
+          <GPSCoor>N35°07.95'
+E129°09.96'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>62</PK>
+          <ICAO></ICAO>
+          <Name>Samjiyon (NORTH KOREA)</Name>
+          <XCoor>1195</XCoor>
+          <YCoor>251</YCoor>
+          <Twr>299.1
+131.8</Twr>
+          <TcnCh>050x</TcnCh>
+          <TcnRng>75</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>4478</Elv>
+          <GPSCoor>N41°55.00'
+E130°13.07'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>63</PK>
+          <ICAO></ICAO>
+          <Name>Sangwon HS (NORTH KOREA)</Name>
+          <XCoor>666</XCoor>
+          <YCoor>925</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>059X</TcnCh>
+          <TcnRng>R140°</TcnRng>
+          <Ils>Dme14</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>326</Elv>
+          <GPSCoor>N38°53.18'
+E126°50.17'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>64</PK>
+          <ICAO></ICAO>
+          <Name>Seosan (SOUTH KOREA)</Name>
+          <XCoor>774</XCoor>
+          <YCoor>1414</YCoor>
+          <Twr>353.1
+136.75</Twr>
+          <TcnCh>052x</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>111.5 (02R)</Ils>
+          <Rwy>02/20 L/R</Rwy>
+          <Elv>26</Elv>
+          <GPSCoor>N36°41.71'
+E127°19.74'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>65</PK>
+          <ICAO></ICAO>
+          <Name>Seoul (SOUTH KOREA)</Name>
+          <XCoor>904</XCoor>
+          <YCoor>1241</YCoor>
+          <Twr>237.1
+126.2</Twr>
+          <TcnCh>046x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>110.9 (19)</Ils>
+          <Rwy>19/01
+18/36</Rwy>
+          <Elv>258</Elv>
+          <GPSCoor>N37°26.97'
+E128°07.13'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>66</PK>
+          <ICAO></ICAO>
+          <Name>Shenyang (PEOPLE’s REPUBLIC of CHINA)</Name>
+          <XCoor>103</XCoor>
+          <YCoor>250</YCoor>
+          <Twr>395.5
+151.9</Twr>
+          <TcnCh>088X</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>254</Elv>
+          <GPSCoor>N41°55.75'
+E123°38.53'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>67</PK>
+          <ICAO></ICAO>
+          <Name>Singal (SOUTH KOREA)</Name>
+          <XCoor>910</XCoor>
+          <YCoor>1274</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>046X</TcnCh>
+          <TcnRng>R190°</TcnRng>
+          <Ils>Dme08</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>363</Elv>
+          <GPSCoor>N37°19.42'
+E128°07.97'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>68</PK>
+          <ICAO></ICAO>
+          <Name>Sokcho (SOUTH KOREA)</Name>
+          <XCoor>1254</XCoor>
+          <YCoor>1098</YCoor>
+          <Twr>236.6
+122.2</Twr>
+          <TcnCh>U.S.</TcnCh>
+          <TcnRng>_</TcnRng>
+          <Ils>U.S.</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>77</Elv>
+          <GPSCoor>N38°06.84'
+E130°09.07'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>69</PK>
+          <ICAO></ICAO>
+          <Name>Sonch'on SW (NORTH KOREA)</Name>
+          <XCoor>397</XCoor>
+          <YCoor>724</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>055X</TcnCh>
+          <TcnRng>R150°</TcnRng>
+          <Ils>Dme32</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>281</Elv>
+          <GPSCoor>N39°47.61'
+E125°19.20'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>70</PK>
+          <ICAO></ICAO>
+          <Name>Sondok (NORTH KOREA)</Name>
+          <XCoor>992</XCoor>
+          <YCoor>721</YCoor>
+          <Twr>343.8
+136.6</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R360°</TcnRng>
+          <Ils>Dme35</Ils>
+          <Rwy>02/20</Rwy>
+          <Elv>32</Elv>
+          <GPSCoor>N39°48.12'
+E128°47.39'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>71</PK>
+          <ICAO></ICAO>
+          <Name>Songwhan (SOUTH KOREA)</Name>
+          <XCoor>920</XCoor>
+          <YCoor>1366</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>019X</TcnCh>
+          <TcnRng>R125°</TcnRng>
+          <Ils>Dme06</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>191</Elv>
+          <GPSCoor>N36°54.64'
+E128°09.66'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>72</PK>
+          <ICAO></ICAO>
+          <Name>Sugam-Ni (NORTH KOREA)</Name>
+          <XCoor>1485</XCoor>
+          <YCoor>285</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>R095°</TcnRng>
+          <Ils>Dme79</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>110</Elv>
+          <GPSCoor>N41°46.15'
+E131°56.43'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>73</PK>
+          <ICAO></ICAO>
+          <Name>Sunan (NORTH KOREA)</Name>
+          <XCoor>582</XCoor>
+          <YCoor>839</YCoor>
+          <Twr>264.0
+133.0</Twr>
+          <TcnCh>051x</TcnCh>
+          <TcnRng>100</TcnRng>
+          <Ils>RWY18:109.9
+RWY34:110.3
+RWY36:109.5</Ils>
+          <Rwy>18/36
+16/34</Rwy>
+          <Elv>174</Elv>
+          <GPSCoor>N39°15.09'
+E126°21.82'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>74</PK>
+          <ICAO></ICAO>
+          <Name>Sunch'on (NORTH KOREA)</Name>
+          <XCoor>637</XCoor>
+          <YCoor>802</YCoor>
+          <Twr>253.1
+124.0</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R055°</TcnRng>
+          <Ils>Dme19</Ils>
+          <Rwy>16/34 L/R</Rwy>
+          <Elv>228</Elv>
+          <GPSCoor>N39°27.03'
+E126°42.25'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>75</PK>
+          <ICAO></ICAO>
+          <Name>Suwon (SOUTH KOREA)</Name>
+          <XCoor>880</XCoor>
+          <YCoor>1282</YCoor>
+          <Twr>366.0
+126.2</Twr>
+          <TcnCh>022x</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>108.5 (32L)</Ils>
+          <Rwy>14/32 L/R</Rwy>
+          <Elv>167</Elv>
+          <GPSCoor>N37°16.73'
+E127°57.15'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>76</PK>
+          <ICAO></ICAO>
+          <Name>Taebukpo-Ri (NORTH KOREA)</Name>
+          <XCoor>833</XCoor>
+          <YCoor>1043</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R130°</TcnRng>
+          <Ils>Dme88</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>458</Elv>
+          <GPSCoor>N38°21.39'
+E127°46.20'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>77</PK>
+          <ICAO></ICAO>
+          <Name>T'aech'on (NORTH KOREA)</Name>
+          <XCoor>542</XCoor>
+          <YCoor>684</YCoor>
+          <Twr>275.5
+119.02</Twr>
+          <TcnCh>051X</TcnCh>
+          <TcnRng>R345°</TcnRng>
+          <Ils>Dme43</Ils>
+          <Rwy>12/30</Rwy>
+          <Elv>213</Elv>
+          <GPSCoor>N39°57.84'
+E126°10.17'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>78</PK>
+          <ICAO></ICAO>
+          <Name>Taegu (SOUTH KOREA)</Name>
+          <XCoor>1246</XCoor>
+          <YCoor>1575</YCoor>
+          <Twr>365.0
+126.2</Twr>
+          <TcnCh>125x</TcnCh>
+          <TcnRng>25</TcnRng>
+          <Ils>108.7 (32)</Ils>
+          <Rwy>14/32</Rwy>
+          <Elv>353</Elv>
+          <GPSCoor>N35°58.41'
+E129°55.55'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>79</PK>
+          <ICAO></ICAO>
+          <Name>Taetan (NORTH KOREA)</Name>
+          <XCoor>500</XCoor>
+          <YCoor>1087</YCoor>
+          <Twr>288.7
+117.3</Twr>
+          <TcnCh>058X</TcnCh>
+          <TcnRng>R320°</TcnRng>
+          <Ils>Dme12</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>174</Elv>
+          <GPSCoor>N38°08.63'
+E125°50.96'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>80</PK>
+          <ICAO></ICAO>
+          <Name>Tangch'on HS (NORTH KOREA)</Name>
+          <XCoor>1290</XCoor>
+          <YCoor>583</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>050X</TcnCh>
+          <TcnRng>R165°</TcnRng>
+          <Ils>Dme95</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>196</Elv>
+          <GPSCoor>N40°25.33'
+E130°36.18'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>81</PK>
+          <ICAO></ICAO>
+          <Name>Toksan (NORTH KOREA)</Name>
+          <XCoor>1024</XCoor>
+          <YCoor>661</YCoor>
+          <Twr>324.8
+124.6</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R010°</TcnRng>
+          <Ils>Dme52</Ils>
+          <Rwy>02/20 L/R</Rwy>
+          <Elv>447</Elv>
+          <GPSCoor>N40°04.22'
+E129°00.13'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>82</PK>
+          <ICAO></ICAO>
+          <Name>Uiju (NORTH KOREA)</Name>
+          <XCoor>345</XCoor>
+          <YCoor>623</YCoor>
+          <Twr>372.0
+136.0</Twr>
+          <TcnCh>055x</TcnCh>
+          <TcnRng>75</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>05/23 L/R</Rwy>
+          <Elv>120</Elv>
+          <GPSCoor>N40°14.77'
+E125°01.46'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>83</PK>
+          <ICAO></ICAO>
+          <Name>Wonsan (NORTH KOREA)</Name>
+          <XCoor>995</XCoor>
+          <YCoor>852</YCoor>
+          <Twr>244.4
+123.8</Twr>
+          <TcnCh>054x</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>No ILS</Ils>
+          <Rwy>01/19
+15/33</Rwy>
+          <Elv>14</Elv>
+          <GPSCoor>N39°12.55'
+E128°45.76'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>84</PK>
+          <ICAO></ICAO>
+          <Name>Yechon (SOUTH KOREA)</Name>
+          <XCoor>1195</XCoor>
+          <YCoor>1412</YCoor>
+          <Twr>269.5
+124.35</Twr>
+          <TcnCh>026x</TcnCh>
+          <TcnRng>50</TcnRng>
+          <Ils>109.3 (26)</Ils>
+          <Rwy>08/26</Rwy>
+          <Elv>491</Elv>
+          <GPSCoor>N36°41.68'
+E129°40.93'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>85</PK>
+          <ICAO></ICAO>
+          <Name>Yonghung HS (NORTH KOREA)</Name>
+          <XCoor>952</XCoor>
+          <YCoor>778</YCoor>
+          <Twr>233.7
+127.7</Twr>
+          <TcnCh>054X</TcnCh>
+          <TcnRng>R330°</TcnRng>
+          <Ils>Dme23</Ils>
+          <Rwy>09/27</Rwy>
+          <Elv>22</Elv>
+          <GPSCoor>N39°33.06'
+E128°32.99'</GPSCoor>
+</AirportData>
+<AirportData>
+          <PK>86</PK>
+          <ICAO></ICAO>
+          <Name>Yongju (SOUTH KOREA)</Name>
+          <XCoor>1235</XCoor>
+          <YCoor>1377</YCoor>
+          <Twr>233.8
+122.8</Twr>
+          <TcnCh>026X</TcnCh>
+          <TcnRng>R050°</TcnRng>
+          <Ils>Dme15</Ils>
+          <Rwy>18/36</Rwy>
+          <Elv>589</Elv>
+          <GPSCoor>N36°51.40'
+E129°55.17'</GPSCoor>
+</AirportData>

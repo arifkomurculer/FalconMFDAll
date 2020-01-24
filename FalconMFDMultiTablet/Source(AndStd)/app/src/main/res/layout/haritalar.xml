@@ -1,0 +1,3166 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <AbsoluteLayout xmlns:android1="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pnlHaritalar"
+        android:layout_width="4096dp"
+        android:layout_height="4096dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:clearTaskOnLaunch="true"
+        android:finishOnTaskLaunch="true"
+        android:fitsSystemWindows="false" >
+
+        <AbsoluteLayout
+            android:id="@+id/pnlKoreaDis"
+            android:layout_width="4096dp"
+            android:layout_height="4096dp"
+            android:layout_x="0dp"
+            android:layout_y="0dp"
+            android:background="#aaffaa"
+            android:visibility="invisible" >
+
+            <RelativeLayout
+                android:id="@+id/pnlKoreaMap"
+                android:layout_width="4096dp"
+                android:layout_height="4096dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/imgKorea1"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgKorea2"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgKorea1"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgKorea3"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgKorea2"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgKorea4"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgKorea3"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgKorea5"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgKorea4"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgKorea6"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgKorea5"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgKorea7"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgKorea6"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgKorea8"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgKorea7"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgKorea9"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgKorea8"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgF16Korea"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="1000dp"
+                    android:layout_marginTop="1000dp"
+                    android:src="@drawable/f16_trans_renkli" />
+
+            </RelativeLayout>
+
+            <ImageButton
+                android:id="@+id/btnKorea_1"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_2"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_3"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_4"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_5"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_6"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_7"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_8"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_9"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_10"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_11"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnKorea_12"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_13"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_14"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_15"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_16"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_17"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_18"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_19"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_20"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_21"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnKorea_22"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_23"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_24"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_25"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_26"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_27"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_28"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_29"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_30"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_31"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnKorea_32"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_33"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_34"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_35"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_36"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_37"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_38"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_39"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_40"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_41"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnKorea_42"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_43"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_44"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_45"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_46"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_47"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_48"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_49"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_50"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_51"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnKorea_52"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_53"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_54"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_55"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_56"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_57"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_58"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_59"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            <ImageButton
+                android:id="@+id/btnKorea_60"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_61"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnKorea_62"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_63"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_64"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_65"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_66"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_67"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_68"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_69"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_70"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_71"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnKorea_72"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_73"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_74"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_75"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_76"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_77"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_78"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_79"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_80"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_81"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnKorea_82"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnKorea_83"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            
+            
+            
+            
+        </AbsoluteLayout>
+        
+        
+        
+        <AbsoluteLayout
+            android:id="@+id/pnlIsrailDis"
+            android:layout_width="4096dp"
+            android:layout_height="4096dp"
+            android:layout_x="0dp"
+            android:layout_y="0dp"
+            android:background="#aaffaa"
+            android:visibility="invisible" >
+
+            <RelativeLayout
+                android:id="@+id/pnlIsrailMap"
+                android:layout_width="4096dp"
+                android:layout_height="4096dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/imgIsrail1"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgIsrail2"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgIsrail1"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgIsrail3"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgIsrail2"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgIsrail4"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgIsrail3"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgIsrail5"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgIsrail4"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgIsrail6"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgIsrail5"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgIsrail7"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgIsrail6"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgIsrail8"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgIsrail7"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgIsrail9"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgIsrail8"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgF16Israil"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="100dp"
+                    android:layout_marginTop="100dp"
+                    android:src="@drawable/f16_trans_renkli" />
+
+            </RelativeLayout>
+
+            <ImageButton
+                android:id="@+id/btnIsrail_1"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_2"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_3"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_4"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_5"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_6"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_7"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_8"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_9"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_10"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_11"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_12"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_13"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_14"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_15"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_16"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_17"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_18"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_19"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_20"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_21"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_22"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_23"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_24"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_25"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_26"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_27"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_28"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_29"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_30"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_31"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_32"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_33"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_34"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_35"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_36"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_37"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_38"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_39"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_40"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_41"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_42"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_43"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_44"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_45"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_46"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_47"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_48"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_49"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_50"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_51"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_52"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_53"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_54"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_55"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_56"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_57"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_58"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_59"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            <ImageButton
+                android:id="@+id/btnIsrail_60"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_61"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_62"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_63"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_64"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_65"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_66"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_67"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_68"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_69"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_70"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_71"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_72"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_73"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_74"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_75"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_76"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_77"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_78"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_79"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_80"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_81"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_82"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_83"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_84"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_85"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_86"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_87"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_88"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_89"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_90"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_91"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnIsrail_92"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_93"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_94"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_95"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_96"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_97"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_98"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnIsrail_99"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+           
+            
+        </AbsoluteLayout>
+        
+        
+        <AbsoluteLayout
+            android:id="@+id/pnlBalkanDis"
+            android:layout_width="4096dp"
+            android:layout_height="4096dp"
+            android:layout_x="0dp"
+            android:layout_y="0dp"
+            android:background="#aaffaa"
+            android:visibility="invisible" >
+
+            <RelativeLayout
+                android:id="@+id/pnlBalkanMap"
+                android:layout_width="4096dp"
+                android:layout_height="4096dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/imgBalkan1"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgBalkan2"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgBalkan1"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgBalkan3"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgBalkan2"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgBalkan4"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgBalkan3"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgBalkan5"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgBalkan4"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgBalkan6"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgBalkan5"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgBalkan7"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgBalkan6"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgBalkan8"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgBalkan7"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgBalkan9"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgBalkan8"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgF16Balkan"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="100dp"
+                    android:layout_marginTop="100dp"
+                    android:src="@drawable/f16_trans_renkli" />
+
+            </RelativeLayout>
+
+            <ImageButton
+                android:id="@+id/btnBalkan_1"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_2"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_3"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_4"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_5"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_6"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_7"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_8"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_9"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_10"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_11"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_12"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_13"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_14"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_15"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_16"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_17"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_18"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_19"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_20"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_21"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_22"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_23"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_24"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_25"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_26"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_27"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_28"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_29"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_30"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_31"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_32"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_33"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_34"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_35"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_36"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_37"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_38"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_39"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_40"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_41"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_42"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_43"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_44"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_45"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_46"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_47"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_48"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_49"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_50"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_51"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_52"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_53"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_54"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_55"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_56"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_57"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_58"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_59"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            <ImageButton
+                android:id="@+id/btnBalkan_60"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_61"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_62"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_63"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_64"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_65"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_66"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_67"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_68"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_69"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_70"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_71"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_72"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_73"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_74"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_75"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_76"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_77"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_78"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_79"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_80"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_81"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_82"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_83"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_84"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_85"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_86"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_87"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_88"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_89"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_90"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_91"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_92"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_93"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_94"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_95"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_96"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_97"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_98"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_99"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_100"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_101"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnBalkan_102"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_103"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_104"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_105"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_106"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_107"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_108"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_109"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_110"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnBalkan_111"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            
+            
+            
+            
+            
+        </AbsoluteLayout>
+
+        
+        <AbsoluteLayout
+            android:id="@+id/pnlAegeanDis"
+            android:layout_width="4096dp"
+            android:layout_height="4096dp"
+            android:layout_x="0dp"
+            android:layout_y="0dp"
+            android:background="#aaffaa"
+            android:visibility="invisible" >
+
+            <RelativeLayout
+                android:id="@+id/pnlAegeanMap"
+                android:layout_width="4096dp"
+                android:layout_height="4096dp"
+                android:layout_x="0dp"
+                android:layout_y="0dp"
+                android:visibility="visible" >
+
+                <ImageView
+                    android:id="@+id/imgAegean1"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgAegean2"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgAegean1"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgAegean3"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgAegean2"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgAegean4"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgAegean3"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgAegean5"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgAegean4"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgAegean6"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgAegean5"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgAegean7"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgAegean6"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgAegean8"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgAegean7"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgAegean9"
+                    android:layout_width="4096dp"
+                    android:layout_height="468dp"
+                    android:layout_below="@+id/imgAegean8"
+                    android:src="@drawable/bos" />
+
+                <ImageView
+                    android:id="@+id/imgF16Aegean"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="1000dp"
+                    android:layout_marginTop="1000dp"
+                    android:src="@drawable/f16_trans_renkli" />
+
+            </RelativeLayout>
+
+            <ImageButton
+                android:id="@+id/btnAegean_1"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_2"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_3"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_4"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_5"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_6"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_7"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_8"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_9"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_10"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_11"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnAegean_12"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_13"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_14"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_15"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_16"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_17"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_18"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_19"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_20"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_21"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnAegean_22"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_23"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_24"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_25"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_26"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_27"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_28"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_29"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_30"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_31"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnAegean_32"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_33"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_34"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_35"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_36"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_37"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_38"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_39"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_40"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_41"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnAegean_42"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_43"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_44"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_45"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_46"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_47"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_48"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_49"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_50"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_51"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnAegean_52"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_53"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_54"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_55"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_56"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_57"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_58"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_59"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            <ImageButton
+                android:id="@+id/btnAegean_60"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_61"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnAegean_62"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_63"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_64"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_65"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_66"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_67"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_68"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_69"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_70"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_71"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnAegean_72"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_73"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_74"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_75"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_76"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_77"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_78"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_79"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_80"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+            
+            <ImageButton
+                android:id="@+id/btnAegean_81"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+
+            <ImageButton
+                android:id="@+id/btnAegean_82"
+                style="@drawable/hava_alani"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/hava_alani" />
+        </AbsoluteLayout>
+        
+        <EditText
+        android:id="@+id/editText1"
+        android:layout_width="92dp"
+        android:layout_height="wrap_content"
+        android:layout_x="143dp"
+        android:layout_y="0dp"
+        android:ems="10"
+        android:inputType="numberSigned"
+        android:text="0"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/EditText2"
+        android:layout_width="92dp"
+        android:layout_height="wrap_content"
+        android:layout_x="143dp"
+        android:layout_y="50dp"
+        android:ems="10"
+        android:inputType="numberSigned"
+        android:text="0"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/EditText3"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="143dp"
+        android:layout_y="100dp"
+        android:ems="10"
+        android:inputType="numberSigned"
+        android:text="0"
+        android:visibility="invisible" />
+    
+        <AbsoluteLayout
+            android:id="@+id/pnlAirBaseInfo"
+            android:layout_width="700dp"
+            android:layout_height="250dp"
+            android:layout_x="200dp"
+            android:layout_y="30dp"
+            android:background="@drawable/airpoert_info"
+            android:visibility="invisible" >
+
+         <TextView
+             android:id="@+id/lblAirBase"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="10dp"
+             android:layout_y="8dp"
+             android:text="Air Base"
+             android:textAppearance="?android:attr/textAppearanceLarge"
+             android:textColorHint="@android:color/black"
+             android:textSize="25sp" />
+
+         <TextView
+             android:id="@+id/lblTwr"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="10dp"
+             android:layout_y="110dp"
+             android:text="257.8 / 118.2"
+             android:textAppearance="?android:attr/textAppearanceSmall"
+             android:textColor="@android:color/black"
+             android:textColorHint="@android:color/black"
+             android:textSize="16dp" />
+
+         <TextView
+             android:id="@+id/lblTcnCh"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="140dp"
+             android:layout_y="110dp"
+             android:text="-"
+             android:textAppearance="?android:attr/textAppearanceSmall"
+             android:textColor="@android:color/black"
+             android:textColorHint="@android:color/black"
+             android:textSize="16dp" />
+
+         <TextView
+             android:id="@+id/lblTcnRng"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="200dp"
+             android:layout_y="110dp"
+             android:text="-"
+             android:textAppearance="?android:attr/textAppearanceSmall"
+             android:textColor="@android:color/black"
+             android:textColorHint="@android:color/black"
+             android:textSize="16dp" />
+
+         <TextView
+             android:id="@+id/lblILS"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="270dp"
+             android:layout_y="110dp"
+             android:textAppearance="?android:attr/textAppearanceSmall"
+             android:textColor="@android:color/black"
+             android:textColorHint="@android:color/black"
+             android:textSize="16dp" />
+
+         <TextView
+             android:id="@+id/lblRWY"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="395dp"
+             android:layout_y="110dp"
+             android:textAppearance="?android:attr/textAppearanceSmall"
+             android:textColor="@android:color/black"
+             android:textColorHint="@android:color/black"
+             android:textSize="16dp" />
+
+         <TextView
+             android:id="@+id/lblElev"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="510dp"
+             android:layout_y="110dp"
+             android:textAppearance="?android:attr/textAppearanceSmall"
+             android:textColor="@android:color/black"
+             android:textColorHint="@android:color/black"
+             android:textSize="16dp" />
+
+         <TextView
+             android:id="@+id/lblCoor"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="580dp"
+             android:layout_y="110dp"
+             android:text="N41°07.44&apos;"
+             android:textAppearance="?android:attr/textAppearanceSmall"
+             android:textColor="@android:color/black"
+             android:textColorHint="@android:color/black"
+             android:textSize="16dp" />
+
+         <Button
+             android:id="@+id/btnAirBaseClose"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_x="300dp"
+             android:layout_y="200dp"
+             android:text="Close" />
+        
+    </AbsoluteLayout>
+        
+        
+        </AbsoluteLayout>    

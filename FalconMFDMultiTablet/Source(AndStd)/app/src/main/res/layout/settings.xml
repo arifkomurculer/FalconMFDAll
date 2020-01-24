@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="400dp"
+    android:layout_height="500dp"
+    android:background="@drawable/settings_bg" xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <ImageView
+        android:id="@+id/imgBaslik"
+        android:layout_width="500dp"
+        android:layout_height="43dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/settings_bolme_server" />
+    
+    
+    <TextView
+         android:id="@+id/lblServerIP"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_below="@+id/imgBaslik"
+         android:layout_marginLeft="20dp"
+         android:text="Server IP"
+         android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <EditText
+        android:id="@+id/txtServerIP"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_alignBaseline="@+id/lblServerIP"
+        android:layout_alignRight="@+id/imgBaslik"
+        android:layout_alignTop="@+id/lblServerIP"
+        android:layout_marginLeft="140dp"
+        android:layout_marginRight="20dp"
+        android:layout_toRightOf="@+id/lblServerIP"
+        android:ems="10"
+        android:text="192.168.0.31"
+        android:textSize="14dp" >
+
+        <requestFocus />
+    </EditText>
+    
+    
+     <TextView
+         android:id="@+id/lblServerListenPort"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/lblServerIP"
+         android:layout_below="@+id/txtServerIP"
+         android:text="Listen Port"
+         android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+     <EditText
+         android:id="@+id/txtServerPort"
+         android:layout_width="200dp"
+         android:layout_height="35dp"
+         android:layout_alignBaseline="@+id/lblServerListenPort"
+         android:layout_alignLeft="@+id/txtServerIP"
+         android:layout_alignRight="@+id/txtServerIP"
+         android:layout_below="@+id/txtServerIP"
+         android:layout_marginRight="60dp"
+         android:ems="10"
+         android:inputType="number"
+         android:text="21111"
+         android:textSize="14dp" >
+
+    </EditText>
+    
+    <ImageView
+        android:id="@+id/imgClient"
+        android:layout_width="500dp"
+        android:layout_height="43dp"
+        android:layout_alignLeft="@+id/imgBaslik"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/imgBaslik"
+        android:layout_below="@+id/lblServerListenPort"
+        android:layout_marginTop="25dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/settings_bolme_android" />
+
+    <TextView
+        android:id="@+id/lblLMFDPort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/lblAndroidIP"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Left MFD Port"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <EditText
+        android:id="@+id/txtLMFDPort"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_alignBaseline="@+id/lblLMFDPort"
+        android:layout_alignLeft="@+id/txtServerIP"
+        android:layout_alignRight="@+id/txtServerPort"
+        android:layout_below="@+id/imgClient"
+        android:ems="10"
+        android:inputType="number"
+        android:text="21112"
+        android:textSize="14dp" >
+
+    </EditText>
+    
+    
+
+    <TextView
+        android:id="@+id/lblRMFDPort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/lblLMFDPort"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Right MFD Port"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <EditText
+        android:id="@+id/txtRMFDPort"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_alignBaseline="@+id/lblRMFDPort"
+        android:layout_alignLeft="@+id/txtServerIP"
+        android:layout_alignRight="@+id/txtServerPort"
+        android:layout_below="@+id/txtLMFDPort"
+        android:ems="10"
+        android:inputType="number"
+        android:text="21113"
+        android:textSize="14dp" >
+
+    </EditText>
+    
+
+    <TextView
+        android:id="@+id/lblDEDPort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/lblRMFDPort"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="DED Port"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <EditText
+        android:id="@+id/txtDEDPort"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_alignBaseline="@+id/lblDEDPort"
+        android:layout_alignLeft="@+id/txtServerIP"
+        android:layout_alignRight="@+id/txtServerPort"
+        android:layout_below="@+id/txtRMFDPort"
+        android:ems="10"
+        android:inputType="number"
+        android:text="21114"
+        android:textSize="14dp" >
+
+    </EditText>
+
+    <TextView
+        android:id="@+id/lblMisSchPort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/lblServerIP"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/lblDEDPort"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Mission Schedule Port"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+     <EditText
+         android:id="@+id/txtMisSchPort"
+         android:layout_width="200dp"
+         android:layout_height="35dp"
+         android:layout_alignBaseline="@+id/lblMisSchPort"
+         android:layout_alignLeft="@+id/txtServerIP"
+         android:layout_alignRight="@+id/txtServerPort"
+         android:layout_below="@+id/txtDEDPort"
+         android:ems="10"
+         android:inputType="number"
+         android:text="21115"
+         android:textSize="14dp" >
+
+    </EditText>
+
+     <TextView
+         android:id="@+id/lblRWRPort"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/lblServerIP"
+         android:layout_alignParentLeft="true"
+         android:layout_below="@+id/lblMisSchPort"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         android:text="RWR Port"
+         android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+     <EditText
+         android:id="@+id/txtRWRPort"
+         android:layout_width="200dp"
+         android:layout_height="35dp"
+         android:layout_alignBaseline="@+id/lblRWRPort"
+         android:layout_alignLeft="@+id/txtServerIP"
+         android:layout_alignRight="@+id/txtServerPort"
+         android:layout_below="@+id/txtMisSchPort"
+         android:ems="10"
+         android:inputType="number"
+         android:text="21116"
+         android:textSize="14dp" >
+
+    </EditText>
+    
+          <TextView
+              android:id="@+id/lblRefreshRate"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignLeft="@+id/lblServerIP"
+              android:layout_alignParentLeft="true"
+              android:layout_below="@+id/lblRWRPort"
+              android:layout_marginLeft="20dp"
+              android:layout_marginTop="10dp"
+              android:text="Refresh Time"
+              android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+     <EditText
+         android:id="@+id/txtRefreshRate"
+         android:layout_width="200dp"
+         android:layout_height="35dp"
+         android:layout_alignBaseline="@+id/lblRefreshRate"
+         android:layout_alignLeft="@+id/txtServerIP"
+         android:layout_alignRight="@+id/txtServerPort"
+         android:layout_below="@+id/txtRWRPort"
+         android:ems="10"
+         android:inputType="number"
+         android:text="100"
+         android:textSize="14dp" >
+
+    </EditText>
+     
+     <Button
+         android:id="@+id/btnSettingSave"
+         android:layout_width="100dp"
+         android:layout_height="35dp"
+         android:layout_alignParentBottom="true"
+         android:layout_centerHorizontal="true"
+         android:layout_marginBottom="10dp"
+         android:text="Save" />
+
+     <ImageButton
+         android:id="@+id/BtnSettingsExit"
+         android:layout_width="35dp"
+         android:layout_height="35dp"
+         android:layout_alignParentRight="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginRight="0dp"
+         android:layout_marginTop="3dp"
+         android:background="@drawable/exit"
+         android:src="@drawable/exit" />
+
+     <TextView
+         android:id="@+id/lblAndroidIP"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_below="@+id/imgClient"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="10dp"
+         android:text="Android IP Adress"
+         android:textAppearance="?android:attr/textAppearanceLarge" />
+
+     <TextView
+         android:id="@+id/txtAndroidIP"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignLeft="@+id/txtServerPort"
+         android:layout_alignRight="@+id/txtServerIP"
+         android:layout_alignTop="@+id/lblAndroidIP"
+         android:layout_toRightOf="@+id/lblAndroidIP"
+         android:text="192.168.0.97"
+         android:textAppearance="?android:attr/textAppearanceLarge"
+         android:textColor="#FFFF00" />
+
+</RelativeLayout>

@@ -1,0 +1,5 @@
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4SharedMem\bin\x86\Debug\F4SharedMem.dll
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4SharedMem\bin\x86\Debug\F4SharedMem.pdb
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4SharedMem\obj\x86\Debug\F4SharedMem.csproj.CoreCompileInputs.cache
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4SharedMem\obj\x86\Debug\F4SharedMem.dll
+D:\Codebase\FalconMFDAll\FalconMFDServer\FalconMFDServer\Dll\F4SharedMem\obj\x86\Debug\F4SharedMem.pdb

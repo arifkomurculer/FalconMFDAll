@@ -1,0 +1,76 @@
+Sub Macro1()
+
+    Dim vrStr() As String
+    Dim vrStr2 As String
+    Dim vrCol As Integer
+    vrCol = 3
+    Dim vrMaxRow As Integer
+    vrMaxRow = 50
+    
+    For m = 2 To vrMaxRow
+        Cells(m, vrCol) = Replace(Cells(m, vrCol), "        ", " ")
+    Next
+    
+    For m = 2 To vrMaxRow
+        Cells(m, vrCol) = Replace(Cells(m, vrCol), "       ", " ")
+    Next
+    
+    For m = 2 To vrMaxRow
+        Cells(m, vrCol) = Replace(Cells(m, vrCol), "      ", " ")
+    Next
+    
+    For m = 2 To vrMaxRow
+        Cells(m, vrCol) = Replace(Cells(m, vrCol), "     ", " ")
+    Next
+    
+    For m = 2 To vrMaxRow
+        Cells(m, vrCol) = Replace(Cells(m, vrCol), "    ", " ")
+    Next
+    
+    For m = 2 To vrMaxRow
+        Cells(m, vrCol) = Replace(Cells(m, vrCol), "   ", " ")
+    Next
+    
+    For m = 2 To vrMaxRow
+        Cells(m, vrCol) = Replace(Cells(m, vrCol), "  ", " ")
+    Next
+    
+    For m = 2 To vrMaxRow
+    
+        Cells(m, 2) = Replace(Cells(m, 2), Chr(10), "")
+        Cells(m, 3) = Replace(Cells(m, 3), Chr(10), "")
+        Cells(m, 4) = Replace(Cells(m, 4), Chr(10), "")
+        Cells(m, 5) = Replace(Cells(m, 5), Chr(10), "")
+        Cells(m, 6) = Replace(Cells(m, 6), Chr(10), "")
+        Cells(m, 7) = Replace(Cells(m, 7), Chr(10), "")
+        Cells(m, 8) = Replace(Cells(m, 8), Chr(10), "")
+        
+        If Mid(Cells(m, vrCol), 1, 1) = "R" Then
+            vrStr = Split(Cells(m, vrCol), " ")
+            Cells(m, 4) = vrStr(0) 'Rng
+            Cells(m, 3) = vrStr(1) 'Ch
+            Cells(m, 5) = vrStr(2) 'ILS
+        ElseIf InStr(1, Cells(m, vrCol), " ") Then
+            vrStr = Split(Cells(m, vrCol), " ")
+            vrStr2 = Cells(m, vrCol)
+            
+            Cells(m, 4) = vrStr(1) 'Rng
+            vrStr2 = Replace(vrStr2, vrStr(1), "")
+            
+            Cells(m, 3) = vrStr(0) 'Ch
+            vrStr2 = Replace(vrStr2, vrStr(0), "")
+            
+            Cells(m, 5) = Replace(Trim(vrStr2), ") ", ")-") 'ILS
+                        
+            
+        End If
+        
+        Cells(m, 8) = Replace(Cells(m, 8), "' E", "'-E")
+        Cells(m, 8) = Replace(Cells(m, 8), " E", "'-E")
+        
+    Next
+
+
+End Sub
+
+
